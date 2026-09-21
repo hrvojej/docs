@@ -2,7 +2,7 @@
 
 **Program:** KONČAR Strategic Technology & New Business Research  
 **As-of:** 2026-09-21  
-**Status:** foundation + Group/capability baseline + E001–E019 + B001–B005 + O001–O005 candidates
+**Status:** foundation + Group/capability baseline + E001–E019 + B001–B006 + O001–O006 candidates; first benchmark wave complete
 
 ## Objective
 
@@ -151,7 +151,38 @@ This produced [O005](opportunities/O005_rail_fleet_battery_intelligence_service.
 
 Important boundary: the measurement train does not automatically give KONČAR infrastructure-measurement IP. MERMEC installed proprietary measurement systems, so data/algorithm rights must be validated separately.
 
-### 11. Strategic constraint to keep in mind
+### 11. Sixth outside-in result — renewable / BESS intelligence and optimization
+[B006](benchmarks/B006_renewable_bess_asset_optimization_2026-09-21.md) confirms mature commercial categories for renewable inspection/APM, BESS/hybrid EMS and portfolio optimization.
+
+KONČAR-specific evidence is again stronger than a greenfield assumption:
+- KONBAT already documents BESS + EMS, BMS/PCS integration, configurable control algorithms, remote SCADA, diagnostics and predictive-maintenance positioning;
+- Vis provides a real solar+BESS/microgrid reference;
+- Pometeno Brdo and Vis are remotely managed from KONČAR's Renewable Energy Management Center in Zagreb;
+- Renewable Energy Sources owns/develops/maintains renewable assets;
+- Digital/NEOS provide data, forecasting and AI adjacency.
+
+Therefore the likely opportunity is not a new standalone BESS or SCADA product. It is to move from site-level project/control capability to **vendor-agnostic portfolio APM + inspection intelligence + battery health + forecasting + hybrid dispatch + recurring remote O&M/service**.
+
+This produced [O006](opportunities/O006_renewable_bess_intelligence_optimization_service.md).
+
+Immediate organizational question: KONBAT is still documented under former INEM lineage; current IP/team/product ownership after the 2026 restructuring must be resolved before assigning O006 ownership.
+
+### 12. Cross-opportunity pattern after first six benchmarks
+Across B001–B006, the recurring strategic pattern is:
+
+**KONČAR often already owns the hard domain/hardware/control capability. The missing value layer is repeatedly productization across subsidiaries: fleet/portfolio software, asset history, analytics/forecasting, workflow, expert remote operations and recurring SLA/service.**
+
+A second repeated pattern:
+- do not build commodity robot/drone/ROV hardware first;
+- own the domain data/workflow/service layer;
+- partner for capture/robotic platforms until a repeated high-value hardware gap is proven.
+
+A third pattern:
+- O004 shows that some of the best opportunities may be **internal operating leverage**, not new external products.
+
+These patterns are synthesized formally in R004.
+
+### 13. Strategic constraint to keep in mind
 2026 corporate reporting points to **production capacity and availability of qualified specialist personnel** as important growth constraints. New opportunities should therefore be evaluated not only on revenue potential but also on whether they:
 - increase lifecycle/software/service revenue;
 - leverage installed base and existing channels;
@@ -175,6 +206,7 @@ Important boundary: the measurement train does not automatically give KONČAR in
 - **B003** — [Hydropower Underwater Inspection, ROV & Robotic NDT](benchmarks/B003_hydro_underwater_inspection_2026-09-21.md)
 - **B004** — [Adaptive Robotic Welding, Automated NDT & Smart Heavy Fabrication](benchmarks/B004_adaptive_welding_automated_ndt_smart_fabrication_2026-09-21.md)
 - **B005** — [Rail Fleet, Battery & Infrastructure Intelligence](benchmarks/B005_rail_fleet_battery_infrastructure_intelligence_2026-09-21.md)
+- **B006** — [Renewable O&M, Inspection, Forecasting & BESS Optimization](benchmarks/B006_renewable_bess_asset_optimization_2026-09-21.md)
 
 ### Opportunity candidates
 - **O001** — [KONČAR Transformer Intelligence & Lifecycle Service](opportunities/O001_transformer_intelligence_lifecycle_service.md)
@@ -182,6 +214,7 @@ Important boundary: the measurement train does not automatically give KONČAR in
 - **O003** — [KONČAR Hydro Underwater Inspection & Lifecycle Service](opportunities/O003_hydro_underwater_inspection_lifecycle_service.md)
 - **O004** — [KONČAR Adaptive Heavy Fabrication & Digital Quality Program](opportunities/O004_adaptive_heavy_fabrication_program.md)
 - **O005** — [KONČAR Rail Fleet & Battery Intelligence Lifecycle Service](opportunities/O005_rail_fleet_battery_intelligence_service.md)
+- **O006** — [KONČAR Renewable & BESS Intelligence / Optimization Lifecycle Service](opportunities/O006_renewable_bess_intelligence_optimization_service.md)
 
 ### Complete registry
 - [MASTER_INDEX.md](MASTER_INDEX.md)
@@ -193,21 +226,20 @@ Important boundary: the measurement train does not automatically give KONČAR in
 - No market-size or margin claim is considered validated yet.
 - Detailed current ownership of some indirect subsidiaries after the summer-2026 mergers still requires registry-level reconciliation.
 - E001–E019 are **baseline dossiers**, not exhaustive deep dives: team size, IP/patents, installed-base data, exact software stacks, customer references, economics and current internal organization still need deeper validation where relevant.
-- B001–B005 are complete; renewable O&M/BESS benchmark remains pending.
-- O001–O005 are candidate theses/programs, not validated business cases/ROI cases. Customer willingness-to-pay, pricing, internal ownership, service economics and pilot assets still require validation.
+- B001–B006 are complete; the first planned outside-in benchmark wave is complete.
+- O001–O006 are candidate theses/programs, not validated business cases/ROI cases. Customer willingness-to-pay, pricing, internal ownership, service economics and pilot assets still require validation.
 
 ## Next research sequence
 
 1. Deepen the highest-leverage E### dossiers with patents, projects, deployed products, customers, team/stack and installed-base evidence.
 2. Resolve the remaining indirect-ownership/legal-lineage questions in R001.
-3. Continue **B### outside-in commercial benchmarks**:
-   - ✅ B001 equipment intelligence / predictive lifecycle service;
-   - ✅ B002 autonomous grid/substation inspection;
-   - ✅ B003 hydro / underwater inspection and maintenance;
-   - ✅ B004 industrial CV / robotic NDT / smart manufacturing;
-   - ✅ B005 rail/battery/fleet/measurement intelligence;
-   - next: renewable O&M / inspection / forecasting / BESS optimization.
-4. Validate O001–O003 commercially, O004 through factory bottleneck/OEE/ROI data, and O005 by deep-diving the centralized coordination platform/BMS/data rights.
+3. ✅ First outside-in benchmark wave B001–B006 complete.
+4. Move into **validation and prioritization**:
+   - O001–O003: buyers, pricing, pilot economics;
+   - O004: factory bottleneck/OEE/ROI;
+   - O005: centralized platform, BMS/data rights, service economics;
+   - O006: KONBAT lineage, portfolio architecture, owned-asset pilot.
+5. Build cross-opportunity common-platform architecture only after domain requirements are validated.
 5. Generate further O### theses only where market evidence and internal capability intersect.
 6. Perform stack-level gap analysis + build/partner/acquire.
 7. Validate economics and pilot paths.

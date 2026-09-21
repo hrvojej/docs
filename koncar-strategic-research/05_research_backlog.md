@@ -73,7 +73,7 @@ Each B### must include:
 - clear mapping back to E### internal capabilities.
 
 First benchmark families:
-1. ⬜ equipment intelligence / predictive lifecycle service
+1. ✅ B001 equipment intelligence / predictive lifecycle service
 2. ⬜ autonomous grid/substation inspection
 3. ⬜ hydro / underwater inspection and maintenance
 4. ⬜ industrial computer vision / robotic NDT / smart manufacturing
@@ -81,7 +81,9 @@ First benchmark families:
 6. ⬜ renewable O&M / autonomous inspection / forecasting / BESS optimization
 
 ## Workstream 5 — Opportunity thesis generation
-⬜ Create O### only after capability + external commercial evidence intersect.
+- ✅ O001 Transformer Intelligence & Lifecycle Service created from B001 + internal capability evidence
+- 🔄 O001 requires customer/economics/pilot validation before E5
+- ⬜ Create additional O### only after capability + external commercial evidence intersect.
 
 Each O### must define:
 - buyer / job-to-be-done;
@@ -95,7 +97,14 @@ Each O### must define:
 - pilot path.
 
 ## Workstream 6 — Gap analysis
-For each shortlisted O###:
+For O001:
+- ✅ initial stack map
+- ✅ initial KONČAR capability owners
+- ✅ initial G0–G5 gap map
+- ✅ initial build/partner/acquire view: no acquisition required for MVP on current evidence
+- 🔄 pilot design / exact asset selection pending
+
+For future O###:
 - ⬜ map complete stack
 - ⬜ assign KONČAR capability owner for each layer
 - ⬜ G0–G5 gaps
@@ -133,8 +142,8 @@ No customer-validation result is considered complete until evidence is captured 
 - ✅ initial capability atlas
 - ✅ E001–E019 baseline dossiers
 - ⬜ registry-grade ownership appendix
-- ⬜ global benchmark atlas
-- ⬜ opportunity cards
+- 🔄 global benchmark atlas — B001 complete, remaining families pending
+- 🔄 opportunity cards — O001 candidate created
 - ⬜ gap matrices
 - ⬜ pilot shortlist
 - ⬜ build/partner/acquire recommendations

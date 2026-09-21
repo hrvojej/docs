@@ -1,44 +1,48 @@
 # KONČAR strategic technology & new business research
 
-**Cilj:** sustavno identificirati gdje KONČAR Grupa može razviti nove profitabilne proizvode, usluge i poslovne modele koristeći postojeće industrijske, inženjerske, digitalne i R&D kapacitete Grupe — uz benchmark stvarno komercijaliziranih globalnih rješenja i tehnologija koje su dovoljno zrele za industrijsku primjenu.
+Central research workspace for identifying new profitable products, services and business models for KONČAR Group by combining **real internal capabilities** with **externally validated commercial technology trends**.
 
-Ovo nije research samo o ROV-ovima ili AI-u. ROV/robotika/autonomija su jedna opportunity family među više njih.
+This is broader than AI, ROVs or robotics.
 
-## Glavna research pitanja
+## Navigation
 
-1. Koje pravne entitete, poslovne jedinice, tehnologije, ljude, proizvodne kapacitete, IP, podatke, reference i kupce KONČAR već ima?
-2. Koji se proizvodi i poslovni modeli globalno već uspješno komercijaliziraju u susjednim industrijama?
-3. Koje od tih prilika imaju visok capability adjacency za KONČAR?
-4. Što nedostaje za ulazak: tehnologija, software, senzori, certifikacija, ljudi, kanal prodaje, servisna mreža, partnerstvo ili akvizicija?
-5. Može li KONČAR napraviti diferenciran proizvod, a ne samo integrirati tuđu tehnologiju?
-6. Koliki su potencijalno tržište, marža, vrijeme do MVP-a/pilota i CAPEX?
-7. Koja društva Grupe trebaju zajedno sudjelovati?
-8. Je li bolji build / partner / acquire pristup?
+### Start a new chat
+Read **[CURRENT_CONTEXT.md](CURRENT_CONTEXT.md)** first.
 
-## Struktura
+### Find everything
+Use **[MASTER_INDEX.md](MASTER_INDEX.md)** — canonical registry of every research artifact.
 
-- [00_methodology.md](00_methodology.md) — metodologija, evidence level i scoring
-- [01_group_ownership_map.md](01_group_ownership_map.md) — vlasnička mapa Grupe i statusne promjene
-- [02_capability_map.md](02_capability_map.md) — capability taxonomy i matrica društava
-- [03_global_opportunity_landscape.md](03_global_opportunity_landscape.md) — globalne tehnološke i komercijalne opportunity families
-- [04_gap_analysis.md](04_gap_analysis.md) — način usporedbe opportunity ↔ KONČAR capability
-- [05_research_backlog.md](05_research_backlog.md) — detaljan backlog po workstreamovima
-- [sources/source_register.md](sources/source_register.md) — izvori i datum provjere
+### Browse by type
+- [Research studies](research/README.md)
+- [Company / capability dossiers](entities/README.md)
+- [Session capsules](sessions/README.md)
+- [Source register](sources/source_register.md)
 
-## Obavezna pravila za svaki artefakt
+## Standing maps / methods
+- [00_methodology.md](00_methodology.md)
+- [01_group_ownership_map.md](01_group_ownership_map.md)
+- [02_capability_map.md](02_capability_map.md)
+- [03_global_opportunity_landscape.md](03_global_opportunity_landscape.md)
+- [04_gap_analysis.md](04_gap_analysis.md)
+- [05_research_backlog.md](05_research_backlog.md)
 
-Svaki research dokument mora sadržavati:
-- **As-of date**
-- **scope**
-- **verified facts**
-- **inference / hypothesis** odvojeno od činjenica
-- **sources**
-- **confidence / evidence level**
-- **open questions**
-- **next validation step**
+## Research contract
 
-Ne smije se zaključivati da je opportunity atraktivan samo zato što KONČAR tehnički može nešto izvesti. Potrebna je provjera kupca, tržišta, konkurencije, ekonomike i defensibilityja.
+Every meaningful output must be persisted and indexed. Each evidence-based artifact records:
+- as-of date;
+- scope;
+- verified facts;
+- inference/hypothesis separately;
+- sources;
+- confidence/evidence level;
+- open questions;
+- next validation step.
 
-## Status
+No opportunity becomes a recommendation merely because KONČAR can technically build it. Market pull, buyer, competition, economics, product boundary, defensibility, certification, delivery model and time-to-market must also be validated.
 
-Program inicijaliziran 2026-09-21. Vlasnička struktura i nazivi društava su tijekom 2026. aktivno restrukturirani, zato se ownership mapa vodi vremenski označeno.
+## Current state — 2026-09-21
+- R001–R003 baselines complete.
+- E001–E019 entity/capability baseline dossiers created.
+- Direct Group perimeter reconciled to 16 current subsidiaries + KPT affiliate, with several post-merger indirect ownership questions still open.
+- In-house AI/data capability confirmed across Digital, Institute and NEOS lineage.
+- Next phase: deepen entity dossiers and launch outside-in B### commercial benchmarks.

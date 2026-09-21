@@ -2,7 +2,7 @@
 
 **Program:** KONČAR Strategic Technology & New Business Research  
 **As-of:** 2026-09-21  
-**Status:** foundation + Group/capability baseline + E001–E019 entity baseline complete
+**Status:** foundation + Group/capability baseline + E001–E019 + B001 + O001 candidate complete
 
 ## Objective
 
@@ -60,7 +60,24 @@ Implication: future opportunities should test how these capabilities can be atta
 - D&ST / KPT / Generators & Motors / Switchgear / Instrument Transformers: large equipment domains with lifecycle/monitoring adjacency.
 - Hydro Turbine / Renewables: direct operating/service environments relevant to autonomous inspection, predictive O&M and remote operations research.
 
-### 6. Strategic constraint to keep in mind
+### 6. First outside-in result — transformer intelligence
+[B001](benchmarks/B001_transformer_asset_intelligence_2026-09-21.md) establishes transformer asset intelligence/predictive lifecycle services as a mature E3 commercial category.
+
+Key market pattern:
+- monitoring hardware is increasingly only the entry layer;
+- leading vendors combine sensors/edge + fleet APM + remote experts + multi-year SLA/performance contracts;
+- 2026 Siemens Energy–Camlin transaction is a major validation signal for grid monitoring/analytics/asset-digitalization value.
+
+Important KONČAR finding:
+- Institute TMS is already vendor-independent, retrofit-capable and internationally deployed;
+- it already includes condition models, remote access, reporting and condition-based-maintenance functions;
+- Institute reporting cites 780 delivered online monitoring systems in 64 countries and >60,000 MVA monitored by TMS.
+
+Therefore the first identified gap is more likely **productization/servitization** than core monitoring technology.
+
+This produced [O001 — KONČAR Transformer Intelligence & Lifecycle Service](opportunities/O001_transformer_intelligence_lifecycle_service.md), currently market E3 / KONČAR fit E4 / commercial E5 pending.
+
+### 7. Strategic constraint to keep in mind
 2026 corporate reporting points to **production capacity and availability of qualified specialist personnel** as important growth constraints. New opportunities should therefore be evaluated not only on revenue potential but also on whether they:
 - increase lifecycle/software/service revenue;
 - leverage installed base and existing channels;
@@ -78,6 +95,12 @@ Implication: future opportunities should test how these capabilities can be atta
 - **E001–E019 baseline v1** exist for all current direct subsidiaries, KPT affiliate and key capability-lineage nodes.
 - Browse: [entities/README.md](entities/README.md)
 
+### External benchmark
+- **B001** — [Transformer Asset Intelligence & Predictive Lifecycle Services](benchmarks/B001_transformer_asset_intelligence_2026-09-21.md)
+
+### Opportunity candidate
+- **O001** — [KONČAR Transformer Intelligence & Lifecycle Service](opportunities/O001_transformer_intelligence_lifecycle_service.md)
+
 ### Complete registry
 - [MASTER_INDEX.md](MASTER_INDEX.md)
 
@@ -88,22 +111,24 @@ Implication: future opportunities should test how these capabilities can be atta
 - No market-size or margin claim is considered validated yet.
 - Detailed current ownership of some indirect subsidiaries after the summer-2026 mergers still requires registry-level reconciliation.
 - E001–E019 are **baseline dossiers**, not exhaustive deep dives: team size, IP/patents, installed-base data, exact software stacks, customer references, economics and current internal organization still need deeper validation where relevant.
-- External B### commercial benchmarks have not yet been completed.
+- Only B001 has been completed so far; the broader external benchmark atlas remains incomplete.
+- O001 is a candidate thesis, not yet a validated business case; pricing, customer willingness-to-pay, internal ownership, service economics and pilot assets still require validation.
 
 ## Next research sequence
 
 1. Deepen the highest-leverage E### dossiers with patents, projects, deployed products, customers, team/stack and installed-base evidence.
 2. Resolve the remaining indirect-ownership/legal-lineage questions in R001.
-3. Launch **B### outside-in commercial benchmarks** across the strongest capability intersections:
-   - equipment intelligence / predictive lifecycle service;
-   - autonomous grid/substation inspection;
+3. Continue **B### outside-in commercial benchmarks** across the strongest capability intersections:
+   - ✅ B001 equipment intelligence / predictive lifecycle service;
+   - next: autonomous grid/substation inspection;
    - hydro / underwater inspection and maintenance;
    - industrial CV / robotic NDT / smart manufacturing;
    - rail/battery/fleet/measurement intelligence;
    - renewable O&M / inspection / forecasting / BESS optimization.
-4. Generate O### product/business theses only where market evidence and internal capability intersect.
-5. Perform stack-level gap analysis + build/partner/acquire.
-6. Validate economics and pilot paths.
+4. Run O001 validation: buyer segmentation, pricing/service-contract benchmark, product ownership, pilot and first unit economics.
+5. Generate further O### theses only where market evidence and internal capability intersect.
+6. Perform stack-level gap analysis + build/partner/acquire.
+7. Validate economics and pilot paths.
 
 ## Repository protocol
 

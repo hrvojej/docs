@@ -122,6 +122,44 @@ Switzerland:
 - KONČAR Q1 2026 financial reporting (primary: establishment and DACH purpose)
 - Swiss commercial-register-derived sources such as Moneyhouse/Wirtschaftsregister (secondary: registered legal purpose)
 
+## H. B001 external transformer-intelligence benchmark
+
+### Hitachi Energy
+- https://www.hitachienergy.com/products-and-solutions/transformers/the-txpert-ecosystem
+- https://www.hitachienergy.com/products-and-solutions/transformers/the-txpert-ecosystem/txpert-hub
+- https://www.hitachienergy.com/products-and-solutions/transformers/the-txpert-ecosystem/txpert-services
+- https://www.hitachienergy.com/products-and-solutions/transformers/transformer-service/assess-and-secure/apm-edge
+- https://www.hitachienergy.com/news-and-events/customer-stories/intelligent-transformers-from-hitachi-abb-power-grids-to-bolster-tata-steel-operations
+
+### Reinhausen
+- https://www.reinhausen.com/productdetail/transformer-automation/etos
+- https://www.reinhausen.com/portfolio/transformer-digitalization
+- https://www.reinhausen.com/servicedetail/transformer-services/performance-contracts-and-consulting-transformers
+- https://www.reinhausen.com/portfolio/asset-management
+
+### Siemens Energy / Camlin
+- https://www.siemens-energy.com/global/en/home/press-releases/Siemens_Energy_expands_capabilities_with_Camlin_Group_acquisition.html
+- https://www.siemens-energy.com/global/en/home/events/cigre-paris-session.html
+- https://camlingroup.com/energy/solutions/transformer-monitoring/
+- https://camlingroup.com/neoen-appoints-camlin-energy-to-deliver-global-high-voltage-transformer-monitoring-across-renewable-portfolio/
+- https://camlingroup.com/camlin-energy-announces-on-going-collaboration-with-terra-gen-to-deliver-advanced-transformer-monitoring-across-renewable-energy-sites/
+- https://camlingroup.com/camlin-energy-partners-with-vattenfall-renewables-uk-to-deploy-totus-transformer-monitoring-solution/
+
+### ABB
+- https://www.abb.com/global/en/areas/electrification/services/trafcom
+- https://new.abb.com/news/detail/135182/from-arctic-cold-to-always-on-power-neve-protects-the-grid
+
+### Vaisala
+- https://www.vaisala.com/en/products/instruments-sensors-and-other-measurement-devices/instruments-industrial-measurements/opt100
+- https://www.vaisala.com/en/case/xcel-energy-improves-transformer-fault-assessments-using-online-dga-monitoring
+- https://www.vaisala.com/en/case/duke-energy-driving-more-informed-power-transformer-maintenance-decisions-through-online-multi-gas-dga-monitoring
+- https://www.vaisala.com/en/case/how-one-electric-co-op-reduced-operations-and-maintenance-costs-versatile-dga-monitoring
+
+### Qualitrol
+- https://www.qualitrolcorp.com/asset-solutions/transformer-monitoring
+- https://www.qualitrolcorp.com/products/QPDM
+- https://www.qualitrolcorp.com/products/ITM507
+
 ## Source hierarchy
 
 1. current regulatory filing / audited official filing

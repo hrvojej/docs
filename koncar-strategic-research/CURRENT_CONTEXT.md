@@ -2,7 +2,7 @@
 
 **Program:** KONČAR Strategic Technology & New Business Research  
 **As-of:** 2026-09-21  
-**Status:** foundation + Group/capability baseline + E001–E019 + B001 + O001 candidate complete
+**Status:** foundation + Group/capability baseline + E001–E019 + B001–B003 + O001–O003 candidates
 
 ## Objective
 
@@ -77,7 +77,47 @@ Therefore the first identified gap is more likely **productization/servitization
 
 This produced [O001 — KONČAR Transformer Intelligence & Lifecycle Service](opportunities/O001_transformer_intelligence_lifecycle_service.md), currently market E3 / KONČAR fit E4 / commercial E5 pending.
 
-### 7. Strategic constraint to keep in mind
+### 7. Second outside-in result — autonomous grid/substation inspection
+[B002](benchmarks/B002_autonomous_grid_substation_inspection_2026-09-21.md) establishes autonomous/remote grid inspection as a mature E3 category.
+
+Commercial evidence includes:
+- AEP / Skydio: emergency substation inspection case with ~USD 8m reported savings and move toward docked autonomous inspection;
+- SCE: >100 drones with docked systems scaling across grid assets;
+- FPL / Percepto: statewide autonomous drone-in-a-box rollout;
+- RTE / ANYbotics: autonomous ground-robot inspections in high-voltage environments;
+- SSEN / Cyberhawk: inspection/asset-data workflow across >11,500 towers and ~150 substations.
+
+Important KONČAR finding:
+**Dalekovod-Projekt already uses drones, optical, thermal and laser cameras for maintenance documentation and condition analysis of operating power facilities.**
+
+Therefore the likely gap is not basic drone capture. It is:
+- persistent autonomy/docks;
+- BVLOS operating capability;
+- grid-specific CV/defect workflow;
+- longitudinal asset history;
+- SCADA/GIS/EAM/work-order integration;
+- recurring managed service.
+
+This produced [O002](opportunities/O002_grid_inspection_intelligence_service.md). Initial strategy: own the grid-domain intelligence/service layer and partner for drone/robot hardware.
+
+### 8. Third outside-in result — hydro / underwater inspection
+[B003](benchmarks/B003_hydro_underwater_inspection_2026-09-21.md) separates two maturity levels:
+
+**Commercially mature:** ROV visual/sonar inspection of intakes, gates, trash racks, turbines/runners, draft tubes and submerged dam structures.
+
+Evidence:
+- Ontario Power Generation moved runner inspection from a six-person diver workflow to a two-person ROV crew;
+- ESB Ireland has an ongoing ROV programme across most hydro sites;
+- VideoRay/US Bureau of Reclamation and multiple contractor cases show repeatable operational use.
+
+**Less mature / higher technical difficulty:** long flooded penstocks, reliable localization and quantitative robotic NDT. ENGIE/SHEM publicly documented a 2023 ROV trial that failed its ~400 m objective because of pressure/tether constraints; robotic EMAT work continued in 2026.
+
+KONČAR implication:
+Hydro Turbine already has diagnostic measurements, commissioning, maintenance and refurbishment capability. The first commercial move should therefore be **partner ROV + KONČAR hydro engineering + lifecycle repair path**, not proprietary ROV development.
+
+This produced [O003](opportunities/O003_hydro_underwater_inspection_lifecycle_service.md). Proprietary underwater robotics remains an R&D option only if recurring customer jobs expose a high-value unsolved problem.
+
+### 9. Strategic constraint to keep in mind
 2026 corporate reporting points to **production capacity and availability of qualified specialist personnel** as important growth constraints. New opportunities should therefore be evaluated not only on revenue potential but also on whether they:
 - increase lifecycle/software/service revenue;
 - leverage installed base and existing channels;
@@ -95,11 +135,15 @@ This produced [O001 — KONČAR Transformer Intelligence & Lifecycle Service](op
 - **E001–E019 baseline v1** exist for all current direct subsidiaries, KPT affiliate and key capability-lineage nodes.
 - Browse: [entities/README.md](entities/README.md)
 
-### External benchmark
+### External benchmarks
 - **B001** — [Transformer Asset Intelligence & Predictive Lifecycle Services](benchmarks/B001_transformer_asset_intelligence_2026-09-21.md)
+- **B002** — [Autonomous Grid & Substation Inspection](benchmarks/B002_autonomous_grid_substation_inspection_2026-09-21.md)
+- **B003** — [Hydropower Underwater Inspection, ROV & Robotic NDT](benchmarks/B003_hydro_underwater_inspection_2026-09-21.md)
 
-### Opportunity candidate
+### Opportunity candidates
 - **O001** — [KONČAR Transformer Intelligence & Lifecycle Service](opportunities/O001_transformer_intelligence_lifecycle_service.md)
+- **O002** — [KONČAR Grid Inspection Intelligence & Remote Inspection Service](opportunities/O002_grid_inspection_intelligence_service.md)
+- **O003** — [KONČAR Hydro Underwater Inspection & Lifecycle Service](opportunities/O003_hydro_underwater_inspection_lifecycle_service.md)
 
 ### Complete registry
 - [MASTER_INDEX.md](MASTER_INDEX.md)
@@ -111,21 +155,21 @@ This produced [O001 — KONČAR Transformer Intelligence & Lifecycle Service](op
 - No market-size or margin claim is considered validated yet.
 - Detailed current ownership of some indirect subsidiaries after the summer-2026 mergers still requires registry-level reconciliation.
 - E001–E019 are **baseline dossiers**, not exhaustive deep dives: team size, IP/patents, installed-base data, exact software stacks, customer references, economics and current internal organization still need deeper validation where relevant.
-- Only B001 has been completed so far; the broader external benchmark atlas remains incomplete.
-- O001 is a candidate thesis, not yet a validated business case; pricing, customer willingness-to-pay, internal ownership, service economics and pilot assets still require validation.
+- B001–B003 are complete; industrial manufacturing, rail and renewable benchmarks remain pending.
+- O001–O003 are candidate theses, not validated business cases. Customer willingness-to-pay, pricing, internal ownership, service economics and pilot assets still require validation.
 
 ## Next research sequence
 
 1. Deepen the highest-leverage E### dossiers with patents, projects, deployed products, customers, team/stack and installed-base evidence.
 2. Resolve the remaining indirect-ownership/legal-lineage questions in R001.
-3. Continue **B### outside-in commercial benchmarks** across the strongest capability intersections:
+3. Continue **B### outside-in commercial benchmarks**:
    - ✅ B001 equipment intelligence / predictive lifecycle service;
-   - next: autonomous grid/substation inspection;
-   - hydro / underwater inspection and maintenance;
-   - industrial CV / robotic NDT / smart manufacturing;
+   - ✅ B002 autonomous grid/substation inspection;
+   - ✅ B003 hydro / underwater inspection and maintenance;
+   - next: industrial CV / robotic NDT / smart manufacturing;
    - rail/battery/fleet/measurement intelligence;
    - renewable O&M / inspection / forecasting / BESS optimization.
-4. Run O001 validation: buyer segmentation, pricing/service-contract benchmark, product ownership, pilot and first unit economics.
+4. Validate O001–O003: buyer segmentation, pricing/service-contract model, product ownership, pilot and unit economics.
 5. Generate further O### theses only where market evidence and internal capability intersect.
 6. Perform stack-level gap analysis + build/partner/acquire.
 7. Validate economics and pilot paths.

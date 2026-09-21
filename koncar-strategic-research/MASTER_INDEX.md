@@ -4,14 +4,14 @@
 **Rule:** no research is considered complete until it is registered here.  
 **Last updated:** 2026-09-21
 
-## How to use this repository
+## Start here
 
-1. **New chat / fast context:** read [CURRENT_CONTEXT.md](CURRENT_CONTEXT.md).
-2. **Find all research:** use this file.
-3. **Need evidence/details:** open the linked R### artifact.
-4. **Need company-specific facts:** use entity dossiers as they are created.
-5. **Need opportunity/market evidence:** use O### / B### artifacts.
-6. **Need history of what was done in a chat/research session:** use S### session capsules.
+1. **New chat / fastest context:** [CURRENT_CONTEXT.md](CURRENT_CONTEXT.md)
+2. **All research:** this MASTER INDEX
+3. **Company/capability profiles:** [entities/README.md](entities/README.md)
+4. **Evidence-based cross-cutting research:** [research/README.md](research/README.md)
+5. **Session history/capsules:** [sessions/README.md](sessions/README.md)
+6. **Reusable sources:** [sources/source_register.md](sources/source_register.md)
 
 ## Artifact classes
 
@@ -30,7 +30,7 @@
 | Artifact | Status | Purpose |
 |---|---|---|
 | [CURRENT_CONTEXT.md](CURRENT_CONTEXT.md) | Active | Minimum context to load first in a new chat |
-| [01_group_ownership_map.md](01_group_ownership_map.md) | Active / rolling | Compact current ownership and capability-lineage map |
+| [01_group_ownership_map.md](01_group_ownership_map.md) | Active / rolling | Compact current ownership + capability-lineage map |
 | [02_capability_map.md](02_capability_map.md) | Active / rolling | Compact cross-group capability map |
 | [sources/source_register.md](sources/source_register.md) | Active / rolling | Reusable source registry |
 
@@ -38,70 +38,71 @@
 
 | ID | Artifact | Status | As-of | Summary |
 |---|---|---|---|---|
-| F001 | [Research methodology](00_methodology.md) | Active | 2026-09-21 | Evidence levels, opportunity scoring, build/partner/acquire methodology |
+| F001 | [Research methodology](00_methodology.md) | Active | 2026-09-21 | Evidence levels, opportunity scoring, build/partner/acquire |
 | F002 | [Group ownership map](01_group_ownership_map.md) | Active | 2026-09-21 | Rolling legal structure + capability lineage |
-| F003 | [Capability map](02_capability_map.md) | Active | 2026-09-21 | Capability taxonomy and cross-company mapping |
-| F004 | [Global opportunity landscape](03_global_opportunity_landscape.md) | Hypothesis landscape | 2026-09-21 | Broad outside-in opportunity families; not a shortlist |
-| F005 | [Gap analysis framework](04_gap_analysis.md) | Active | 2026-09-21 | Stack decomposition, G0–G5 gap labels, defensibility/economics checks |
+| F003 | [Capability map](02_capability_map.md) | Active | 2026-09-21 | Cross-company capability taxonomy |
+| F004 | [Global opportunity landscape](03_global_opportunity_landscape.md) | Hypothesis landscape | 2026-09-21 | Outside-in opportunity families; not a shortlist |
+| F005 | [Gap analysis framework](04_gap_analysis.md) | Active | 2026-09-21 | Stack decomposition, G0–G5 gaps, defensibility/economics |
 | F006 | [Research backlog](05_research_backlog.md) | Active | 2026-09-21 | Workstreams and validation backlog |
 
 ## Research artifacts
 
 | ID | Research | Status | As-of | Evidence | Key output |
 |---|---|---|---|---|---|
-| R001 | [Current Group Structure & Ownership](research/R001_current_group_structure_2026-09-21.md) | Baseline v1 | 2026-09-21 | High for direct perimeter; medium for post-merger indirect perimeter | Reconciled 16 current direct subsidiaries, KPT affiliate, indirect clusters and 2026 restructuring |
-| R002 | [In-house AI, Data & Advanced Analytics Capabilities](research/R002_inhouse_ai_data_capabilities_2026-09-21.md) | Baseline v1 | 2026-09-21 | High for cited capabilities | AI/ML is already present in KONČAR Digital, Electrical Engineering Institute and NEOS capability lineage |
-| R003 | [Cross-Group Capability Atlas — Baseline](research/R003_capability_atlas_baseline_2026-09-21.md) | Baseline v1 | 2026-09-21 | Medium-high | First-pass map of all current direct entities + affiliate against industrial/digital/R&D capability domains |
+| R001 | [Current Group Structure & Ownership](research/R001_current_group_structure_2026-09-21.md) | Baseline v1 | 2026-09-21 | High direct / medium post-merger indirect | 16 current direct subsidiaries, KPT affiliate, indirect clusters, 2026 restructuring |
+| R002 | [In-house AI, Data & Advanced Analytics](research/R002_inhouse_ai_data_capabilities_2026-09-21.md) | Baseline v1 | 2026-09-21 | High | AI/ML/data capability exists across Digital, Institute and NEOS lineage |
+| R003 | [Cross-Group Capability Atlas](research/R003_capability_atlas_baseline_2026-09-21.md) | Baseline v1 | 2026-09-21 | Medium-high | Initial capability map across direct entities + KPT |
 
 ## Entity dossiers
 
-No E### dossier is marked complete yet. Entity deep dives start after R001–R003 baseline.
+All E### profiles below exist as **baseline v1** and are inputs to deeper research; they are not yet treated as exhaustive dossiers.
 
-Planned priority:
-- E001 KONČAR – Electrical Engineering Institute
-- E002 KONČAR – Digital
-- E003 NEOS capability lineage
-- E004 former KONČAR – Electronics and Informatics (INEM) capability lineage
-- E005 KONČAR – Helb
-- E006 Dalekovod
-- E007 KONČAR – Distribution and Special Transformers
-- E008 KONČAR – Generators and Motors
-- E009 KONČAR – Hydro Turbine
-- E010 KONČAR – Electric Vehicles
-- E011 KONČAR – Switchgear
-- E012 KONČAR – Renewable Energy Sources
-- E013 KONČAR – Instrument Transformers
-- E014 KONČAR – Motors and Electrical Systems
-- E015 KONČAR – Metal Structures
-- E016 KONČAR – Transformer Tanks
-- E017 TELENERG-ENGINEERING
-- E018 KONČAR Switzerland
-- E019 KONČAR – Power Transformers (affiliate)
+| ID | Entity / lineage | Main verified capability | Artifact |
+|---|---|---|---|
+| E001 | Electrical Engineering Institute | R&D, monitoring, diagnostics, labs, embedded/ML | [Open](entities/E001_electrical_engineering_institute.md) |
+| E002 | KONČAR – Digital | SCADA/OT, digital platforms, data, AI/ML, cyber | [Open](entities/E002_koncar_digital.md) |
+| E003 | NEOS lineage | Data Engineering, Data Science, ML/AI, cloud/apps | [Open](entities/E003_neos_capability_lineage.md) |
+| E004 | Former INEM lineage | Power electronics, embedded/control, converters | [Open](entities/E004_former_inem_capability_lineage.md) |
+| E005 | KONČAR – Helb | Field engineering, installation, MV/HV testing/service | [Open](entities/E005_helb.md) |
+| E006 | Dalekovod | Transmission/substation EPC, field infrastructure | [Open](entities/E006_dalekovod.md) |
+| E007 | D&ST | Distribution/medium/special transformers | [Open](entities/E007_distribution_special_transformers.md) |
+| E008 | Generators and Motors | Rotating machines + lifecycle service | [Open](entities/E008_generators_motors.md) |
+| E009 | Hydro Turbine | Hydro turbine design, refurbishment, service | [Open](entities/E009_hydro_turbine.md) |
+| E010 | Electric Vehicles | Rail vehicles, battery trains, measurement train, maintenance | [Open](entities/E010_electric_vehicles.md) |
+| E011 | Switchgear | LV/MV/HV switchgear and GIS | [Open](entities/E011_switchgear.md) |
+| E012 | Renewable Energy Sources | Wind/solar/small-hydro development and O&M | [Open](entities/E012_renewable_energy_sources.md) |
+| E013 | Instrument Transformers | HV/MV measurement, special/reference equipment | [Open](entities/E013_instrument_transformers.md) |
+| E014 | Motors and Electrical Systems | Motors, fans, transformer cooling | [Open](entities/E014_motors_electrical_systems.md) |
+| E015 | Metal Structures | Large welding, machining, structures | [Open](entities/E015_metal_structures.md) |
+| E016 | Transformer Tanks | Large welded tanks, NDT, advanced factory | [Open](entities/E016_transformer_tanks.md) |
+| E017 | TELENERG-ENGINEERING | Protection/control, automation, commissioning | [Open](entities/E017_telenerg_engineering.md) |
+| E018 | KONČAR Switzerland | DACH vehicle; operating capability still to verify | [Open](entities/E018_koncar_switzerland.md) |
+| E019 | KPT (affiliate) | Large power transformers, service/diagnostics | [Open](entities/E019_power_transformers_kpt.md) |
 
 ## External benchmarks
 
-No B### benchmark is complete yet. The first benchmarks will be selected from R003 capability intersections, not from a preselected ROV/AI bias.
+No B### benchmark is complete yet. First B### studies will be selected by intersecting the E### capability map with commercially proven external categories.
 
 ## Opportunity theses
 
-No O### thesis is validated yet. Existing opportunity families in F004 are hypotheses only.
+No O### thesis is validated yet. F004 categories remain hypotheses until benchmark + customer + economics evidence exists.
 
 ## Session capsules
 
 | ID | Date | Artifact | Summary |
 |---|---|---|---|
-| S001 | 2026-09-21 | [Foundation + Group Baseline](sessions/S001_2026-09-21_foundation_and_group_baseline.md) | Program scope, repository standard, R001–R003 baseline and durable conclusions |
+| S001 | 2026-09-21 | [Foundation + Group Baseline](sessions/S001_2026-09-21_foundation_and_group_baseline.md) | Scope, repository protocol, R001–R003 and E001–E019 baseline |
 
-## Registration rule for future work
+## Registration rule
 
 Every meaningful research task must:
-1. receive an ID,
-2. produce an artifact,
-3. cite sources,
-4. declare evidence/confidence,
-5. separate verified facts from inference,
-6. list open questions,
-7. be linked here,
-8. update CURRENT_CONTEXT.md if it changes the strategic picture.
+1. receive an ID;
+2. produce a durable artifact;
+3. preserve sources and as-of date;
+4. separate verified facts from inference;
+5. declare evidence/confidence;
+6. list open questions and next validation step;
+7. be linked here;
+8. update CURRENT_CONTEXT.md when it changes the strategic picture.
 
-This file is the authoritative list of research outputs.
+**This file is the authoritative inventory of research outputs.**

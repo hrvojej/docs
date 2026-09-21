@@ -11,5 +11,6 @@ Session capsules preserve the condensed durable state produced by individual res
 | S005 | 2026-09-21 | [B004 + O004 — Adaptive heavy fabrication](S005_2026-09-21_B004_O004.md) |
 | S006 | 2026-09-21 | [B005 + O005 — Rail fleet/battery intelligence](S006_2026-09-21_B005_O005.md) |
 | S007 | 2026-09-21 | [B006 + O006 — Renewable/BESS intelligence](S007_2026-09-21_B006_O006.md) |
+| S008 | 2026-09-21 | [R004 — First-wave synthesis](S008_2026-09-21_R004_first_wave_synthesis.md) |
 
 For current state rather than history, use [CURRENT_CONTEXT](../CURRENT_CONTEXT.md).

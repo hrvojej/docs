@@ -89,6 +89,7 @@ All E### profiles below exist as **baseline v1** and are inputs to deeper resear
 | B002 | [Autonomous Grid & Substation Inspection](benchmarks/B002_autonomous_grid_substation_inspection_2026-09-21.md) | Complete v1 | Mature E3 category; KONČAR should own grid-inspection intelligence/workflow, not necessarily robot hardware |
 | B003 | [Hydropower Underwater Inspection, ROV & Robotic NDT](benchmarks/B003_hydro_underwater_inspection_2026-09-21.md) | Complete v1 | Basic hydro ROV inspection is mature; advanced long-penstock robotic NDT remains less mature |
 | B004 | [Adaptive Robotic Welding, Automated NDT & Smart Heavy Fabrication](benchmarks/B004_adaptive_welding_automated_ndt_smart_fabrication_2026-09-21.md) | Complete v1 | High-mix heavy fabrication can use offline programming, adaptive sensing and automated quality; KONČAR already has internal robotic-welding proof |
+| B005 | [Rail Fleet, Battery & Infrastructure Intelligence](benchmarks/B005_rail_fleet_battery_infrastructure_intelligence_2026-09-21.md) | Complete v1 | Rail digital lifecycle is mature; KONČAR already has trains, chargers, maintenance and a centralized coordination platform under development |
 
 Full list: [benchmarks/README.md](benchmarks/README.md)
 
@@ -100,6 +101,7 @@ Full list: [benchmarks/README.md](benchmarks/README.md)
 | O002 | [KONČAR Grid Inspection Intelligence & Remote Inspection Service](opportunities/O002_grid_inspection_intelligence_service.md) | Candidate validation | Market E3 / KONČAR fit E4-candidate / commercial E5 pending |
 | O003 | [KONČAR Hydro Underwater Inspection & Lifecycle Service](opportunities/O003_hydro_underwater_inspection_lifecycle_service.md) | Candidate validation | Basic market E3 / KONČAR fit E4-candidate / advanced robotics E1-E2 / commercial E5 pending |
 | O004 | [KONČAR Adaptive Heavy Fabrication & Digital Quality Program](opportunities/O004_adaptive_heavy_fabrication_program.md) | Internal-first candidate validation | Technology E3 / KONČAR fit E4 / internal ROI pending |
+| O005 | [KONČAR Rail Fleet & Battery Intelligence Lifecycle Service](opportunities/O005_rail_fleet_battery_intelligence_service.md) | Candidate validation | Market E3 / KONČAR fit E4 / commercial E5 pending |
 
 Full list: [opportunities/README.md](opportunities/README.md)
 
@@ -114,6 +116,7 @@ O### artifacts are not recommendations until customer/economics validation reach
 | S003 | 2026-09-21 | [B002 + O002](sessions/S003_2026-09-21_B002_O002.md) | Autonomous grid/substation inspection benchmark + vendor-agnostic inspection-intelligence thesis |
 | S004 | 2026-09-21 | [B003 + O003](sessions/S004_2026-09-21_B003_O003.md) | Hydro/underwater ROV benchmark + lifecycle-service thesis; advanced penstock robotics kept as later R&D option |
 | S005 | 2026-09-21 | [B004 + O004](sessions/S005_2026-09-21_B004_O004.md) | Adaptive welding/automated NDT benchmark + internal-first heavy-fabrication capacity program |
+| S006 | 2026-09-21 | [B005 + O005](sessions/S006_2026-09-21_B005_O005.md) | Rail fleet/battery/charging benchmark + lifecycle intelligence service thesis |
 
 ## Registration rule
 

@@ -80,6 +80,11 @@ First benchmark families:
 5. ✅ B005 rail/battery/fleet/measurement intelligence
 6. ✅ B006 renewable O&M / autonomous inspection / forecasting / BESS optimization
 
+## Workstream 4A — First-wave synthesis
+- ✅ R004 cross-opportunity synthesis complete
+- ✅ broad first-wave discovery phase complete
+- 🔄 next phase is validation/prioritization using internal data, buyers and economics
+
 ## Workstream 5 — Opportunity thesis generation
 - ✅ O001 Transformer Intelligence & Lifecycle Service created from B001 + internal evidence
 - ✅ O002 Grid Inspection Intelligence & Remote Inspection Service created from B002 + internal evidence
@@ -119,6 +124,14 @@ For future O###:
 - ⬜ G0–G5 gaps
 - ⬜ build / partner / acquire decision
 - ⬜ pilot design
+
+## Workstream 6A — Validation sequence from R004
+- 🔄 O001: TMS product architecture, installed-base attach, customer pricing/SLA
+- 🔄 O002: Dalekovod drone workflow, utility inspection economics, BVLOS/partner path
+- 🔄 O003: current hydro underwater subcontracting, diver/dewatering economics, partner ROV pilot
+- 🔄 O004: weld-hour Pareto, CLOOS OEE, bottleneck/NDT cycle, contribution-margin ROI
+- 🔄 O005: centralized rail platform architecture, BMS/data rights, charging/lifecycle economics
+- 🔄 O006: KONBAT lineage, renewable control-center architecture, owned-asset data and BESS optimization
 
 ## Workstream 7 — Economics & prioritization
 For validated O###:

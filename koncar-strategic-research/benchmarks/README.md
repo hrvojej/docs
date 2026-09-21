@@ -5,5 +5,6 @@ Benchmarks test whether an external technology/business category is commercially
 | ID | Benchmark | Status | Main conclusion |
 |---|---|---|---|
 | B001 | [Transformer Asset Intelligence & Predictive Lifecycle Services](B001_transformer_asset_intelligence_2026-09-21.md) | complete v1 | Mature E3 category; market has shifted from sensors toward fleet software + expert service + SLA |
+| B002 | [Autonomous Grid & Substation Inspection](B002_autonomous_grid_substation_inspection_2026-09-21.md) | complete v1 | Mature E3 category; value shifts from drone/robot hardware to persistent capture + inspection intelligence + maintenance workflow |
 
 Return to [MASTER_INDEX](../MASTER_INDEX.md).

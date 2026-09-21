@@ -77,7 +77,7 @@ First benchmark families:
 2. ✅ B002 autonomous grid/substation inspection
 3. ✅ B003 hydro / underwater inspection and maintenance
 4. ✅ B004 industrial computer vision / robotic NDT / smart manufacturing
-5. ⬜ rail/battery/fleet/measurement intelligence
+5. ✅ B005 rail/battery/fleet/measurement intelligence
 6. ⬜ renewable O&M / autonomous inspection / forecasting / BESS optimization
 
 ## Workstream 5 — Opportunity thesis generation
@@ -85,8 +85,10 @@ First benchmark families:
 - ✅ O002 Grid Inspection Intelligence & Remote Inspection Service created from B002 + internal evidence
 - ✅ O003 Hydro Underwater Inspection & Lifecycle Service created from B003 + internal evidence
 - ✅ O004 Adaptive Heavy Fabrication & Digital Quality Program created from B004 + internal factory evidence
+- ✅ O005 Rail Fleet & Battery Intelligence Lifecycle Service created from B005 + internal rail/battery/charging evidence
 - 🔄 O001–O003 require customer/economics/pilot validation before E5
 - 🔄 O004 requires factory bottleneck/OEE/ROI validation before rollout
+- 🔄 O005 requires centralized-platform/BMS/data-rights/customer/economics validation
 - ⬜ Create additional O### only after capability + external commercial evidence intersect.
 
 Each O### must define:
@@ -101,12 +103,12 @@ Each O### must define:
 - pilot path.
 
 ## Workstream 6 — Gap analysis
-For O001–O004:
+For O001–O005:
 - ✅ initial stack maps
 - ✅ initial KONČAR capability owners
 - ✅ initial G0–G5 gap maps
 - ✅ initial build/partner/acquire views
-- ✅ no acquisition required for MVP/pilot of any of the first four opportunities on current evidence
+- ✅ no acquisition required for MVP/pilot of any of the first five opportunities on current evidence
 - 🔄 pilot design / exact asset selection pending
 
 For future O###:
@@ -147,8 +149,8 @@ No customer-validation result is considered complete until evidence is captured 
 - ✅ initial capability atlas
 - ✅ E001–E019 baseline dossiers
 - ⬜ registry-grade ownership appendix
-- 🔄 global benchmark atlas — B001–B004 complete, remaining families pending
-- 🔄 opportunity cards — O001–O004 candidates created
+- 🔄 global benchmark atlas — B001–B005 complete, remaining families pending
+- 🔄 opportunity cards — O001–O005 candidates created
 - ⬜ gap matrices
 - ⬜ pilot shortlist
 - ⬜ build/partner/acquire recommendations

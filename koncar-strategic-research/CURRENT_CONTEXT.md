@@ -216,6 +216,9 @@ These patterns are synthesized formally in R004.
 - **O005** — [KONČAR Rail Fleet & Battery Intelligence Lifecycle Service](opportunities/O005_rail_fleet_battery_intelligence_service.md)
 - **O006** — [KONČAR Renewable & BESS Intelligence / Optimization Lifecycle Service](opportunities/O006_renewable_bess_intelligence_optimization_service.md)
 
+### Cross-opportunity synthesis
+- **R004** — [First-Wave Cross-Opportunity Synthesis](research/R004_first_wave_cross_opportunity_synthesis_2026-09-21.md)
+
 ### Complete registry
 - [MASTER_INDEX.md](MASTER_INDEX.md)
 
@@ -229,17 +232,30 @@ These patterns are synthesized formally in R004.
 - B001–B006 are complete; the first planned outside-in benchmark wave is complete.
 - O001–O006 are candidate theses/programs, not validated business cases/ROI cases. Customer willingness-to-pay, pricing, internal ownership, service economics and pilot assets still require validation.
 
+## Current meta-conclusion
+
+R004 shows a repeated strategic pattern across the first six opportunities:
+
+- KONČAR frequently already owns the hard domain/hardware/control layer;
+- the repeated gap is end-to-end productization across subsidiaries;
+- recurring value is concentrated in asset/fleet history, analytics, expert workflow, field action and lifecycle SLA;
+- drone/ROV/robot hardware should generally be partnered first rather than made the initial product;
+- O004 is a separate internal-capacity case and must be validated through factory ROI, not customer ARR.
+
+This is a synthesis, not an investment ranking.
+
 ## Next research sequence
 
 1. Deepen the highest-leverage E### dossiers with patents, projects, deployed products, customers, team/stack and installed-base evidence.
 2. Resolve the remaining indirect-ownership/legal-lineage questions in R001.
 3. ✅ First outside-in benchmark wave B001–B006 complete.
-4. Move into **validation and prioritization**:
+4. ✅ R004 cross-opportunity synthesis complete.
+5. Move into **validation and prioritization**:
    - O001–O003: buyers, pricing, pilot economics;
    - O004: factory bottleneck/OEE/ROI;
    - O005: centralized platform, BMS/data rights, service economics;
    - O006: KONBAT lineage, portfolio architecture, owned-asset pilot.
-5. Build cross-opportunity common-platform architecture only after domain requirements are validated.
+6. Build cross-opportunity common-platform architecture only after domain requirements are validated.
 5. Generate further O### theses only where market evidence and internal capability intersect.
 6. Perform stack-level gap analysis + build/partner/acquire.
 7. Validate economics and pilot paths.

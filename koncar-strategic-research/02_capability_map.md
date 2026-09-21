@@ -1,130 +1,71 @@
-# Capability map
+# KONČAR capability map — compact current view
 
 **As-of:** 2026-09-21  
-**Status:** initial taxonomy; company-by-company deep dives pending.
+**Detailed baseline:** [R003](research/R003_capability_atlas_baseline_2026-09-21.md)  
+**Entity dossiers:** [entities/README.md](entities/README.md)
 
-## Capability taxonomy
+## Capability domains
 
-### 1. Electrical power equipment
-- transformers
-- instrument transformers
-- switchgear
-- substations
-- generators
-- motors
-- power conversion
-- traction power
-- protection/control
-- monitoring/diagnostics
+1. Electrical power equipment
+2. Rotating machines / drives
+3. Heavy industrial engineering & manufacturing
+4. Rail / e-mobility
+5. Hydro & renewables
+6. EPC / field engineering / commissioning
+7. Protection / automation / control
+8. SCADA / OT / critical-infrastructure software
+9. Data engineering / analytics / AI/ML
+10. Cybersecurity
+11. R&D / testing / certification / diagnostics
+12. Sensors / monitoring / embedded systems
+13. Lifecycle service
+14. International project delivery
+15. Robotics / autonomy adjacency
 
-### 2. Heavy industrial engineering & manufacturing
-- large welded structures
-- transformer tanks
-- machining/fabrication
-- production engineering
-- assembly
-- testing
-- QA/NDT
-- field installation
+## Main capability nodes
 
-### 3. Mobility
-- trains
-- trams
-- battery-electric rolling stock
-- traction systems
-- charging infrastructure
-- maintenance
-- rail infrastructure
-
-### 4. Hydro & renewables
-- hydro turbines
-- hydro generators
-- refurbishment
-- wind/solar development and operations
-- BESS adjacency
-- lifecycle service
-
-### 5. EPC & infrastructure
-- transmission lines
-- substations
-- civil/infrastructure design
-- road/tunnel systems
-- international field operations
-- commissioning and maintenance
-
-### 6. Digital / software / data
-- energy-management platforms
-- SCADA/critical-infrastructure software
-- system integration
-- cloud
-- analytics
-- data engineering
-- business applications
-- AI/ML/data science
-- cybersecurity
-- OT/IT integration
-
-### 7. R&D / testing / certification
-- product research
-- applied electrical engineering
-- laboratory testing
-- diagnostics
-- certification
-- modelling/simulation
-
-### 8. Automation / autonomy / robotics adjacency
-- embedded systems
-- sensors
-- control systems
-- motion/drives
-- industrial communications
-- edge compute
-- machine vision
-- field robotics integration
-- remote operation
-
-## Initial company-to-capability mapping
-
-| Entity / capability lineage | Primary capabilities | Research relevance |
+| Entity | Verified core | Relevant adjacency to research |
 |---|---|---|
-| KONČAR Inc. | group engineering, system integration, infrastructure, assets inherited by mergers | cross-group productization |
-| Electrical Engineering Institute | R&D, testing, diagnostics, certification | sensors, condition monitoring, digital twins, AI diagnostics |
-| KONČAR Digital + NEOS/ADNET lineage | software, cloud, data, analytics, critical infrastructure | AI/data layer, fleet platforms, digital products |
-| Switchgear | MV/HV/LV equipment | smart substations, robotic inspection, sensing |
-| D&ST | transformers | transformer intelligence, monitoring, digital lifecycle |
-| Instrument Transformers | measurement equipment | sensing, digital substations, metering intelligence |
-| Generators & Motors | rotating machines | predictive maintenance, digital twins, advanced service |
-| Motors & Electrical Systems | motors/fans | drives, robotics/motion, condition monitoring |
-| Electric Vehicles | rolling stock | autonomy assistance, predictive maintenance, battery/charging optimization |
-| Hydro Turbine | hydro turbine lifecycle | underwater inspection, robotic maintenance, digital O&M |
-| Renewable Energy Sources | wind/solar operations/development | autonomous inspection, AI O&M, BESS, forecasting |
-| Dalekovod | EPC, transmission lines/substations, field work | drones/robotics, inspection, asset data platforms |
-| Metal Structures | large welded fabrication | robotic welding, vision QA, NDT automation |
-| Transformer Tanks | large transformer tanks | smart manufacturing, robotic inspection, welding QA |
-| HELB | design/build/operate/maintain power facilities | deployment arm for inspection/maintenance products |
-| former INEM capability lineage | electronics/informatics/control/power electronics | trace post-merger; potentially critical for edge/control/autonomy |
-| NEOS | data engineering, analytics, cloud/business software | industrial data platform and AI commercialization |
+| Institute | R&D, monitoring, diagnostics, 9 labs, proprietary embedded/ML products | asset intelligence, sensors, NDT, edge analytics |
+| Digital | SCADA/OT, digital platforms, cyber, IoT, AI/ML R&D | industrial data/AI layer, remote operations |
+| NEOS | Data Engineering, Data Science, ML/AI, cloud/apps | data platforms, ML engineering, forecasting |
+| former INEM lineage | power electronics, converters, embedded/protection/control | drives, battery/charging, robotics/control |
+| HELB | installation, testing, commissioning, maintenance | field deployment/retrofit/service |
+| TELENERG | protection/control, DCS, automation, commissioning | smart substations, edge/control integration |
+| Dalekovod | transmission/substation EPC and field infrastructure | drones/robotics/inspection/data capture |
+| D&ST | transformer manufacturing/service | transformer intelligence/lifecycle |
+| KPT affiliate | large power transformers/service | high-value asset intelligence; JV constraints apply |
+| Switchgear | LV/MV/HV/GIS | smart substations, embedded sensing |
+| Instrument Transformers | precision HV/MV measurement | digital substations, sensor/data products |
+| Generators & Motors | rotating machines + service | predictive maintenance, digital twins |
+| Motors & Electrical Systems | motors/fans/cooling | smart cooling, motion/actuation |
+| Hydro Turbine | turbine lifecycle/service | underwater/robotic inspection |
+| Renewables | plant development/O&M | pilot assets, autonomous inspection, optimization |
+| Electric Vehicles | rail, BEMU/BMU, measurement train, maintenance | fleet/battery/track intelligence |
+| Metal Structures | heavy welding/machining | robotic welding, automated NDT |
+| Transformer Tanks | advanced welding/NDT factory | smart manufacturing/CV/NDT automation |
+| Switzerland | DACH market vehicle | market access; technical capability not yet proven |
 
-## Deep-dive schema for every entity
+## Confirmed in-house AI/data capability
 
-For each company, capture:
-- legal ownership/status
-- revenue/size where public
-- employees
-- plants/labs/locations
-- products
-- key technologies
-- software stack
-- certifications
-- R&D projects
-- patents/IP
-- key suppliers
-- customers/markets
-- installed base
-- service organization
-- export footprint
-- datasets generated by products
-- AI/ML use today
-- robotics/automation use today
-- adjacent capabilities
-- capability gaps
+See [R002](research/R002_inhouse_ai_data_capabilities_2026-09-21.md).
+
+Evidence exists in at least three complementary nodes:
+- Digital — AI/ML, edge/cloud, predictive maintenance, SCADA integration;
+- Institute — ML-based fault classification + proprietary monitoring;
+- NEOS — Data Science/ML/AI + Data Engineering.
+
+Therefore “AI capability” is not a zero-to-one gap. Specific product gaps still must be assessed per opportunity.
+
+## High-value cross-company intersections to benchmark externally
+
+These are research directions, **not rankings**:
+- equipment + monitoring + data/AI + lifecycle service;
+- infrastructure + field deployment + autonomous inspection;
+- hydro + sensing + underwater inspection;
+- manufacturing + computer vision + robotic NDT;
+- rail + battery/measurement data + analytics;
+- renewables + inspection/forecasting/optimization.
+
+## Detailed dossiers
+Use [entities/README.md](entities/README.md) for E001–E019.

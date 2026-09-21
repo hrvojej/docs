@@ -294,6 +294,28 @@ Switzerland:
 - https://koncar.hr/en/kev/projects/delivery-measurement-train-prototype-mermec
 - https://www.hzinfra.hr/na-innotransu-predstavljen-mjerni-vlak-hz-infrastrukture/
 
+## M. B006 renewable / BESS intelligence and optimization benchmark
+
+### Wind / renewable inspection and APM
+- https://skyspecs.com/
+- https://skyspecs.com/solutions/autonomous-drone-inspections/
+- https://onyxinsight.com/
+- https://raptormaps.com/
+- https://raptormaps.com/platform/
+- https://fluenceenergy.com/
+
+### BESS / hybrid EMS / optimization
+- https://www.wartsila.com/energy/gems
+- https://fluenceenergy.com/energy-storage/fluence-mosaic/
+- https://www.tesla.com/support/energy/tesla-software/autobidder
+
+### KONČAR renewable / BESS
+- KONČAR legacy INEM KONBAT / battery-energy-storage-system product pages
+- KONČAR Vis solar+BESS / microgrid project material
+- KONČAR Renewable Energy Management Center material
+- KONČAR Pometeno Brdo / Renewable Energy Sources material
+- KONČAR Digital PROZA / IIoT / HEDGE-IoT materials
+
 ## Source hierarchy
 
 1. current regulatory filing / audited official filing

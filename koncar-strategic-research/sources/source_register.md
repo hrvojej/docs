@@ -160,6 +160,75 @@ Switzerland:
 - https://www.qualitrolcorp.com/products/QPDM
 - https://www.qualitrolcorp.com/products/ITM507
 
+## I. B002 external autonomous grid/substation inspection benchmark
+
+### Skydio
+- https://www.skydio.com/customer-stories/american-electric-power-company-aep
+- https://www.skydio.com/customer-stories/sce-scales-drone-inspections-to-transform-grid-safety
+- https://www.skydio.com/customer-stories/arkansas-valley-electric-co-op-substation
+- https://www.skydio.com/solutions/asset-inspection/faq
+- https://live.skydio.com/public/videos/2090-miles-away-real-assets-real-time-inspection-live-from-dtech-2026-03-06
+
+### Percepto
+- https://percepto.co/electric-utilities/
+- https://percepto.co/percepto-unveils-worlds-largest-autonomous-commercial-drone-deployment-at-leading-us-electric-utility/
+- https://percepto.co/siemens-energy-case-study/
+- https://percepto.co/remote-operations/
+- https://percepto.co/drone-in-a-box/
+
+### ANYbotics
+- https://www.anybotics.com/industries/robotic-inspections-for-power-utilities/
+- https://www.anybotics.com/news/anymal-autodiagnostics-high-voltage-transmission-rte/
+- https://www.anybotics.com/robotics/anymal/
+
+### Cyberhawk
+- https://thecyberhawk.com/case-studies/example-case-study
+- https://thecyberhawk.com/news/ssen-combine-new-standard
+- https://thecyberhawk.com/asset-inspections
+- https://thecyberhawk.com/aviate-ebook
+
+### Sharper Shape
+- https://sharpershape.com/applications/
+
+### EASA
+- https://www.easa.europa.eu/en/domains/drones-air-mobility/operating-drone/specific-category-civil-drones/specific-operations-risk-assessment-sora
+- https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-unmanned-aircraft-systems
+
+### KONČAR/Dalekovod
+- https://www.dalekovod.hr/en/design
+- https://www.dalekovod-oso.hr/en/laboratory-testing.aspx
+
+## J. B003 external hydropower ROV / robotic NDT benchmark
+
+### Deep Trekker
+- https://www.deeptrekker.com/industries/energy/hydroelectric
+- https://www.deeptrekker.com/resources/customer-success-story-che-swearengen-and-ontario-power-generation
+- https://www.deeptrekker.com/news/dam-inspection
+- https://www.deeptrekker.com/news/hydroelectric-rov-inspections
+
+### VideoRay
+- https://videoray.com/industries/hydroelectric/
+- https://videoray.com/u-s-bureau-of-reclamation/
+
+### Engineers With Drones / ESB
+- https://www.engineerswithdrones.ie/case-studies/esb-hydroelectric-dam-rov-inspections.php
+- https://www.engineerswithdrones.ie/case-studies/penstock-inspection-rov.php
+
+### Ashtead Technology
+- https://www.ashtead-technology.com/case-study/hydroelectric-dam-inspection/
+
+### Eddyfi / Inuktun
+- https://blog.eddyfi.com/en/how-the-versatrax-goes-the-distance-for-internal-pipeline-inspection
+- https://blog.eddyfi.com/en/leveraging-robotics-for-remotely-operated-ut-thickness-measurement
+- https://robotics.eddyfi.com/versatrax-ndt-series
+
+### ENGIE/SHEM
+- https://innovation.engie.com/en/news/news/research-and-innovation/inside-penstocks-how-robotics-is-transforming-hydropower-infrastructure-inspection/30520
+
+### KONČAR hydro
+- https://www.koncar.hr/en/koncar-hydro-turbines
+- https://www.koncar.hr/en/gim/hydro-generators-1
+
 ## Source hierarchy
 
 1. current regulatory filing / audited official filing

@@ -2,7 +2,7 @@
 
 **Program:** KONČAR Strategic Technology & New Business Research  
 **As-of:** 2026-09-21  
-**Status:** foundation + Group/capability baseline + E001–E019 + B001–B003 + O001–O003 candidates
+**Status:** foundation + Group/capability baseline + E001–E019 + B001–B004 + O001–O004 candidates
 
 ## Objective
 
@@ -117,7 +117,21 @@ Hydro Turbine already has diagnostic measurements, commissioning, maintenance an
 
 This produced [O003](opportunities/O003_hydro_underwater_inspection_lifecycle_service.md). Proprietary underwater robotics remains an R&D option only if recurring customer jobs expose a high-value unsolved problem.
 
-### 9. Strategic constraint to keep in mind
+### 9. Fourth outside-in result — adaptive heavy fabrication
+[B004](benchmarks/B004_adaptive_welding_automated_ndt_smart_fabrication_2026-09-21.md) shows that high-mix/low-volume heavy fabrication can now be automated much further through offline CAD programming, seam sensing, adaptive vision, digital weld traceability and mechanized NDT.
+
+KONČAR-specific proof is unusually strong:
+- KMK already has a CLOOS robotic welding cell and published an approximately **3× welding-speed improvement** on an applicable repeatable assembly, with NDT-confirmed consistency;
+- KTK's new factory produces very large custom transformer tanks from 3D models and already operates under demanding VT/PT/MT/UT quality workflows.
+
+External benchmarks show:
+- IFH: 25–40% higher throughput on ~25 larger tank models after robotic/offline-programming expansion;
+- Verbotics/TRT: one-off/high-mix parts made economically robotizable via CAD-based programming;
+- commercial adaptive seam vision, automated geometric inspection, PAUT/TOFD and large-weldment 3D QA are available.
+
+This produced [O004](opportunities/O004_adaptive_heavy_fabrication_program.md), an **internal-first** opportunity: release bottleneck capacity and scarce skilled labour before considering external commercialization.
+
+### 10. Strategic constraint to keep in mind
 2026 corporate reporting points to **production capacity and availability of qualified specialist personnel** as important growth constraints. New opportunities should therefore be evaluated not only on revenue potential but also on whether they:
 - increase lifecycle/software/service revenue;
 - leverage installed base and existing channels;
@@ -139,11 +153,13 @@ This produced [O003](opportunities/O003_hydro_underwater_inspection_lifecycle_se
 - **B001** — [Transformer Asset Intelligence & Predictive Lifecycle Services](benchmarks/B001_transformer_asset_intelligence_2026-09-21.md)
 - **B002** — [Autonomous Grid & Substation Inspection](benchmarks/B002_autonomous_grid_substation_inspection_2026-09-21.md)
 - **B003** — [Hydropower Underwater Inspection, ROV & Robotic NDT](benchmarks/B003_hydro_underwater_inspection_2026-09-21.md)
+- **B004** — [Adaptive Robotic Welding, Automated NDT & Smart Heavy Fabrication](benchmarks/B004_adaptive_welding_automated_ndt_smart_fabrication_2026-09-21.md)
 
 ### Opportunity candidates
 - **O001** — [KONČAR Transformer Intelligence & Lifecycle Service](opportunities/O001_transformer_intelligence_lifecycle_service.md)
 - **O002** — [KONČAR Grid Inspection Intelligence & Remote Inspection Service](opportunities/O002_grid_inspection_intelligence_service.md)
 - **O003** — [KONČAR Hydro Underwater Inspection & Lifecycle Service](opportunities/O003_hydro_underwater_inspection_lifecycle_service.md)
+- **O004** — [KONČAR Adaptive Heavy Fabrication & Digital Quality Program](opportunities/O004_adaptive_heavy_fabrication_program.md)
 
 ### Complete registry
 - [MASTER_INDEX.md](MASTER_INDEX.md)
@@ -155,8 +171,8 @@ This produced [O003](opportunities/O003_hydro_underwater_inspection_lifecycle_se
 - No market-size or margin claim is considered validated yet.
 - Detailed current ownership of some indirect subsidiaries after the summer-2026 mergers still requires registry-level reconciliation.
 - E001–E019 are **baseline dossiers**, not exhaustive deep dives: team size, IP/patents, installed-base data, exact software stacks, customer references, economics and current internal organization still need deeper validation where relevant.
-- B001–B003 are complete; industrial manufacturing, rail and renewable benchmarks remain pending.
-- O001–O003 are candidate theses, not validated business cases. Customer willingness-to-pay, pricing, internal ownership, service economics and pilot assets still require validation.
+- B001–B004 are complete; rail and renewable benchmarks remain pending.
+- O001–O004 are candidate theses/programs, not validated business cases/ROI cases. Customer willingness-to-pay, pricing, internal ownership, service economics and pilot assets still require validation.
 
 ## Next research sequence
 
@@ -166,10 +182,10 @@ This produced [O003](opportunities/O003_hydro_underwater_inspection_lifecycle_se
    - ✅ B001 equipment intelligence / predictive lifecycle service;
    - ✅ B002 autonomous grid/substation inspection;
    - ✅ B003 hydro / underwater inspection and maintenance;
-   - next: industrial CV / robotic NDT / smart manufacturing;
-   - rail/battery/fleet/measurement intelligence;
+   - ✅ B004 industrial CV / robotic NDT / smart manufacturing;
+   - next: rail/battery/fleet/measurement intelligence;
    - renewable O&M / inspection / forecasting / BESS optimization.
-4. Validate O001–O003: buyer segmentation, pricing/service-contract model, product ownership, pilot and unit economics.
+4. Validate O001–O003 commercially and O004 through factory bottleneck/OEE/ROI data.
 5. Generate further O### theses only where market evidence and internal capability intersect.
 6. Perform stack-level gap analysis + build/partner/acquire.
 7. Validate economics and pilot paths.

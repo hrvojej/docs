@@ -87,6 +87,7 @@ All E### profiles below exist as **baseline v1** and are inputs to deeper resear
 |---|---|---|---|
 | B001 | [Transformer Asset Intelligence & Predictive Lifecycle Services](benchmarks/B001_transformer_asset_intelligence_2026-09-21.md) | Complete v1 | Mature E3 category; commercial model is shifting from monitoring hardware to fleet software + expert service + SLA/performance contracts |
 | B002 | [Autonomous Grid & Substation Inspection](benchmarks/B002_autonomous_grid_substation_inspection_2026-09-21.md) | Complete v1 | Mature E3 category; KONČAR should own grid-inspection intelligence/workflow, not necessarily robot hardware |
+| B003 | [Hydropower Underwater Inspection, ROV & Robotic NDT](benchmarks/B003_hydro_underwater_inspection_2026-09-21.md) | Complete v1 | Basic hydro ROV inspection is mature; advanced long-penstock robotic NDT remains less mature |
 
 Full list: [benchmarks/README.md](benchmarks/README.md)
 
@@ -96,6 +97,7 @@ Full list: [benchmarks/README.md](benchmarks/README.md)
 |---|---|---|---|
 | O001 | [KONČAR Transformer Intelligence & Lifecycle Service](opportunities/O001_transformer_intelligence_lifecycle_service.md) | Candidate validation | Market E3 / KONČAR fit E4 / commercial E5 pending |
 | O002 | [KONČAR Grid Inspection Intelligence & Remote Inspection Service](opportunities/O002_grid_inspection_intelligence_service.md) | Candidate validation | Market E3 / KONČAR fit E4-candidate / commercial E5 pending |
+| O003 | [KONČAR Hydro Underwater Inspection & Lifecycle Service](opportunities/O003_hydro_underwater_inspection_lifecycle_service.md) | Candidate validation | Basic market E3 / KONČAR fit E4-candidate / advanced robotics E1-E2 / commercial E5 pending |
 
 Full list: [opportunities/README.md](opportunities/README.md)
 
@@ -108,6 +110,7 @@ O### artifacts are not recommendations until customer/economics validation reach
 | S001 | 2026-09-21 | [Foundation + Group Baseline](sessions/S001_2026-09-21_foundation_and_group_baseline.md) | Scope, repository protocol, R001–R003 and E001–E019 baseline |
 | S002 | 2026-09-21 | [B001 + O001](sessions/S002_2026-09-21_B001_O001.md) | Transformer intelligence benchmark + productization thesis |
 | S003 | 2026-09-21 | [B002 + O002](sessions/S003_2026-09-21_B002_O002.md) | Autonomous grid/substation inspection benchmark + vendor-agnostic inspection-intelligence thesis |
+| S004 | 2026-09-21 | [B003 + O003](sessions/S004_2026-09-21_B003_O003.md) | Hydro/underwater ROV benchmark + lifecycle-service thesis; advanced penstock robotics kept as later R&D option |
 
 ## Registration rule
 

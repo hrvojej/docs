@@ -1,66 +1,70 @@
-# KONČAR Group ownership map — working baseline
+# KONČAR Group ownership map — compact current view
 
 **As-of:** 2026-09-21  
-**Status:** working baseline; current legal structure requires continuous reconciliation with latest filings because 2026 contains multiple mergers/demergers.
+**Canonical detailed research:** [R001](research/R001_current_group_structure_2026-09-21.md)  
+**Status:** direct perimeter high-confidence; selected indirect post-merger paths still being reconciled.
 
 ## Parent
-
 - KONČAR – Elektroindustrija d.d. / KONČAR Inc.
 
-## Core/top-level entities visible in current corporate materials
+## Current direct-subsidiary baseline — 16
 
-Current KONČAR corporate pages state 16 Group companies plus one associated/joint-venture entity, while 2026 filings show additional controlled subsidiaries beneath those companies.
+1. KONČAR – Motors and Electrical Systems — 100%
+2. TELENERG-ENGINEERING — 100%
+3. KONČAR – Electrical Engineering Institute — 100%
+4. KONČAR – Generators and Motors — 100%
+5. KONČAR – Helb — 100%
+6. KONČAR – Metal Structures — 100%
+7. KONČAR – Switchgear — 100%
+8. KONČAR – Renewable Energy Sources — 100%
+9. KONČAR – Electric Vehicles — 85.73% control/voting baseline
+10. KONČAR – Instrument Transformers — 99.77% voting rights; Q1 disclosed 61.97% economic ownership
+11. KONČAR – Distribution and Special Transformers — 67.90% voting rights; Q1 disclosed 52.73% economic ownership
+12. KONČAR – Digital — 100%
+13. KONČAR – Transformer Tanks — 60% KONČAR / 40% Siemens Energy
+14. KONČAR – Hydro Turbine — 100%
+15. KONČAR Switzerland GmbH — 100%
+16. Dalekovod d.d. — 75.16%
 
-Core entities and major operating entities identified in current/recent filings and corporate pages:
+## Affiliate / associate
 
-- Dalekovod d.d.
-- KONČAR – Aparati i postrojenja / Switchgear
-- KONČAR – Digital
-- KONČAR – Distributivni i specijalni transformatori (D&ST)
-- KONČAR – Električna vozila
-- KONČAR – Generatori i motori
-- KONČAR – Helb
-- KONČAR – Hidroturbine
-- KONČAR – Institut za elektrotehniku
-- KONČAR – Metalne konstrukcije
-- KONČAR – Mjerni transformatori
-- KONČAR – Motori i električni sustavi
-- KONČAR – Obnovljivi izvori
-- KONČAR – Transformatorski kotlovi (JV with Siemens Energy)
-- TELENERG-ENGINEERING
-- KONČAR Switzerland GmbH
-- KONČAR – Elektronika i informatika: **merged into KONČAR Inc. in 2026; its capabilities must remain in capability map even though legal entity ceased**
-- KONČAR – Power Transformers / Energetski transformatori: associated/JV entity in historical/current Group disclosures; ownership relationship must be verified against latest 2026 corporate structure separately from Transformer Tanks.
+**KONČAR – Power Transformers (KPT)**  
+- Siemens Energy 51%
+- KONČAR 49%
 
-## Controlled and indirectly controlled entities observed in Q1 2026 consolidation
+Do not confuse KPT with KONČAR – Transformer Tanks (KTK).
 
-### Renewable-energy cluster
-- Energetski park Pometeno brdo
+## Key indirect clusters — Q1 2026 baseline
+
+### Renewable Energy Sources
+- Energy Park Pometeno Brdo
 - Wind Power Plant Rust
 - Solar Power Plant Deponija Fosfogipsa
 - Liburnia Solar
 - South East Energy
-- SOLAR SUNRISE PARK S.R.L. (Romania)
-- VABEKO RENEWABLE ENERGY
+- Solar Sunrise Park SRL (Romania)
+- VABEKO Renewable Energy
 
-### Electric-vehicles cluster
+### Electric Vehicles
 - Konell Ltd., Sofia
-- ENAKON MOBILITY
 
-### D&ST cluster
+### D&ST
 - FEROKOTAO
 - NOVI FEROMONT
-- Power Engineering Transformatory Sp. z o.o. (PET), Poznań
+- Power Engineering Transformatory (PET), Poznań
 
-### Digital cluster
+### Digital / NEOS
+Q1 baseline included:
 - ADNET
-- KREANCA SYSTEMS / KREANCA SUSTAVI (merged into KONČAR – Digital in 2026)
-- Prosperus Growth NEOS (merged into KONČAR – Digital in 2026)
+- KREANCA SUSTAVI
+- Prosperus Growth NEOS
 - NEOS
-- NEOS TECH Ljubljana
+- NEOS Tech Ljubljana
 - NEOS Tech Sarajevo
 
-### Dalekovod cluster
+Prosperus Growth NEOS and KREANCA SUSTAVI were merged into KONČAR – Digital on 2026-06-30. Current post-merger direct ownership paths for ADNET and NEOS remain a registry-reconciliation item.
+
+### Dalekovod
 - Dalekovod OSO
 - Dalekovod Projekt
 - Dalekovod EMU
@@ -69,35 +73,26 @@ Core entities and major operating entities identified in current/recent filings 
 - Dalekovod Ljubljana
 - Dalekovod Norge
 - Dalekovod Ukraine
-- DALEKOVOD MK was merged into KONČAR – Metalne konstrukcije around the turn of 2025/2026
 
-## Important 2026 ownership/status changes
+### Former INEM lineage
+Q1 listed **ENAKON MOBILITY** under former KONČAR – Electronics and Informatics. Current holder after the summer-2026 INEM restructuring remains to be explicitly verified.
 
-- 2026-01-02: KONČAR – Digital completed acquisition/control of NEOS group.
-- 2026-01: KONČAR Switzerland GmbH established.
-- 2026-03: KONČAR – Obnovljivi izvori acquired 75.1% of VABEKO RENEWABLE ENERGY.
-- 2026-04-08: KONČAR acquired remaining 25% of HELB → 100%.
-- 2026-06-30 / 2026-07-01:
-  - Prosperus Growth NEOS and KREANCA SUSTAVI merged into KONČAR – Digital.
-  - business unit “Assembly” incorporated into KONČAR – Helb.
-  - part of KONČAR – Elektronika i informatika assets/liabilities transferred to KONČAR – Helb.
-- 2026-07-31 / announced 2026-08-03: remaining KONČAR – Elektronika i informatika merged into KONČAR Inc.
+## 2026 capability-lineage changes
 
-## Why this matters for capability research
+- NEOS control acquired by KONČAR – Digital: 2026-01-02.
+- KONČAR Switzerland established: Jan 2026.
+- VABEKO Renewable Energy 75.1% acquired by Renewables: Mar 2026.
+- HELB became 100% KONČAR-owned: 2026-04-08.
+- Prosperus Growth NEOS + KREANCA SUSTAVI merged into Digital: 2026-06-30.
+- INEM **Power Supply** business unit separated into HELB.
+- INEM **Assembly** business unit incorporated into HELB.
+- remaining INEM merged into KONČAR Inc.; court registration 2026-07-31.
 
-Legal-entity deletion **does not mean capability deletion**. The research therefore maintains two parallel maps:
-1. **legal ownership map**
-2. **capability lineage map**
+## Research rule
 
-Example: embedded electronics, power electronics, control, automation or other engineering competencies formerly associated with INEM must be traced to their receiving organizational units after the 2026 restructuring.
+Legal-entity deletion does **not** imply capability deletion.  
+Always use both:
+1. legal ownership map;
+2. capability lineage map.
 
-## Required next reconciliation
-
-The definitive “current ownership graph” should be rebuilt from:
-1. H1 2026 consolidated report,
-2. all post-30-Jun-2026 status-change notices,
-3. current court/company registry where needed,
-4. current KONČAR website,
-5. subsidiary-level annual/interim reports.
-
-This file intentionally preserves both active and recently merged entities so capability history is not lost.
+See E004 for former INEM capability lineage and R001 for evidence/details.

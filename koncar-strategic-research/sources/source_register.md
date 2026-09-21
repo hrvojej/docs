@@ -262,6 +262,38 @@ Switzerland:
 - https://www.koncar.hr/en/ktk/transformer-tanks
 - https://koncar.hr/en/news/croatia-gains-new-production-center-for-global-energy-transformer-market
 
+## L. B005 rail fleet / battery / infrastructure intelligence benchmark
+
+### Rail lifecycle / predictive maintenance
+- https://www.alstom.com/stories/future-services-digital-healthhub
+- https://www.alstom.com/solutions/services/digital-railway-solutions-unlock-higher-asset-availability-reliability-and-performance
+- https://developer.siemens.com/railigent-x/overview.html
+- https://press.siemens.com/global/en/pressrelease/siemens-secures-long-term-service-contract-61-battery-powered-trains-westphalia
+- https://www.hitachirail.com/products-and-solutions/digital-asset-management/
+- https://www.hitachirail.com/products-and-solutions/digital-asset-management/hmax-for-trains/
+- https://www.railnova.eu/en/solutions
+- https://www.railnova.eu/en/products/railgenius
+
+### Battery / energy
+- https://www.abb.com/global/en/areas/motion/traction-services/traction-digital-solutions
+- https://www.abb.com/global/en/areas/motion/traction/traction-battery/pro
+- https://www.abb.com/global/en/areas/motion/traction-services/traction-lifecycle-services
+- https://www.wabteccorp.com/digital-intelligence/energy-management
+
+### Infrastructure measurement
+- https://www.mermecgroup.com/pageview.php?i=15
+- https://www.mermecgroup.com/pageview2.php?i=524&sl=1
+- https://www.mermecgroup.com/inspect/909/trackware.php
+
+### KONČAR rail
+- https://www.koncar.hr/en/koncar-electric-vehicles
+- https://koncar.hr/en/kev/about-us
+- https://www.koncar.hr/en/kev/news/battery-electric-train-debuts-croatian-rails
+- https://koncar.hr/en/news/croatias-first-battery-train-officially-launched-service
+- https://koncar.hr/en/kev/news/contracts-signed-for-6-new-bemus-and-construction-hybrid-charging-station-kotoriba-station
+- https://koncar.hr/en/kev/projects/delivery-measurement-train-prototype-mermec
+- https://www.hzinfra.hr/na-innotransu-predstavljen-mjerni-vlak-hz-infrastrukture/
+
 ## Source hierarchy
 
 1. current regulatory filing / audited official filing

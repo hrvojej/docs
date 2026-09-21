@@ -54,6 +54,7 @@
 | R001 | [Current Group Structure & Ownership](research/R001_current_group_structure_2026-09-21.md) | Baseline v1 | 2026-09-21 | High direct / medium post-merger indirect | 16 current direct subsidiaries, KPT affiliate, indirect clusters, 2026 restructuring |
 | R002 | [In-house AI, Data & Advanced Analytics](research/R002_inhouse_ai_data_capabilities_2026-09-21.md) | Baseline v1 | 2026-09-21 | High | AI/ML/data capability exists across Digital, Institute and NEOS lineage |
 | R003 | [Cross-Group Capability Atlas](research/R003_capability_atlas_baseline_2026-09-21.md) | Baseline v1 | 2026-09-21 | Medium-high | Initial capability map across direct entities + KPT |
+| R004 | [First-Wave Cross-Opportunity Synthesis](research/R004_first_wave_cross_opportunity_synthesis_2026-09-21.md) | Complete v1 | 2026-09-21 | Synthesis of E3/E4 evidence | Repeated productization/servitization pattern across O001–O006; validation phase defined |
 
 ## Entity dossiers
 
@@ -120,6 +121,7 @@ O### artifacts are not recommendations until customer/economics validation reach
 | S005 | 2026-09-21 | [B004 + O004](sessions/S005_2026-09-21_B004_O004.md) | Adaptive welding/automated NDT benchmark + internal-first heavy-fabrication capacity program |
 | S006 | 2026-09-21 | [B005 + O005](sessions/S006_2026-09-21_B005_O005.md) | Rail fleet/battery/charging benchmark + lifecycle intelligence service thesis |
 | S007 | 2026-09-21 | [B006 + O006](sessions/S007_2026-09-21_B006_O006.md) | Renewable/BESS portfolio intelligence benchmark + optimization/lifecycle thesis |
+| S008 | 2026-09-21 | [R004 synthesis](sessions/S008_2026-09-21_R004_first_wave_synthesis.md) | Cross-opportunity synthesis; shift from broad discovery to validation |
 
 ## Registration rule
 

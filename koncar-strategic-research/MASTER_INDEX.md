@@ -10,8 +10,10 @@
 2. **All research:** this MASTER INDEX
 3. **Company/capability profiles:** [entities/README.md](entities/README.md)
 4. **Evidence-based cross-cutting research:** [research/README.md](research/README.md)
-5. **Session history/capsules:** [sessions/README.md](sessions/README.md)
-6. **Reusable sources:** [sources/source_register.md](sources/source_register.md)
+5. **External commercial benchmarks:** [benchmarks/README.md](benchmarks/README.md)
+6. **Opportunity theses:** [opportunities/README.md](opportunities/README.md)
+7. **Session history/capsules:** [sessions/README.md](sessions/README.md)
+8. **Reusable sources:** [sources/source_register.md](sources/source_register.md)
 
 ## Artifact classes
 
@@ -81,17 +83,28 @@ All E### profiles below exist as **baseline v1** and are inputs to deeper resear
 
 ## External benchmarks
 
-No B### benchmark is complete yet. First B### studies will be selected by intersecting the E### capability map with commercially proven external categories.
+| ID | Benchmark | Status | Main conclusion |
+|---|---|---|---|
+| B001 | [Transformer Asset Intelligence & Predictive Lifecycle Services](benchmarks/B001_transformer_asset_intelligence_2026-09-21.md) | Complete v1 | Mature E3 category; commercial model is shifting from monitoring hardware to fleet software + expert service + SLA/performance contracts |
+
+Full list: [benchmarks/README.md](benchmarks/README.md)
 
 ## Opportunity theses
 
-No O### thesis is validated yet. F004 categories remain hypotheses until benchmark + customer + economics evidence exists.
+| ID | Opportunity | Status | Evidence |
+|---|---|---|---|
+| O001 | [KONČAR Transformer Intelligence & Lifecycle Service](opportunities/O001_transformer_intelligence_lifecycle_service.md) | Candidate validation | Market E3 / KONČAR fit E4 / commercial E5 pending |
+
+Full list: [opportunities/README.md](opportunities/README.md)
+
+O### artifacts are not recommendations until customer/economics validation reaches E5.
 
 ## Session capsules
 
 | ID | Date | Artifact | Summary |
 |---|---|---|---|
 | S001 | 2026-09-21 | [Foundation + Group Baseline](sessions/S001_2026-09-21_foundation_and_group_baseline.md) | Scope, repository protocol, R001–R003 and E001–E019 baseline |
+| S002 | 2026-09-21 | [B001 + O001](sessions/S002_2026-09-21_B001_O001.md) | First outside-in benchmark; transformer intelligence market + KONČAR productization thesis |
 
 ## Registration rule
 

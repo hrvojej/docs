@@ -229,6 +229,39 @@ Switzerland:
 - https://www.koncar.hr/en/koncar-hydro-turbines
 - https://www.koncar.hr/en/gim/hydro-generators-1
 
+## K. B004 adaptive welding / automated NDT / smart fabrication benchmark
+
+### High-mix robotic welding
+- https://www.millerwelds.com/en-us/case-studies/how-ifh-group-increased-throughput-with-robotic-welding-automation
+- https://verbotics.com/news/2022-08-02-trt-case-study/
+- https://verbotics.com/
+- https://www.path-robotics.com/videos/generator-tank-welding-cell-factory-acceptance-test
+
+### Weld sensing / inspection / AI
+- https://servo-robot.com/
+- https://servo-robot.com/arc-seam-finding/
+- https://servo-robot.com/laser-seam-tracking/
+- https://servo-robot.com/arc-weld-inspection/
+- https://servo-robot.com/laser-weld-inspection/
+- https://servo-robot.com/wiki-scan-a-revolution-in-weld-quality-management/
+- https://www.novarctech.com/products/novai/
+- https://www.novarctech.com/products/novai/novai-capture/
+- https://www.novarctech.com/products/novai/novai-autonomy/
+
+### Automated NDT / dimensional QA
+- https://www.eddyfi.com/en/appnote/mechanized-paut-and-tofd-inspection-techniques-for-monopile-and-wind-tower-welds
+- https://www.eddyfi.com/en/preview/products/202/2/en/product/automated-inspection-solutions
+- https://www.irelec-alcen.com/case-study/robot-ut-alsymex/
+- https://www.creaform3d.com/en/resources/blog/how-xtreme-manufacturing-improved-quality-and-inspection-efficiency-using-the-handyscan-3d-max-series
+
+### KONČAR manufacturing
+- https://koncar.hr/en/kmk/news/investments-welding-technology
+- https://koncar.hr/en/kmk/about-us
+- https://www.koncar.hr/en/kmk/manufacturing-capacities
+- https://koncar.hr/en/kmk/quality-and-certifications
+- https://www.koncar.hr/en/ktk/transformer-tanks
+- https://koncar.hr/en/news/croatia-gains-new-production-center-for-global-energy-transformer-market
+
 ## Source hierarchy
 
 1. current regulatory filing / audited official filing

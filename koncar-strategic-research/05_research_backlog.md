@@ -1,97 +1,118 @@
 # Research backlog
 
-**As-of:** 2026-09-21
+**As-of:** 2026-09-21  
+**Canonical inventory:** [MASTER_INDEX.md](MASTER_INDEX.md)
+
+## Status legend
+- ✅ baseline complete
+- 🔄 active / deepen
+- ⬜ not started
 
 ## Workstream 1 — Definitive Group map
-- reconcile H1 2026 consolidation perimeter
-- apply Jul/Aug 2026 mergers/demergers
-- capture ownership percentages
-- identify all indirect subsidiaries and associates
-- trace capabilities of merged entities
-- create Mermaid ownership graph
-- identify geographic locations/plants/labs
+- ✅ reconcile Q1 2026 direct consolidation perimeter with Jul/Aug 2026 mergers/demergers → R001 v1
+- ✅ capture current direct subsidiaries + KPT affiliate
+- ✅ trace major capability-lineage changes from INEM / Kreanca / Prosperus Growth NEOS
+- 🔄 reconcile remaining indirect post-merger ownership paths:
+  - ADNET
+  - NEOS
+  - ENAKON MOBILITY
+- ⬜ registry-grade legally exhaustive appendix, including dormant/immaterial entities
+- ⬜ Mermaid ownership graph after legal reconciliation
+- 🔄 geographic locations/plants/labs inventory through E### deep dives
 
-## Workstream 2 — Company deep dives
-One file per company/capability lineage:
-- products
-- manufacturing
-- R&D
-- software
-- AI/ML
-- sensors/control
-- service
-- installed base
-- markets
-- references
-- financial scale
-- patents/projects
-- potential adjacencies
+## Workstream 2 — Company / capability dossiers
+- ✅ create E001–E019 baseline dossiers
+- 🔄 deepen priority dossiers with:
+  - products and product architecture
+  - manufacturing capacity / labs
+  - R&D projects
+  - software/data/AI stack
+  - sensors/control/embedded
+  - patents/IP/publications
+  - service model
+  - installed base
+  - customer references
+  - revenue/financial scale
+  - current organization/headcount
+  - datasets / data rights
+  - commercial adjacencies
 
-Priority:
-1. Electrical Engineering Institute
-2. Digital + NEOS/ADNET
-3. former INEM lineage
-4. HELB
-5. Dalekovod
-6. D&ST
-7. Generators & Motors
-8. Hydro Turbine
-9. Electric Vehicles
-10. Switchgear
-11. Renewables
-12. Instrument Transformers
-13. Motors & Electrical Systems
-14. Metal Structures
-15. Transformer Tanks
+Priority deep-dive sequence:
+1. E001 Electrical Engineering Institute
+2. E002 KONČAR Digital
+3. E003 NEOS
+4. E004 former INEM capability lineage
+5. E005 HELB
+6. E006 Dalekovod
+7. E007 D&ST
+8. E009 Hydro Turbine
+9. E010 Electric Vehicles
+10. E015/E016 manufacturing pair
+11. remaining dossiers as demanded by B### benchmarks
 
 ## Workstream 3 — In-house AI/data inventory
-Search:
-- AI/ML projects
-- data science teams
-- computer vision
-- predictive maintenance
-- digital twins
-- anomaly detection
-- optimization
-- cloud/data platforms
-- EU research projects
-- university collaborations
-- job postings revealing stack/capabilities
-- patents/publications
+- ✅ R002 baseline: AI/data capability confirmed in Digital + Institute + NEOS
+- 🔄 quantify teams, production deployments, model/data stack and revenue-bearing use cases
+- ⬜ complete AI-related patents/publications inventory
+- ⬜ determine computer-vision capability depth
+- ⬜ determine robotics/autonomy capability depth
+- ⬜ assess MLOps/model governance and critical-infrastructure deployment maturity
 
-## Workstream 4 — Global commercial benchmark
-For each opportunity family:
-- 5–15 vendors
-- 3–10 actual customer deployments
-- product architecture
-- pricing/business model where available
-- market maturity
-- funding/M&A signals
-- regulation
-- technical differentiators
+## Workstream 4 — Global commercial benchmarks
+
+Each B### must include:
+- 5–15 relevant vendors where category breadth justifies it;
+- 3–10 real customer deployments when evidence exists;
+- product architecture;
+- buyer and procurement model;
+- pricing/business model where available;
+- commercial maturity;
+- technical differentiators;
+- regulation/certification;
+- funding/M&A signals where useful;
+- clear mapping back to E### internal capabilities.
+
+First benchmark families:
+1. ⬜ equipment intelligence / predictive lifecycle service
+2. ⬜ autonomous grid/substation inspection
+3. ⬜ hydro / underwater inspection and maintenance
+4. ⬜ industrial computer vision / robotic NDT / smart manufacturing
+5. ⬜ rail/battery/fleet/measurement intelligence
+6. ⬜ renewable O&M / autonomous inspection / forecasting / BESS optimization
 
 ## Workstream 5 — Opportunity thesis generation
-Create specific product theses after capability and market evidence intersect.
+⬜ Create O### only after capability + external commercial evidence intersect.
+
+Each O### must define:
+- buyer / job-to-be-done;
+- specific product boundary;
+- existing commercial references;
+- required technical stack;
+- KONČAR contribution by entity;
+- missing capabilities;
+- defensibility;
+- monetization;
+- pilot path.
 
 ## Workstream 6 — Gap analysis
-For each shortlisted thesis:
-- map complete stack
-- identify KONČAR owner for every stack layer
-- missing capabilities
-- build/partner/acquire
-- pilot design
+For each shortlisted O###:
+- ⬜ map complete stack
+- ⬜ assign KONČAR capability owner for each layer
+- ⬜ G0–G5 gaps
+- ⬜ build / partner / acquire decision
+- ⬜ pilot design
 
 ## Workstream 7 — Economics & prioritization
-- market size
-- reachable market via existing channels
-- pilot cost
-- productization cost
-- CAPEX
-- revenue model
-- margin
-- recurring revenue
-- export potential
-- time-to-market
+For validated O###:
+- ⬜ addressable/reachable market
+- ⬜ pilot/productization cost
+- ⬜ CAPEX
+- ⬜ revenue model
+- ⬜ margin logic
+- ⬜ recurring revenue
+- ⬜ export potential
+- ⬜ time-to-market
+- ⬜ customer ROI/payback
 
 ## Workstream 8 — Customer validation
 Potential buyer groups:
@@ -105,13 +126,16 @@ Potential buyer groups:
 - EPC customers
 - data centers / critical infrastructure
 
-## Deliverables
+No customer-validation result is considered complete until evidence is captured in an R###, B### or O### artifact.
 
-- definitive group map
-- capability atlas
-- global benchmark atlas
-- opportunity cards
-- gap matrices
-- shortlist for pilots
-- build/partner/acquire recommendations
-- business cases
+## Deliverables
+- ✅ initial current Group map
+- ✅ initial capability atlas
+- ✅ E001–E019 baseline dossiers
+- ⬜ registry-grade ownership appendix
+- ⬜ global benchmark atlas
+- ⬜ opportunity cards
+- ⬜ gap matrices
+- ⬜ pilot shortlist
+- ⬜ build/partner/acquire recommendations
+- ⬜ validated business cases

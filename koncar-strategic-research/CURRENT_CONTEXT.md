@@ -2,7 +2,7 @@
 
 **Program:** KONČAR Strategic Technology & New Business Research  
 **As-of:** 2026-09-21  
-**Status:** foundation + Group/capability baseline + E001–E019 + B001–B004 + O001–O004 candidates
+**Status:** foundation + Group/capability baseline + E001–E019 + B001–B005 + O001–O005 candidates
 
 ## Objective
 
@@ -131,7 +131,27 @@ External benchmarks show:
 
 This produced [O004](opportunities/O004_adaptive_heavy_fabrication_program.md), an **internal-first** opportunity: release bottleneck capacity and scarce skilled labour before considering external commercialization.
 
-### 10. Strategic constraint to keep in mind
+### 10. Fifth outside-in result — rail fleet / battery / charging intelligence
+[B005](benchmarks/B005_rail_fleet_battery_infrastructure_intelligence_2026-09-21.md) confirms a mature rail-digital lifecycle market: OEMs combine telemetry, predictive maintenance and digital workflows with multi-year/full-lifecycle service contracts.
+
+Key market evidence:
+- Alstom HealthHub: 100+ projects and 18k+ cars monitored;
+- Hitachi HMAX: 2,000+ trains / 200,000 systems;
+- Siemens Railigent X: long-term predictive-maintenance contracts, including a 2026 battery-train deal for 61 Mireo Plus B units with service up to 30 years;
+- ABB traction batteries: remote condition monitoring + performance warranty + SLA.
+
+KONČAR-specific evidence is strong and current:
+- BEMU/BMU/EDMU portfolio;
+- battery trains and charging stations in operation/contracts;
+- 2026 contract for 6 additional BEMUs and hybrid Kotoriba charging station with PV + storage;
+- existing long-term rolling-stock maintenance;
+- KONČAR has publicly stated it is already **developing a centralized platform for system-wide coordination** of battery-rail operations/charging.
+
+This produced [O005](opportunities/O005_rail_fleet_battery_intelligence_service.md): vehicle health + battery SOH/RUL + charging orchestration + predictive maintenance + lifecycle SLA.
+
+Important boundary: the measurement train does not automatically give KONČAR infrastructure-measurement IP. MERMEC installed proprietary measurement systems, so data/algorithm rights must be validated separately.
+
+### 11. Strategic constraint to keep in mind
 2026 corporate reporting points to **production capacity and availability of qualified specialist personnel** as important growth constraints. New opportunities should therefore be evaluated not only on revenue potential but also on whether they:
 - increase lifecycle/software/service revenue;
 - leverage installed base and existing channels;
@@ -154,12 +174,14 @@ This produced [O004](opportunities/O004_adaptive_heavy_fabrication_program.md), 
 - **B002** — [Autonomous Grid & Substation Inspection](benchmarks/B002_autonomous_grid_substation_inspection_2026-09-21.md)
 - **B003** — [Hydropower Underwater Inspection, ROV & Robotic NDT](benchmarks/B003_hydro_underwater_inspection_2026-09-21.md)
 - **B004** — [Adaptive Robotic Welding, Automated NDT & Smart Heavy Fabrication](benchmarks/B004_adaptive_welding_automated_ndt_smart_fabrication_2026-09-21.md)
+- **B005** — [Rail Fleet, Battery & Infrastructure Intelligence](benchmarks/B005_rail_fleet_battery_infrastructure_intelligence_2026-09-21.md)
 
 ### Opportunity candidates
 - **O001** — [KONČAR Transformer Intelligence & Lifecycle Service](opportunities/O001_transformer_intelligence_lifecycle_service.md)
 - **O002** — [KONČAR Grid Inspection Intelligence & Remote Inspection Service](opportunities/O002_grid_inspection_intelligence_service.md)
 - **O003** — [KONČAR Hydro Underwater Inspection & Lifecycle Service](opportunities/O003_hydro_underwater_inspection_lifecycle_service.md)
 - **O004** — [KONČAR Adaptive Heavy Fabrication & Digital Quality Program](opportunities/O004_adaptive_heavy_fabrication_program.md)
+- **O005** — [KONČAR Rail Fleet & Battery Intelligence Lifecycle Service](opportunities/O005_rail_fleet_battery_intelligence_service.md)
 
 ### Complete registry
 - [MASTER_INDEX.md](MASTER_INDEX.md)
@@ -171,8 +193,8 @@ This produced [O004](opportunities/O004_adaptive_heavy_fabrication_program.md), 
 - No market-size or margin claim is considered validated yet.
 - Detailed current ownership of some indirect subsidiaries after the summer-2026 mergers still requires registry-level reconciliation.
 - E001–E019 are **baseline dossiers**, not exhaustive deep dives: team size, IP/patents, installed-base data, exact software stacks, customer references, economics and current internal organization still need deeper validation where relevant.
-- B001–B004 are complete; rail and renewable benchmarks remain pending.
-- O001–O004 are candidate theses/programs, not validated business cases/ROI cases. Customer willingness-to-pay, pricing, internal ownership, service economics and pilot assets still require validation.
+- B001–B005 are complete; renewable O&M/BESS benchmark remains pending.
+- O001–O005 are candidate theses/programs, not validated business cases/ROI cases. Customer willingness-to-pay, pricing, internal ownership, service economics and pilot assets still require validation.
 
 ## Next research sequence
 
@@ -183,9 +205,9 @@ This produced [O004](opportunities/O004_adaptive_heavy_fabrication_program.md), 
    - ✅ B002 autonomous grid/substation inspection;
    - ✅ B003 hydro / underwater inspection and maintenance;
    - ✅ B004 industrial CV / robotic NDT / smart manufacturing;
-   - next: rail/battery/fleet/measurement intelligence;
-   - renewable O&M / inspection / forecasting / BESS optimization.
-4. Validate O001–O003 commercially and O004 through factory bottleneck/OEE/ROI data.
+   - ✅ B005 rail/battery/fleet/measurement intelligence;
+   - next: renewable O&M / inspection / forecasting / BESS optimization.
+4. Validate O001–O003 commercially, O004 through factory bottleneck/OEE/ROI data, and O005 by deep-diving the centralized coordination platform/BMS/data rights.
 5. Generate further O### theses only where market evidence and internal capability intersect.
 6. Perform stack-level gap analysis + build/partner/acquire.
 7. Validate economics and pilot paths.

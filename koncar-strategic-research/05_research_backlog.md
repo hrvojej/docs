@@ -78,7 +78,7 @@ First benchmark families:
 3. ✅ B003 hydro / underwater inspection and maintenance
 4. ✅ B004 industrial computer vision / robotic NDT / smart manufacturing
 5. ✅ B005 rail/battery/fleet/measurement intelligence
-6. ⬜ renewable O&M / autonomous inspection / forecasting / BESS optimization
+6. ✅ B006 renewable O&M / autonomous inspection / forecasting / BESS optimization
 
 ## Workstream 5 — Opportunity thesis generation
 - ✅ O001 Transformer Intelligence & Lifecycle Service created from B001 + internal evidence
@@ -86,9 +86,11 @@ First benchmark families:
 - ✅ O003 Hydro Underwater Inspection & Lifecycle Service created from B003 + internal evidence
 - ✅ O004 Adaptive Heavy Fabrication & Digital Quality Program created from B004 + internal factory evidence
 - ✅ O005 Rail Fleet & Battery Intelligence Lifecycle Service created from B005 + internal rail/battery/charging evidence
+- ✅ O006 Renewable & BESS Intelligence / Optimization Lifecycle Service created from B006 + internal BESS/SCADA/renewables evidence
 - 🔄 O001–O003 require customer/economics/pilot validation before E5
 - 🔄 O004 requires factory bottleneck/OEE/ROI validation before rollout
 - 🔄 O005 requires centralized-platform/BMS/data-rights/customer/economics validation
+- 🔄 O006 requires KONBAT lineage, portfolio architecture, asset data rights and customer/economics validation
 - ⬜ Create additional O### only after capability + external commercial evidence intersect.
 
 Each O### must define:
@@ -103,12 +105,12 @@ Each O### must define:
 - pilot path.
 
 ## Workstream 6 — Gap analysis
-For O001–O005:
+For O001–O006:
 - ✅ initial stack maps
 - ✅ initial KONČAR capability owners
 - ✅ initial G0–G5 gap maps
 - ✅ initial build/partner/acquire views
-- ✅ no acquisition required for MVP/pilot of any of the first five opportunities on current evidence
+- ✅ no acquisition required for MVP/pilot of any of the first six opportunities on current evidence
 - 🔄 pilot design / exact asset selection pending
 
 For future O###:
@@ -149,8 +151,8 @@ No customer-validation result is considered complete until evidence is captured 
 - ✅ initial capability atlas
 - ✅ E001–E019 baseline dossiers
 - ⬜ registry-grade ownership appendix
-- 🔄 global benchmark atlas — B001–B005 complete, remaining families pending
-- 🔄 opportunity cards — O001–O005 candidates created
+- 🔄 global benchmark atlas — B001–B006 complete, remaining families pending
+- 🔄 opportunity cards — O001–O006 candidates created
 - ⬜ gap matrices
 - ⬜ pilot shortlist
 - ⬜ build/partner/acquire recommendations

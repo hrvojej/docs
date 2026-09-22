@@ -1,25 +1,21 @@
-# KONČAR strategic technology & new business research
+# KONČAR — istraživanje poslovnih prilika
 
-Istraživanje novih proizvoda, usluga i produktivnosti cijele Grupe — šire od AI-a, ROV-ova i robotike.
+Cijela Grupa, postojeće industrijske kompetencije i komercijalne primjene novih tehnologija. AI, ROV i robotika nisu unaprijed odabrani pobjednici.
 
-## Početak
+**[MASTER_INDEX — potpuni katalog](MASTER_INDEX.md)** · **[CURRENT_CONTEXT — za novi chat](CURRENT_CONTEXT.md)** · **[Šest zadataka i status](validation/TASK_BOARD.md)**
 
-**[MASTER_INDEX — potpuni katalog](MASTER_INDEX.md)**
+## Aktualno — 22. 9. 2026.
 
-**[CURRENT_CONTEXT — koncentrirani kontekst za novi chat](CURRENT_CONTEXT.md)**
+**Najviše šest zadataka, jedan po prilici O001–O006. Samo javni online izvori, bez dodatnih pitanja i zahtjeva za internim podacima.**
 
-**[TASK_BOARD — svih 32 validacijskih zadataka](validation/TASK_BOARD.md)**
+**O001 je dovršen:** [monitoring transformatora kao stručna pretplatnička usluga](opportunities/O001_transformer_intelligence_lifecycle_service.md). Preporuka je proširenje postojećeg TMS/dijagnostičkog servisa, ne nova velika platforma. Izvještaj sadrži javne dokaze, ponudu/kupce, gapove, scenarije ekonomike, rizike i preporučeni ulazak. Scenariji nisu stvarne cijene ili ostvarena dobit.
 
-## Pregled po vrsti
+Sljedeći je **O002 — inspekcije mreže**. Nakon njega slijede O003 hidro/ROV, O004 proizvodnja, O005 vlakovi/baterije i O006 obnovljivi/BESS. Završna usporedba ide unutar O006, bez dodatnog zadatka.
 
-[Istraživanja](research/README.md) · [Profili društava](entities/README.md) · [Benchmarkovi](benchmarks/README.md) · [Opportunity teze](opportunities/README.md) · [Sesije](sessions/README.md) · [Izvori](sources/README.md)
+## Dokumentacija
 
-## Aktualno — 2026-09-22
+[Prilike](opportunities/README.md) · [Istraživanja](research/README.md) · [Profili društava](entities/README.md) · [Benchmarkovi](benchmarks/README.md) · [Sesije](sessions/README.md) · [Izvori](sources/README.md)
 
-Prvi javni pregled obuhvaća R001–R004, E001–E019 i B001–B006. Svih šest O### su kandidati, ne potvrđeni business caseovi. Validacijski program je u [R005](research/R005_validation_program_2026-09-22.md); prvi task O001-A završen je kao javni audit u [R006](research/R006_O001_existing_stack_offer_audit_2026-09-22.md).
+Stari 32-task validacijski program ostaje samo arhiva. Nepoznati podaci obrađuju se ograničenjima i izričitim pretpostavkama; ne zaustavljaju javni research. Opis preporučenog pilota nije tvrdnja da je pilot izveden.
 
-Sljedeća faza odvojeno provjerava stvarne interne arhitekture/prava/servise, kupce/cijene, inkrementalnu ekonomiku i rezultate pilota. Javno nepoznata funkcija ne označava se automatski kao nedostatak. Ne predlagati dupliciranje postojećih proizvoda.
-
-Repo je public. Interni ugovori, cijene, sigurnosne arhitekture i proizvodni podaci ne pohranjuju se ovdje bez odgovarajućeg odobrenja i zaštite.
-
-Svaki materijalni output mora imati MD artefakt, datum, izvore, činjenice/hipoteze/nepoznanice, odluku i sljedeći korak te poveznicu u MASTER_INDEX-u. Planirano nije isto što i isporučeno; nacrt pilota nije izveden pilot.
+Svaki završni rezultat pohranjen je u MD-u i upisan u MASTER_INDEX, TASK_BOARD i CURRENT_CONTEXT. Povijesni materijali ostaju dostupni radi kontinuiteta.

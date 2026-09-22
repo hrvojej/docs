@@ -12,9 +12,10 @@
 | S006 | 2026-09-21 | [B005/O005 rail](S006_2026-09-21_B005_O005.md) |
 | S007 | 2026-09-21 | [B006/O006 renewable/BESS](S007_2026-09-21_B006_O006.md) |
 | S008 | 2026-09-21 | [R004 synthesis](S008_2026-09-21_R004_first_wave_synthesis.md) |
-| S009 | 2026-09-22 | [Raniji R005/R006 validation launch](S009_2026-09-22_validation_launch.md) |
-| S010 | 2026-09-22 | [Šest zadataka + dovršen O001](S010_2026-09-22_six_tasks_O001_complete.md) |
-| S011 | 2026-09-22 | [Dovršen O002 — stručne mrežne inspekcije](S011_2026-09-22_O002_complete.md) |
-| S012 | 2026-09-22 | [Dovršen O003 — hidro/ROV](S012_2026-09-22_O003_complete.md) |
+| S009 | 2026-09-22 | [Raniji validation launch](S009_2026-09-22_validation_launch.md) |
+| S010 | 2026-09-22 | [Šest zadataka + O001](S010_2026-09-22_six_tasks_O001_complete.md) |
+| S011 | 2026-09-22 | [Dovršen O002](S011_2026-09-22_O002_complete.md) |
+| S012 | 2026-09-22 | [Dovršen O003](S012_2026-09-22_O003_complete.md) |
+| S013 | 2026-09-22 | [Dovršen O004 — proizvodnja i kvaliteta](S013_2026-09-22_O004_complete.md) |
 
-S010 zamjenjuje proces iz S009: javni izvori, najviše šest završnih procjena, bez pitanja i internih zahtjeva. S011 zatvara O002, S012 zatvara O003. Starije sesije čuvaju povijest, ne aktualni red rada. **Sljedeći je O004 — adaptivna proizvodnja i digitalna kvaliteta.**
+Aktivni način rada iz S010: javni izvori, najviše šest procjena, bez pitanja i internih zahtjeva. O001–O004 završeni. **Sljedeći je O005 — vlakovi, baterije i punjenje.** Starije sesije čuvaju povijest, ne aktualni red rada.

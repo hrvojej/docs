@@ -1,68 +1,66 @@
 # CURRENT CONTEXT — učitati prvo
 
-**Ažurirano: 22. 9. 2026. Šest zadataka ukupno; O001–O003 dovršeni, O004 sljedeći.**
+**22. 9. 2026. Šest zadataka ukupno; O001–O004 dovršeni, O005 sljedeći.**
 
-[MASTER_INDEX — sve](MASTER_INDEX.md) · [TASK_BOARD — šest zadataka](validation/TASK_BOARD.md) · [O003 — zadnji završni izvještaj](opportunities/O003_hydro_underwater_inspection_lifecycle_service.md)
+[MASTER_INDEX](MASTER_INDEX.md) · [TASK_BOARD](validation/TASK_BOARD.md) · [O004 — najnoviji završni izvještaj](opportunities/O004_adaptive_heavy_fabrication_program.md)
 
-## Cilj i obvezna jednostavnost
+## Cilj i način rada
 
-Istražiti profitabilne nove proizvode, usluge ili interne produktivnosne pomake za cijelu KONČAR Grupu. AI, NEOS, ROV i robotika nisu unaprijed zadani pobjednici.
+Istražiti profitabilne proizvode, usluge ili internu produktivnost cijele KONČAR Grupe. AI, NEOS, ROV i robotika nisu unaprijed zadani pobjednici. Korisnik nema interne podatke: **bez dodatnih pitanja, samo javni online izvori, najviše šest zadataka — jedan po O001–O006**. Stari A–E/X01/X02 i plan od 32 taska nisu aktivni; R005 je arhiva, R006 tehnička podloga.
 
-**Korisnik nema interne podatke. Ne postavljati dodatna pitanja. Koristiti javne online izvore i završiti kroz najviše šest zadataka — jedan po O001–O006.** Stari plan od 32 zadatka, A–E/X01/X02 i čekanje internih arhitektura, intervjua ili pilota nije aktivno. R005 je arhiva; R006 je tehnička podloga, ne razlog za čekanje.
-
-Jedan O### = jedan završni MD s kupcem/ponudom, javnim dokazima, kompetencijama/gapovima, scenarijima ekonomike, rizicima i preporukom. Nepoznato nije dokazani gap. Scenarij nije cjenik, as-built, ostvarena dobit ili izveden pilot. Provjera matematike i sažetak sesije nisu dodatni research taskovi. Završna usporedba ide unutar O006, bez sedmog zadatka.
+Jedan O### = završni MD s preporukom, kupcem/ponudom, izvorima, kompetencijama/gapovima, ekonomikom i rizicima. Nepoznato nije dokazani gap. Scenarij nije cjenik, ostvarena dobit, interna arhitektura ili izveden pilot. Računska kontrola i sesija nisu dodatni zadaci. Završna usporedba ide unutar O006, bez sedmog taska.
 
 ## Status
 
 | ID | Predmet | Status |
 |---|---|---|
-| O001 | Transformer monitoring + stručni servis | **DOVRŠENO iz javnih izvora** |
-| O002 | Inspekcije mreže dronovima i robotima | **DOVRŠENO iz javnih izvora** |
-| O003 | Podvodne hidro inspekcije | **DOVRŠENO iz javnih izvora** |
-| O004 | Adaptivna proizvodnja/digitalna kvaliteta | **SLJEDEĆI**; interna ekonomika, ne SaaS ARR |
-| O005 | Rail fleet/battery/charging | Preostaje |
-| O006 | Renewable/BESS portfolio optimizacija | Preostaje; uključuje završnu usporedbu |
+| O001 | Transformer monitoring + stručni servis | DOVRŠENO |
+| O002 | Inspekcije mreže dronovima i robotima | DOVRŠENO |
+| O003 | Podvodne hidro inspekcije | DOVRŠENO |
+| O004 | Adaptivna proizvodnja/digitalna kvaliteta | DOVRŠENO; interna ekonomika |
+| O005 | Rail fleet/battery/charging | SLJEDEĆI |
+| O006 | Renewable/BESS portfolio | Preostaje; uključuje završnu usporedbu |
 
-O004–O006 postoje kao podloge, ne završne procjene ovog plana. Linkovi su u glavnom indeksu.
+O005–O006 već postoje kao podloge, ne kao završne procjene novog plana. Poveznice su u masteru.
 
 ## Trajni rezultat O001
 
-[O001](opportunities/O001_transformer_intelligence_lifecycle_service.md): DA ograničenom komercijalnom proširenju postojećeg TMS-a i stručnog servisa; NE novoj velikoj platformi ili akviziciji. Segment: kritični transformatori s monitoringom kojima treba stručna interpretacija. Početni paket u radno vrijeme, kvartalni izvještaji i preporuke, bez 24/7 centra ili jamstva da kvar neće nastati.
+[O001](opportunities/O001_transformer_intelligence_lifecycle_service.md): DA ograničenom komercijalnom proširenju postojećeg TMS-a i stručnog servisa; NE novoj velikoj platformi/akviziciji. Kritični transformatori s monitoringom i potrebom za stručnom interpretacijom. Početni paket u radno vrijeme, kvartalni izvještaji, bez jamstva da kvar neće nastati i bez novog 24/7 centra.
 
-**Scenarij:** 3.000 EUR/godina/uređaj, 1.500 varijabilno, 75.000 godišnje fiksno, 50.000 početno. Pri 100 punogodišnjih uređaja: 300.000 prihoda, 75.000 doprinosa nakon godišnjih troškova, 25.000 nakon početnog izdatka. Pokriće 50 uređaja, prva godina 84. [Računica](sources/O001_economics_check.md).
+Scenarij: 3.000 EUR/godina/uređaj; 1.500 varijabilno, 75.000 godišnje fiksno, 50.000 početno. Pri 100 punogodišnjih uređaja 300.000 prihoda, 75.000 doprinosa nakon godišnjih troškova, 25.000 nakon pripreme. Pokriće 50 uređaja; prva godina 84. [Računica](sources/O001_economics_check.md).
 
-Ne zna se nedostaju li postojeće fleet/SLA funkcije; ako postoje, širiti prodaju. iPDCore teritorijalna napomena odnosi se na određenu tehniku, ne cijeli TMS. Povijesna isporuka nije aktivni pretplatnik. Data/IP i certifikacije ne prenose se automatski.
+Nepoznate postojeće fleet/SLA funkcije nisu dokaz nedostatka. Ako postoje, širiti prodaju. iPDCore teritorijalna napomena vrijedi za određenu tehniku, ne cijeli TMS. Povijesna isporuka nije aktivni pretplatnik; data/IP/certifikacije se ne prenose automatski.
 
 ## Trajni rezultat O002
 
-[O002](opportunities/O002_grid_inspection_intelligence_service.md): DA periodičnim stručnim vizualnim/termalnim pregledima s poviješću nalaza; mobilna ekipa i postojeći/partnerski hardver prvo. NE vlastitom dronu/četveronožnom robotu ili širokom dock rollout-u.
+[O002](opportunities/O002_grid_inspection_intelligence_service.md): DA periodičnim stručnim vizualnim/termalnim pregledima; mobilna ekipa i postojeći/partnerski hardver prvo. NE vlastitom dronu/četveronožnom robotu ili širokom dock rollout-u. Dva posjeta godišnje omeđenoj jednodnevnoj trafostanici, nalaz po komponenti, povijest i preporuke. Dalekovode posebno ugovarati. AI asistira, stručnjak potvrđuje; bez upravljanja SCADA-om.
 
-Početni paket: dva posjeta godišnje omeđenoj jednodnevno pregledljivoj trafostanici; evidencija po komponenti, stručni nalaz, usporedba i izvoz. Dalekovode posebno ugovarati po dionici/stupovima. AI asistira, stručnjak potvrđuje; bez upravljačkog pristupa SCADA-i.
+Scenarij: 6.000 EUR/lokacija/godina, 3.500 varijabilno, 45.000 godišnje fiksno, 30.000 početno. Pri 50 lokacija 300.000 prihoda, 80.000 doprinosa, 50.000 nakon pripreme. Pokriće 18; pri 30 prva godina nula. Pri cijeni 4.500 i 50 lokacija samo 5.000 godišnje. [Računica](sources/O002_economics_check.md).
 
-**Scenarij:** 6.000 EUR/lokacija/godina, 3.500 varijabilno, 45.000 godišnje fiksno, 30.000 početno. Pri 50 lokacija: 300.000 prihoda, 80.000 godišnjeg doprinosa, 50.000 nakon pripreme. Operativno pokriće 18 lokacija; pri 30 prva godina je nula. Cijena 4.500 uz 50 lokacija daje samo 5.000 godišnje. [Računica](sources/O002_economics_check.md).
-
-Dock zasebno: 1.200/misiji mobilno nasuprot 18.000 fiksno + 150/misiji. Povoljniji od 18. stvarno potrebne istovrsne misije na istoj lokaciji, samo u tom scenariju. Za dva pregleda godišnje mobilna ekipa. BVLOS odobrenje mora pokrivati konkretnu operaciju.
-
-Korekcije stare podloge: RTE/ANYmal 2023. je evaluacija na replikama u Campus Transfo; FPL 2022. objava nije potvrda aktualnog ukupnog broja instalacija. Dokazi su u O002.
+Dock zasebno: 1.200/misiji mobilno nasuprot 18.000 godišnje + 150/misiji. Jeftiniji od 18. potrebne istovrsne misije na istoj lokaciji samo u tom scenariju. BVLOS okvir mora pokrivati konkretnu operaciju. RTE/ANYmal 2023. je evaluacija na replikama; FPL 2022. objava nije aktualni ukupni broj instalacija.
 
 ## Trajni rezultat O003
 
-[O003](opportunities/O003_hydro_underwater_inspection_lifecycle_service.md): DA podvodnom pregledu i hidro-inženjerskom nalazu kao proširenju servisa. **Partner s ROV-om i operativnom ekipom prvo; ne vlastiti generički ROV razvoj.** Najam samo opreme traži vlastitu osposobljenu operativu; kupnja gotovog sustava tek prema konkretnom volumenu i zahtjevima.
+[O003](opportunities/O003_hydro_underwater_inspection_lifecycle_service.md): DA pregledu i hidro-inženjerskom nalazu uz partnersku ROV ekipu. Najam same opreme traži vlastitu operativu; kupnja gotovog sustava tek uz prikladan volumen. NE vlastitom generičkom ROV razvoju. Početno imenovane dostupne zone, jedan terenski i tri ukupna inženjerska dana po kampanji; dugi cjevovodi, NDT/3D/sanacija odvojeno.
 
-Početna kampanja: imenovane dostupne zone, jedan planirani terenski dan, ukupno tri inženjerska dana za pripremu/teren/izvještaj. Naplatiti prihvatljiv stručni ishod i dokumentirati nepregledano. Ne obećavati pregled cijele brane ili cijelog sustava. Dugi cjevovodi, NDT, 3D, sanacija i dodatni terenski dani odvojeno. Model ne pretpostavlja automatsku pretplatu niti dodatne prihode od remonta.
+Scenarij partnera: P 6.500, C 4.200 (partner 2.200 + inženjer 1.350 + put 450 + rezerva 200), F 40.000, I 15.000. Pri 40 kampanja 260.000 prihoda, 52.000 godišnje, 37.000 nakon pripreme. Pokriće 18 godišnje, 24 prva godina. Cijena 5.000 pri 40 kampanja daje −8.000; C +25% daje +10.000 prije pripreme. Četrdeset kampanja troši 120 inženjerskih dana. [Računica](sources/O003_economics_check.md).
 
-Javni izvori potvrđuju hidro-servisnu osnovu i ponavljajuće ROV usluge; detalji i 13 primarnih izvora su u O003. HEP-ov hidro-ugovor nije ROV narudžba. Golden Falls navodi izolacije i neaktivnu turbinu unatoč zero-downtime marketingu. OPG primjer je povijesni, a ENGIE dokumentira neuspjeli dugi prodor. **Bez pražnjenja nije bez izolacije; video nije kvantitativni NDT; tether nije jamstvo izvlačenja.**
+Oprema-only: K 45.000, 5 godina, servis 6.000/god., 200/uporaba; najam 600/dan × 3 dana. Godišnji prag kupnje 10 kampanja, prvi godišnji cash prag 32, trogodišnji nediskontirani 14/god. Ako najam samo 1 dan: 38 i 128. Nije usporedba pune ekipe s golom opremom. Bez pražnjenja nije bez izolacije; video nije kvantitativni NDT; tether nije jamstvo povratka. HEP hidro-ugovor nije ROV narudžba; Golden Falls navodi izolacije/neaktivnu turbinu; ENGIE dokumentira neuspjeli dugi prodor. Ne dodavati sav remont ili nazivnu proizvodnju kao uštedu. AI pola dana pri 40 kampanja vrijedi scenarijskih 9.000 kapaciteta, ne veliki AI tim.
 
-**Partnerski scenarij:** P 6.500 EUR/kampanja, C 4.200 (partner 2.200 + inženjer 1.350 + put 450 + rezerva/podaci 200), F 40.000 godišnje, I 15.000 početno. Pri 40 kampanja: 260.000 prihoda, 52.000 godišnjeg rezultata nakon definiranih troškova, 37.000 nakon pripreme. Pokriće 18 kampanja godišnje, 24 u prvoj godini. Cijena 5.000 pri 40 poslova daje −8.000; 25% viši C daje +10.000 prije pripreme. Četrdeset kampanja traži 120 inženjerskih dana. [Računica](sources/O003_economics_check.md).
+## Trajni rezultat O004
 
-Odvojeni oprema-only model: K 45.000, vijek 5 godina, servis/osiguranje 6.000 godišnje, uporaba 200/kampanja; najam 600/kalendarski dan × 3 dana. Godišnji troškovni prag kupnje 10 kampanja, prvi godišnji cash prag 32, trogodišnji nediskontirani 14/godina. Ako je najam samo jedan dan, pragovi 38 i 128. Nije usporedba pune partnerske ekipe s golom opremom niti univerzalna nabavna preporuka.
+[O004](opportunities/O004_adaptive_heavy_fabrication_program.md): **DA ciljanoj nadogradnji prikladne postojeće ćelije/procesa; NE vlastitom robotu ili velikoj novoj AI platformi.** Interna korist je dodatni kvalitetni isporučeni proizvod ili stvarno izbjegnuti trošak, ne SaaS ARR ni automatsko smanjenje plaće. KMK i KTK su relevantne domene; današnje lokacije, generacije kontrolera i iskorištenost nisu javno potvrđene.
 
-Ne dodavati nominalnu proizvodnju cijele elektrane kao uštedu: uzeti samo stvarno izbjegnuti nepovratni gubitak. AI pola inženjerskog dana pri 40 poslova vrijedi scenarijskih 9.000 godišnjeg kapaciteta prije softvera, ne opravdava veliki tim i nije dodan osnovnoj marži. O003 je ograničeno servisno proširenje, ne potvrđena velika robotska divizija.
+Javna KMK objava od 15. 2. 2022. navodi oko 173.000 EUR za CLOOS stanicu i 146.000 za portal, uz 3× učinak na određenom sklopu. To nije aktualni cjenik ni 3× tvornica. KTK otvoren 23. 1. 2026. ima proces izrade prema nacrtima/3D i NDT; to ne dokazuje nepostojanje automatizacije. Miller/IFH 2026. opisuje 25–40% na odabranim spremnicima; online programiranje 15 h prema 2–3 h touch-up-a, ne nestanak svih programerskih sati. TRT 4 h/36 h = 9:1, ne 9× produktivnost. CLOOS već nudi RoboPlan i C-Gate; ne ponovno razvijati iste osnovne funkcije.
+
+Preporučeni obuhvat: jedna ćelija i 2–3 obitelji; offline programiranje, pozicioniranje/seam sensing prema potrebi i veza izvedbe s kvalitetom. Optička geometrija nije volumetrijski NDT. AI može asistirati odstupanjima/izvještajima; ne samostalno mijenjati kvalificirane postupke. Stvarni API/MES/ERP/cloud i ugovorna prava nisu izmišljeni.
+
+**Scenarij:** I 120.000, F 20.000/god.; H neto oslobođeni sati ćelije, u 75% stvarno realizirano, c 150 EUR doprinosa po realiziranom satu nakon dodatnih proizvodnih troškova. B = H×u×c−F. H 300/800/1.400 daje B 13.750/70.000/137.500; jednostavni puni povrat 8,73/1,71/0,87 godina. Srednji slučaj s pola bruto učinka u prvoj godini daje 25.000, potom 70.000/god.; povrat 2,36 godina. Petogodišnji pretporezni NPV pri scenarijskih 10% oko 104.446. Pri u25% B10.000; pri c75 B25.000; bez prodaje B−20.000. Nema zbrajanja istih sati kao plaće i kapaciteta; nema pretpostavljenog vanjskog ARR-a. [43 provjere i ponovljena računica](sources/O004_economics_check.md).
+
+178 H pokriva godišnji F; 712 H podržava ilustrativni dvogodišnji povrat pri punom učinku. Pri samo300H takav cilj dopušta I27.500, ne120.000. Savings-only 26.000 izbjegnutih vanjskih troškova minus20.000 daje6.000 i povrat20god., odvojeno. Sve su pretpostavke, bez poreza/financiranja/radnog kapitala. Serijski primjer 8h zavarivanja+16h ostalo, zavarivanje3×, daje samo28,6% teorijskog izlaza; nije model stvarne tvornice.
 
 ## Nastavak
 
-**Dovršiti O004 u jednoj cjelini:** postojeća robotska/proizvodna ponuda i reference, zavarivanje/QA/NDT, scenariji ukupnog takta, dorade, kapaciteta i dodatnog doprinosa. Ne prenijeti 3× brzinu pojedinog sklopa na 3× kapacitet cijele tvornice. Ne tražiti podatke korisnika i ne otvarati A–E zadatke.
+**Dovršiti O005 u jednoj cjelini:** postojeći KONČAR rail/battery/charging proizvodi i centralna platforma, stvarni vanjski komercijalni primjeri, naplativi dodatak, scenariji, data/IP i konačna preporuka. Razlikovati BMS/SOC prikaz od validiranog SOH/RUL i dodatne vrijednosti optimizacije. MERMEC sustav nije automatski KONČAR IP. Ne postavljati pitanja i ne vraćati A–E taskove.
 
-R001–R004, E001–E019 i B001–B006 ostaju povijesne podloge; ključne tvrdnje provjeriti online unutar svakog O###. Aktualni završni izvještaji imaju prednost. Najnovija sesija: [S012](sessions/S012_2026-09-22_O003_complete.md).
-
-Po završetku: MD s izvorima + provjerena aritmetika + indeksi + ovaj sažetak. Repo je javni research, ne interni sustav. Nema automatskog pozadinskog rada.
+R001–R004, E001–E019 i B001–B006 su povijesne podloge. Ključne tvrdnje provjeriti online unutar preostalog O###. Aktualni završni izvještaji imaju prednost. Najnovija sesija: [S013](sessions/S013_2026-09-22_O004_complete.md). Nema pozadinskog izvršavanja.

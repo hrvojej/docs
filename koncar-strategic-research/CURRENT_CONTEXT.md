@@ -1,56 +1,52 @@
 # CURRENT CONTEXT — učitati prvo
 
-**Program:** KONČAR strategic technology & new business research. **Ažurirano:** 2026-09-22.
+**Ažurirano: 22. 9. 2026. Aktivni plan: šest zadataka ukupno; O001 dovršen, O002 sljedeći.**
 
-[Potpuni indeks](MASTER_INDEX.md) · [32 validacijska taska](validation/TASK_BOARD.md) · [R005: način rada](research/R005_validation_program_2026-09-22.md)
+[MASTER_INDEX — sve](MASTER_INDEX.md) · [TASK_BOARD — šest zadataka](validation/TASK_BOARD.md) · [O001 — zadnji završni izvještaj](opportunities/O001_transformer_intelligence_lifecycle_service.md)
 
-## Cilj
+## Korisnikov aktualni zahtjev
 
-Identificirati profitabilne proizvode, usluge ili interne produktivnosne pomake za cijelu Grupu, kombinirajući stvarne kompetencije s dokazanim industrijskim tržištima. ROV i AI su opcije, ne unaprijed zadani pobjednici. Svaki materijalni rezultat mora imati MD artefakt, izvore, datum, jasno odvojene činjenice/hipoteze/nepoznanice i mjesto u indeksu.
+Istražiti profitabilne nove proizvode, usluge ili interne produktivnosne pomake za cijelu KONČAR Grupu. Nije ograničeno na AI, NEOS ili ROV.
 
-## Što postoji
+**Korisnik nema interne podatke. Ne postavljati dodatna pitanja. Raditi samo iz javnih online izvora i završiti istraživanje u najviše šest zadataka, jedan po prilici O001–O006.**
 
-R001–R003 i E001–E019 predstavljaju prvi javni pregled vlasništva/kompetencija. B001–B006 su prva benchmark studija šest područja; O001–O006 su kandidati, ne potvrđeni business caseovi. [R004](research/R004_first_wave_cross_opportunity_synthesis_2026-09-21.md) čuva sintezu te faze.
+Prethodni plan od 32 zadatka, A–E podzadaci, zahtjevi za internom arhitekturom, intervjuima i provedbom pilota više nisu aktivni. R005 je arhiviran. R006 ostaje koristan tehnički audit, ali njegov proces čekanja ne određuje novi rad.
 
-| ID | Predmet kandidata | Aktualna granica |
+## Način rada
+
+Svaki O### dobiva jedan završni MD: što ponuditi i kome, tržišni primjeri, postojeće kompetencije, realni gapovi, ekonomika, važni rizici, praktična preporuka i izvori. Nepoznate interne cijene/troškovi prikazuju se kao scenariji s pretpostavkama. Ne izmišljati as-built sustave, provedene pilote, intervjue ni ostvarenu dobit.
+
+Nema dodatnih istraživačkih preduvjeta. Konačna usporedba svih prilika ide unutar O006, ne kao sedmi zadatak. Artefakti i poveznice se održavaju nakon svakog rezultata.
+
+## Status šest prilika
+
+| ID | Predmet | Status |
 |---|---|---|
-| O001 | Transformer intelligence i lifecycle servis | Javni baseline ponovno provjeren u R006; dodatna vrijednost i postojeći komercijalni opseg tek za potvrdu |
-| O002 | Grid inspection intelligence | Potrebno revalidirati postojeći drone/workflow i kupčev trošak prije autonomije |
-| O003 | Hydro/ROV inspekcije i lifecycle | Misijske kategorije, sigurnost, podizvođači i ekonomika odvojeno; nije odluka o vlastitom ROV-u |
-| O004 | Adaptivna proizvodnja/digitalna kvaliteta | Interni doprinos i bottleneck/OEE case, ne SaaS ARR |
-| O005 | Rail fleet/battery/charging | Stvarna verzija centralne platforme, BMS prava i dodatak održavanju tek za potvrdu |
-| O006 | Renewable/BESS portfolio | KONBAT owner, postojeća EMS/control-center arhitektura i portfolio delta tek za potvrdu |
+| O001 | Transformer monitoring + stručni servis | **DOVRŠENO iz javnih izvora** |
+| O002 | Grid inspection intelligence/usluga | **SLJEDEĆI** |
+| O003 | Hidro/ROV inspekcije | Preostaje |
+| O004 | Adaptivna proizvodnja i digitalna kvaliteta | Preostaje; interna ekonomika, ne SaaS ARR |
+| O005 | Rail fleet/battery/charging usluga | Preostaje |
+| O006 | Renewable/BESS portfolio optimizacija | Preostaje; uključuje završnu usporedbu |
 
-Prethodni obrazac 'hardver/domenska kompetencija + digitalni lifecycle + servis' ostaje istraživačka hipoteza. Posebno se ne smije zaključiti da nepostojanje javnog opisa funkcije znači da ona interno ne postoji. Ranije E3/E4 oznake nisu zamjena za provjeru deploymenta, kapaciteta i prodanih ugovora.
+Dokumenti O002–O006 već postoje kao podloge, ali njihov završni research po ovom planu još nije napravljen. Poveznice su u TASK_BOARD-u i MASTER_INDEX-u.
 
-## Najnoviji rezultat — O001-A / R006
+## Trajni rezultat O001
 
-[R006](research/R006_O001_existing_stack_offer_audit_2026-09-22.md) i [14 primarnih izvora s lokatorima](sources/R006_evidence_register.md) dokumentiraju javnu provjeru. Potvrđen je raniji baseline postojećeg TMS-a; nije otkrivena potreba da se monitoring ponovno izgradi.
+[O001](opportunities/O001_transformer_intelligence_lifecycle_service.md) preporučuje **komercijalno proširenje postojećeg TMS-a i dijagnostičkog servisa**, ne novu veliku platformu ili akviziciju. Radni naziv paketa Transformer Care je prijedlog, ne postojeći brand.
 
-Važne promjene u [O001](opportunities/O001_transformer_intelligence_lifecycle_service.md):
+Osnova iz javnih izvora: TMS ima monitoring/dijagnostiku/izvještaje i udaljeni pristup; Institut ima vlastite proizvode i dijagnostičke usluge; D&ST postprodajni kanal. Hitachi i Reinhausen nude monitoring/servisne pakete; Camlin je 9. 6. 2026. objavio Neoenov globalni ugovor nakon pilota. KAMO/Vaisala opisuje konkretnu vrijednost boljeg odlučivanja i manjeg opsega ručnih ispitivanja. Izvori i granice su u O001.
 
-- Fleet APM, stalni servis, 24/7 i SLA ostaju **U — nepoznato**, ne dokazano odsutni G2 gapovi.
-- Javna iPDCore dokumentacija ima teritorijalnu napomenu uz jednu DSync tehniku. To nije blanket zabrana TMS-a; prava po funkciji/tržištu moraju se razriješiti.
-- PROZA certifikacijski opis ne potvrđuje certifikaciju novog end-to-end TMS/fleet sklopa.
-- Povijesna isporuka nije aktivni pretplatnik. Ranije aggregate brojke ne ulaze u ARR model dok nisu provjereni izvor, datum, populacija, aktivnost i prava.
-- Nije pregledan aktualni interni TMS API/stack, ugovor, segmentni prihod ili service cost. Nije obavljen intervju, SQL upit ili pilot.
+Predloženi prvi kupac: postojeći korisnik monitoringa na kritičnim transformatorima koji želi stručnu interpretaciju. Početni paket: ograničeni ekspertni pregled u radno vrijeme, kvartalni izvještaj i preporuka održavanja. Bez jamstva da kvar neće nastati, bez 24/7 ljudskog centra i bez neodobrenog upravljanja. Hardver, teren i složeni onboarding odvojeno.
 
-O001 je **REFRAMED / awaiting internal evidence**: provjeriti dodatak ili skaliranje postojeće ponude, uključujući mogućnost da novi razvoj nije potreban. R006 ima prednost pred ranijim O001 tvrdnjama o gapovima.
+**Scenarij, ne cjenik ni prognoza:** 3.000 EUR godišnje po uređaju, 1.500 EUR varijabilnog troška, 75.000 EUR fiksnih programskih troškova i 50.000 EUR početne pripreme. Pri 100 punogodišnjih uređaja: 300.000 EUR prihoda, 75.000 EUR doprinosa nakon godišnjih programskih troškova, 25.000 EUR nakon početnog izdatka. Operativno pokriće 50 uređaja; prva godina s početnim izdatkom najmanje 84. To nije neto dobit niti dokaz postojećih pretplatnika. [Kontrola matematike](sources/O001_economics_check.md).
 
-## Točan status rada
+Ograničenja su dio zaključenog izvještaja: nepoznat stvarni opseg sadašnjih fleet/SLA ponuda; iPDCore ima teritorijalnu napomenu za jednu Demodulator cluster tehniku, ne cijeli TMS; ne pretpostavljati prava za pooling podataka niti prenositi PROZA certifikaciju na novi sklop. Ako isti proizvod već postoji, preporuka je skaliranje prodaje, ne dupliciranje.
 
-R005 i TASK_BOARD definiraju 32 zadatka: A–E za svaku priliku i X01/X02 za zajednički sloj/portfelj. O001-A je COMPLETE_DESK; ostaje 31 task. Šest taskova ima READY javni dio, šest čeka interne dokaze, 19 ovisi o prethodnim rezultatima. COMPLETE_DESK nije komercijalni VALIDATED.
+## Raniji materijali i nastavak
 
-B zadaci traže as-is verzije, end-to-end serijalizaciju/podatkovni tok, prava i postojeći revenue/service baseline. C uključuje konkurenta, kupca i cijenu; D provjerljiv incremental economics model; E zasebno dizajn i stvarne rezultate pilota. X01 ne smije prerano postati monolitna platforma, X02 mora dopustiti HOLD/REJECT i opciju ne ulagati.
+R001–R004, E001–E019 i B001–B006 su postojeće podloge i povijesna sinteza. Njihove ključne tvrdnje treba provjeriti online kada ih koristimo, bez otvaranja novih zasebnih taskova. Nepostojanje javnog opisa nije dokaz nedostatka.
 
-## Sljedeći konkretan posao
+Sljedeći rad: **dovršiti O002 u jednoj cjelini** prema ovom okviru. Ne vraćati se na O001-B/C/D/E niti tražiti podatke korisnika.
 
-O001-B: [minimalni paket](validation/O001_B_evidence_request.md) od šest cjelina — arhitektura/verzije, mjerenje/event uzorci, funkcijsko-teritorijalna prava, reprezentativna ponuda/ugovor, aktivni inventory i troškovi isporuke. Zahtjev nije poslan niti ispunjen.
-
-Dok čekamo te dokaze, O001-C može raditi javne tendere/usporedive pakete, a O002-A–O006-A njihove revalidacije. Nije potrebno zaustaviti javni research zbog jednog nedostupnog internog dokumenta. Stvarne kupce/privatne priloge ne izmišljati.
-
-## Sigurnost i kontinuitet
-
-Repo hrvojej/docs potvrđen je kao **public**. Javni nalazi i planovi mogu ostati tu; interne cijene, ugovori, sigurnosne arhitekture i proizvodni uzorci trebaju odobren privatni prostor. Javno objaviti samo odobreni sažetak, ne interne priloge.
-
-Početak novog chata: ovaj file → TASK_BOARD → relevantni O### → najnoviji R###/izvori. Završetak: artefakt + status taska + master + relevantni O### + ovaj sažetak + S### zapis. Arhiva ove sesije: [S009](sessions/S009_2026-09-22_validation_launch.md).
+Repo sadrži javni research; nema internih ugovora niti pristupa sustavima. Novi završni izvještaji imaju prednost pred zastarjelim procesnim statusima. Nema automatskog pozadinskog izvršavanja.

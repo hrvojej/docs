@@ -1,138 +1,121 @@
-# MASTER INDEX — KONČAR Strategic Technology & New Business Research
+# MASTER INDEX — KONČAR strategic research
 
-**Purpose:** canonical entry point for every research artifact created in this program.  
-**Rule:** no research is considered complete until it is registered here.  
-**Last updated:** 2026-09-21
+**Ažurirano:** 2026-09-22. Kanonski katalog svih istraživanja, profila, prilika i validacijskih izlaza.
 
-## Start here
+## Ulaz u rad
 
-1. **New chat / fastest context:** [CURRENT_CONTEXT.md](CURRENT_CONTEXT.md)
-2. **All research:** this MASTER INDEX
-3. **Company/capability profiles:** [entities/README.md](entities/README.md)
-4. **Evidence-based cross-cutting research:** [research/README.md](research/README.md)
-5. **External commercial benchmarks:** [benchmarks/README.md](benchmarks/README.md)
-6. **Opportunity theses:** [opportunities/README.md](opportunities/README.md)
-7. **Session history/capsules:** [sessions/README.md](sessions/README.md)
-8. **Reusable sources:** [sources/source_register.md](sources/source_register.md)
+[CURRENT_CONTEXT](CURRENT_CONTEXT.md) za novi chat; [TASK_BOARD](validation/TASK_BOARD.md) za 32 zasebna zadatka; [R005](research/R005_validation_program_2026-09-22.md) za kriterije dokazivanja; [R006](research/R006_O001_existing_stack_offer_audit_2026-09-22.md) za zadnji rezultat.
 
-## Artifact classes
+F = metoda/mapa; R = istraživanje; E = entitet/kompetencijsko nasljeđe; B = vanjski benchmark; O = poslovna teza; S = sažetak sesije. D je rezerviran za buduće odluke; nema dovršenog D artefakta. TASK_ID je ID izvršavanja, ne tvrdnja da je rezultat već napravljen.
 
-| Prefix | Class | Purpose |
+## Temeljni artefakti
+
+| ID | Dokument | Aktualni status |
 |---|---|---|
-| F### | Foundation | Methodology, taxonomies, standing maps and rules |
-| R### | Research | Evidence-based research with explicit scope and sources |
-| E### | Entity dossier | One KONČAR company/capability-lineage deep dive |
-| B### | Benchmark | External vendor/market/category research |
-| O### | Opportunity | Specific product/business opportunity thesis |
-| D### | Decision | Research/architecture/business decision record |
-| S### | Session capsule | Condensed durable context produced by a research/chat session |
+| F001 | [Metodologija](00_methodology.md) | Početni okvir; validacijski kriteriji dopunjeni u R005 |
+| F002 | [Ownership mapa](01_group_ownership_map.md) | Početni pregled; pravno iscrpan aktualni perimeter nije zatvoren |
+| F003 | [Capability mapa](02_capability_map.md) | Početni pregled; interna implementacija/kapacitet nisu potvrđeni |
+| F004 | [Opportunity landscape](03_global_opportunity_landscape.md) | Hipoteze, ne shortlist |
+| F005 | [Gap framework](04_gap_analysis.md) | Koristiti U za nepoznato prije dodjele G0–G5 |
+| F006 | [Research backlog](05_research_backlog.md) | Upućuje na kanonski TASK_BOARD |
 
-## Canonical current-state files
+## Istraživanja
 
-| Artifact | Status | Purpose |
+| ID | Dokument | Status / što donosi |
 |---|---|---|
-| [CURRENT_CONTEXT.md](CURRENT_CONTEXT.md) | Active | Minimum context to load first in a new chat |
-| [01_group_ownership_map.md](01_group_ownership_map.md) | Active / rolling | Compact current ownership + capability-lineage map |
-| [02_capability_map.md](02_capability_map.md) | Active / rolling | Compact cross-group capability map |
-| [sources/source_register.md](sources/source_register.md) | Active / rolling | Reusable source registry |
+| R001 | [Struktura Grupe](research/R001_current_group_structure_2026-09-21.md) | Baseline v1; preostala pravna i vremenska usklađenja |
+| R002 | [In-house AI/data](research/R002_inhouse_ai_data_capabilities_2026-09-21.md) | Baseline v1; proizvod/tim/prihod nisu isto |
+| R003 | [Capability atlas](research/R003_capability_atlas_baseline_2026-09-21.md) | Baseline v1, ulaz u validaciju |
+| R004 | [Sinteza prve benchmark faze](research/R004_first_wave_cross_opportunity_synthesis_2026-09-21.md) | Šest teza; nije potvrda profitabilnosti |
+| R005 | [Program validacije O001–O006](research/R005_validation_program_2026-09-22.md) | 32 zadatka, ovisnosti, dokazi i uvjeti odluke |
+| R006 | [O001-A: audit postojećeg sklopa i ponude](research/R006_O001_existing_stack_offer_audit_2026-09-22.md) | COMPLETE_DESK; O001 sužen, gapovi U, data/IP i komercijalne granice |
 
-## Foundation artifacts
+Pregled: [research/README](research/README.md).
 
-| ID | Artifact | Status | As-of | Summary |
-|---|---|---|---|---|
-| F001 | [Research methodology](00_methodology.md) | Active | 2026-09-21 | Evidence levels, opportunity scoring, build/partner/acquire |
-| F002 | [Group ownership map](01_group_ownership_map.md) | Active | 2026-09-21 | Rolling legal structure + capability lineage |
-| F003 | [Capability map](02_capability_map.md) | Active | 2026-09-21 | Cross-company capability taxonomy |
-| F004 | [Global opportunity landscape](03_global_opportunity_landscape.md) | Hypothesis landscape | 2026-09-21 | Outside-in opportunity families; not a shortlist |
-| F005 | [Gap analysis framework](04_gap_analysis.md) | Active | 2026-09-21 | Stack decomposition, G0–G5 gaps, defensibility/economics |
-| F006 | [Research backlog](05_research_backlog.md) | Active | 2026-09-21 | Workstreams and validation backlog |
+## Profili društava i kompetencijskog nasljeđa
 
-## Research artifacts
+E001–E019 su početni javni profili, ne interni due diligence. Zaposlenici, prava, verzije proizvoda i slobodni kapaciteti traže zasebne dokaze.
 
-| ID | Research | Status | As-of | Evidence | Key output |
-|---|---|---|---|---|---|
-| R001 | [Current Group Structure & Ownership](research/R001_current_group_structure_2026-09-21.md) | Baseline v1 | 2026-09-21 | High direct / medium post-merger indirect | 16 current direct subsidiaries, KPT affiliate, indirect clusters, 2026 restructuring |
-| R002 | [In-house AI, Data & Advanced Analytics](research/R002_inhouse_ai_data_capabilities_2026-09-21.md) | Baseline v1 | 2026-09-21 | High | AI/ML/data capability exists across Digital, Institute and NEOS lineage |
-| R003 | [Cross-Group Capability Atlas](research/R003_capability_atlas_baseline_2026-09-21.md) | Baseline v1 | 2026-09-21 | Medium-high | Initial capability map across direct entities + KPT |
-| R004 | [First-Wave Cross-Opportunity Synthesis](research/R004_first_wave_cross_opportunity_synthesis_2026-09-21.md) | Complete v1 | 2026-09-21 | Synthesis of E3/E4 evidence | Repeated productization/servitization pattern across O001–O006; validation phase defined |
+| ID | Profil |
+|---|---|
+| E001 | [Institut za elektrotehniku](entities/E001_electrical_engineering_institute.md) |
+| E002 | [KONČAR Digital](entities/E002_koncar_digital.md) |
+| E003 | [NEOS](entities/E003_neos_capability_lineage.md) |
+| E004 | [Bivši INEM — lineage](entities/E004_former_inem_capability_lineage.md) |
+| E005 | [HELB](entities/E005_helb.md) |
+| E006 | [Dalekovod](entities/E006_dalekovod.md) |
+| E007 | [Distributivni i specijalni transformatori](entities/E007_distribution_special_transformers.md) |
+| E008 | [Generatori i motori](entities/E008_generators_motors.md) |
+| E009 | [Hidroturbine](entities/E009_hydro_turbine.md) |
+| E010 | [Električna vozila](entities/E010_electric_vehicles.md) |
+| E011 | [Aparati i postrojenja](entities/E011_switchgear.md) |
+| E012 | [Obnovljivi izvori](entities/E012_renewable_energy_sources.md) |
+| E013 | [Mjerni transformatori](entities/E013_instrument_transformers.md) |
+| E014 | [Motori i električni sustavi](entities/E014_motors_electrical_systems.md) |
+| E015 | [Metalne konstrukcije](entities/E015_metal_structures.md) |
+| E016 | [Transformatorski kotlovi](entities/E016_transformer_tanks.md) |
+| E017 | [TELENERG](entities/E017_telenerg_engineering.md) |
+| E018 | [KONČAR Switzerland](entities/E018_koncar_switzerland.md) |
+| E019 | [KPT affiliate](entities/E019_power_transformers_kpt.md) |
 
-## Entity dossiers
+Pregled: [entities/README](entities/README.md).
 
-All E### profiles below exist as **baseline v1** and are inputs to deeper research; they are not yet treated as exhaustive dossiers.
+## Vanjski komercijalni benchmarkovi
 
-| ID | Entity / lineage | Main verified capability | Artifact |
-|---|---|---|---|
-| E001 | Electrical Engineering Institute | R&D, monitoring, diagnostics, labs, embedded/ML | [Open](entities/E001_electrical_engineering_institute.md) |
-| E002 | KONČAR – Digital | SCADA/OT, digital platforms, data, AI/ML, cyber | [Open](entities/E002_koncar_digital.md) |
-| E003 | NEOS lineage | Data Engineering, Data Science, ML/AI, cloud/apps | [Open](entities/E003_neos_capability_lineage.md) |
-| E004 | Former INEM lineage | Power electronics, embedded/control, converters | [Open](entities/E004_former_inem_capability_lineage.md) |
-| E005 | KONČAR – Helb | Field engineering, installation, MV/HV testing/service | [Open](entities/E005_helb.md) |
-| E006 | Dalekovod | Transmission/substation EPC, field infrastructure | [Open](entities/E006_dalekovod.md) |
-| E007 | D&ST | Distribution/medium/special transformers | [Open](entities/E007_distribution_special_transformers.md) |
-| E008 | Generators and Motors | Rotating machines + lifecycle service | [Open](entities/E008_generators_motors.md) |
-| E009 | Hydro Turbine | Hydro turbine design, refurbishment, service | [Open](entities/E009_hydro_turbine.md) |
-| E010 | Electric Vehicles | Rail vehicles, battery trains, measurement train, maintenance | [Open](entities/E010_electric_vehicles.md) |
-| E011 | Switchgear | LV/MV/HV switchgear and GIS | [Open](entities/E011_switchgear.md) |
-| E012 | Renewable Energy Sources | Wind/solar/small-hydro development and O&M | [Open](entities/E012_renewable_energy_sources.md) |
-| E013 | Instrument Transformers | HV/MV measurement, special/reference equipment | [Open](entities/E013_instrument_transformers.md) |
-| E014 | Motors and Electrical Systems | Motors, fans, transformer cooling | [Open](entities/E014_motors_electrical_systems.md) |
-| E015 | Metal Structures | Large welding, machining, structures | [Open](entities/E015_metal_structures.md) |
-| E016 | Transformer Tanks | Large welded tanks, NDT, advanced factory | [Open](entities/E016_transformer_tanks.md) |
-| E017 | TELENERG-ENGINEERING | Protection/control, automation, commissioning | [Open](entities/E017_telenerg_engineering.md) |
-| E018 | KONČAR Switzerland | DACH vehicle; operating capability still to verify | [Open](entities/E018_koncar_switzerland.md) |
-| E019 | KPT (affiliate) | Large power transformers, service/diagnostics | [Open](entities/E019_power_transformers_kpt.md) |
+Prva faza B001–B006 je napisana. Presudne tvrdnje za poslovnu odluku revalidiraju se kroz A taskove; oznaka complete-v1 u povijesnom dokumentu nije interna ni financijska validacija.
 
-## External benchmarks
+| ID | Benchmark |
+|---|---|
+| B001 | [Transformer asset intelligence](benchmarks/B001_transformer_asset_intelligence_2026-09-21.md) |
+| B002 | [Autonomous grid/substation inspection](benchmarks/B002_autonomous_grid_substation_inspection_2026-09-21.md) |
+| B003 | [Hydro underwater/ROV/NDT](benchmarks/B003_hydro_underwater_inspection_2026-09-21.md) |
+| B004 | [Adaptive welding/NDT/heavy fabrication](benchmarks/B004_adaptive_welding_automated_ndt_smart_fabrication_2026-09-21.md) |
+| B005 | [Rail/battery/infrastructure intelligence](benchmarks/B005_rail_fleet_battery_infrastructure_intelligence_2026-09-21.md) |
+| B006 | [Renewable/BESS optimization](benchmarks/B006_renewable_bess_asset_optimization_2026-09-21.md) |
 
-| ID | Benchmark | Status | Main conclusion |
-|---|---|---|---|
-| B001 | [Transformer Asset Intelligence & Predictive Lifecycle Services](benchmarks/B001_transformer_asset_intelligence_2026-09-21.md) | Complete v1 | Mature E3 category; commercial model is shifting from monitoring hardware to fleet software + expert service + SLA/performance contracts |
-| B002 | [Autonomous Grid & Substation Inspection](benchmarks/B002_autonomous_grid_substation_inspection_2026-09-21.md) | Complete v1 | Mature E3 category; KONČAR should own grid-inspection intelligence/workflow, not necessarily robot hardware |
-| B003 | [Hydropower Underwater Inspection, ROV & Robotic NDT](benchmarks/B003_hydro_underwater_inspection_2026-09-21.md) | Complete v1 | Basic hydro ROV inspection is mature; advanced long-penstock robotic NDT remains less mature |
-| B004 | [Adaptive Robotic Welding, Automated NDT & Smart Heavy Fabrication](benchmarks/B004_adaptive_welding_automated_ndt_smart_fabrication_2026-09-21.md) | Complete v1 | High-mix heavy fabrication can use offline programming, adaptive sensing and automated quality; KONČAR already has internal robotic-welding proof |
-| B005 | [Rail Fleet, Battery & Infrastructure Intelligence](benchmarks/B005_rail_fleet_battery_infrastructure_intelligence_2026-09-21.md) | Complete v1 | Rail digital lifecycle is mature; KONČAR already has trains, chargers, maintenance and a centralized coordination platform under development |
-| B006 | [Renewable O&M, Inspection, Forecasting & BESS Optimization](benchmarks/B006_renewable_bess_asset_optimization_2026-09-21.md) | Complete v1 | KONČAR already has BESS/EMS/SCADA/renewable references; strategic gap is portfolio-level APM, optimization and recurring service |
+Pregled: [benchmarks/README](benchmarks/README.md).
 
-Full list: [benchmarks/README.md](benchmarks/README.md)
+## Prilike / programi
 
-## Opportunity theses
+| ID | Teza | Aktualna odluka |
+|---|---|---|
+| O001 | [Transformer intelligence/lifecycle](opportunities/O001_transformer_intelligence_lifecycle_service.md) | REFRAMED; javni A završen, interni dokazi i ekonomika nedostaju |
+| O002 | [Grid inspection service](opportunities/O002_grid_inspection_intelligence_service.md) | Kandidat; A READY |
+| O003 | [Hydro underwater lifecycle](opportunities/O003_hydro_underwater_inspection_lifecycle_service.md) | Kandidat; A READY |
+| O004 | [Adaptive heavy fabrication](opportunities/O004_adaptive_heavy_fabrication_program.md) | Internal-first kandidat; ROI nije potvrđen |
+| O005 | [Rail fleet/battery lifecycle](opportunities/O005_rail_fleet_battery_intelligence_service.md) | Kandidat; arhitektura/komercijala nisu potvrđene |
+| O006 | [Renewable/BESS lifecycle](opportunities/O006_renewable_bess_intelligence_optimization_service.md) | Kandidat; ownership/arhitektura/ekonomika nisu potvrđene |
 
-| ID | Opportunity | Status | Evidence |
-|---|---|---|---|
-| O001 | [KONČAR Transformer Intelligence & Lifecycle Service](opportunities/O001_transformer_intelligence_lifecycle_service.md) | Candidate validation | Market E3 / KONČAR fit E4 / commercial E5 pending |
-| O002 | [KONČAR Grid Inspection Intelligence & Remote Inspection Service](opportunities/O002_grid_inspection_intelligence_service.md) | Candidate validation | Market E3 / KONČAR fit E4-candidate / commercial E5 pending |
-| O003 | [KONČAR Hydro Underwater Inspection & Lifecycle Service](opportunities/O003_hydro_underwater_inspection_lifecycle_service.md) | Candidate validation | Basic market E3 / KONČAR fit E4-candidate / advanced robotics E1-E2 / commercial E5 pending |
-| O004 | [KONČAR Adaptive Heavy Fabrication & Digital Quality Program](opportunities/O004_adaptive_heavy_fabrication_program.md) | Internal-first candidate validation | Technology E3 / KONČAR fit E4 / internal ROI pending |
-| O005 | [KONČAR Rail Fleet & Battery Intelligence Lifecycle Service](opportunities/O005_rail_fleet_battery_intelligence_service.md) | Candidate validation | Market E3 / KONČAR fit E4 / commercial E5 pending |
-| O006 | [KONČAR Renewable & BESS Intelligence / Optimization Lifecycle Service](opportunities/O006_renewable_bess_intelligence_optimization_service.md) | Candidate validation | Market E3 / KONČAR fit E4 / commercial E5 pending |
+Nijedan O### nije E5 niti odobreno ulaganje. Pregled: [opportunities/README](opportunities/README.md).
 
-Full list: [opportunities/README.md](opportunities/README.md)
+## Izvršavanje validacije i izvori
 
-O### artifacts are not recommendations until customer/economics validation reaches E5.
+| Artefakt | Namjena |
+|---|---|
+| [TASK_BOARD](validation/TASK_BOARD.md) | Svih 32 taska, ulazi, izlazi, ovisnosti, kill kriteriji i statusi |
+| [O001-B evidence request](validation/O001_B_evidence_request.md) | Šest internih dokaznih cjelina; zahtjev nije poslan/ispunjen |
+| [R006 evidence register](sources/R006_evidence_register.md) | 14 primarnih izvora, lokatori i nedohvaćeni izvori |
+| [Source register](sources/source_register.md) | Izvori prvih faza; nisu automatski ponovno provjereni |
+| [Sources overview](sources/README.md) | Navigacija i hijerarhija source registara |
 
-## Session capsules
+## Sažeci sesija
 
-| ID | Date | Artifact | Summary |
-|---|---|---|---|
-| S001 | 2026-09-21 | [Foundation + Group Baseline](sessions/S001_2026-09-21_foundation_and_group_baseline.md) | Scope, repository protocol, R001–R003 and E001–E019 baseline |
-| S002 | 2026-09-21 | [B001 + O001](sessions/S002_2026-09-21_B001_O001.md) | Transformer intelligence benchmark + productization thesis |
-| S003 | 2026-09-21 | [B002 + O002](sessions/S003_2026-09-21_B002_O002.md) | Autonomous grid/substation inspection benchmark + vendor-agnostic inspection-intelligence thesis |
-| S004 | 2026-09-21 | [B003 + O003](sessions/S004_2026-09-21_B003_O003.md) | Hydro/underwater ROV benchmark + lifecycle-service thesis; advanced penstock robotics kept as later R&D option |
-| S005 | 2026-09-21 | [B004 + O004](sessions/S005_2026-09-21_B004_O004.md) | Adaptive welding/automated NDT benchmark + internal-first heavy-fabrication capacity program |
-| S006 | 2026-09-21 | [B005 + O005](sessions/S006_2026-09-21_B005_O005.md) | Rail fleet/battery/charging benchmark + lifecycle intelligence service thesis |
-| S007 | 2026-09-21 | [B006 + O006](sessions/S007_2026-09-21_B006_O006.md) | Renewable/BESS portfolio intelligence benchmark + optimization/lifecycle thesis |
-| S008 | 2026-09-21 | [R004 synthesis](sessions/S008_2026-09-21_R004_first_wave_synthesis.md) | Cross-opportunity synthesis; shift from broad discovery to validation |
+| ID | Zapis |
+|---|---|
+| S001 | [Foundation/group baseline](sessions/S001_2026-09-21_foundation_and_group_baseline.md) |
+| S002 | [B001/O001](sessions/S002_2026-09-21_B001_O001.md) |
+| S003 | [B002/O002](sessions/S003_2026-09-21_B002_O002.md) |
+| S004 | [B003/O003](sessions/S004_2026-09-21_B003_O003.md) |
+| S005 | [B004/O004](sessions/S005_2026-09-21_B004_O004.md) |
+| S006 | [B005/O005](sessions/S006_2026-09-21_B005_O005.md) |
+| S007 | [B006/O006](sessions/S007_2026-09-21_B006_O006.md) |
+| S008 | [R004 synthesis](sessions/S008_2026-09-21_R004_first_wave_synthesis.md) |
+| S009 | [Validation launch / R005–R006](sessions/S009_2026-09-22_validation_launch.md) |
 
-## Registration rule
+Pregled: [sessions/README](sessions/README.md).
 
-Every meaningful research task must:
-1. receive an ID;
-2. produce a durable artifact;
-3. preserve sources and as-of date;
-4. separate verified facts from inference;
-5. declare evidence/confidence;
-6. list open questions and next validation step;
-7. be linked here;
-8. update CURRENT_CONTEXT.md when it changes the strategic picture.
+## Pravilo nastavka
 
-**This file is the authoritative inventory of research outputs.**
+Sačuvati svaki materijalni rezultat, povezati ga ovdje i u task boardu, ažurirati O### i CURRENT_CONTEXT te sesiju. Novo istraživanje ne proglašava se dovršenim bez tih poveznica. Ne povezivati planiranu datoteku kao da postoji. Povijesni dokumenti ostaju čitljivi; za konflikt vrijedi najnoviji izvorno potkrijepljen zaključak.
+
+Repo je public: interni ugovori, cijene i proizvodni podaci samo u odobren privatni prostor; ovdje javni ili odobreni sažetak.

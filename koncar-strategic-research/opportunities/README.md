@@ -1,14 +1,16 @@
-# Opportunity theses
+# Opportunity teze i status validacije
 
-O### artifacts are specific potential products/business models. They are not recommendations until they reach E5 validation.
+[MASTER_INDEX](../MASTER_INDEX.md) · [32 taska](../validation/TASK_BOARD.md)
 
-| ID | Opportunity | Status | Evidence |
-|---|---|---|---|
-| O001 | [KONČAR Transformer Intelligence & Lifecycle Service](O001_transformer_intelligence_lifecycle_service.md) | candidate-validation | market E3 / KONČAR fit E4 / commercial E5 pending |
-| O002 | [KONČAR Grid Inspection Intelligence & Remote Inspection Service](O002_grid_inspection_intelligence_service.md) | candidate-validation | market E3 / KONČAR fit E4-candidate / commercial E5 pending |
-| O003 | [KONČAR Hydro Underwater Inspection & Lifecycle Service](O003_hydro_underwater_inspection_lifecycle_service.md) | candidate-validation | basic market E3 / KONČAR fit E4-candidate / advanced robotics E1-E2 / commercial E5 pending |
-| O004 | [KONČAR Adaptive Heavy Fabrication & Digital Quality Program](O004_adaptive_heavy_fabrication_program.md) | internal-first candidate-validation | technology E3 / KONČAR fit E4 / internal ROI pending |
-| O005 | [KONČAR Rail Fleet & Battery Intelligence Lifecycle Service](O005_rail_fleet_battery_intelligence_service.md) | candidate-validation | market E3 / KONČAR fit E4 / commercial E5 pending |
-| O006 | [KONČAR Renewable & BESS Intelligence / Optimization Lifecycle Service](O006_renewable_bess_intelligence_optimization_service.md) | candidate-validation | market E3 / KONČAR fit E4 / commercial E5 pending |
+Nijedna teza nije potvrđena investicijska preporuka. Javni tehnički fit nije dokaz aktualne interne integracije, prava, raspoloživosti ljudi ili profitabilnosti.
 
-Return to [MASTER_INDEX](../MASTER_INDEX.md).
+| ID | Dokument | Aktualni status |
+|---|---|---|
+| O001 | [Transformer intelligence/lifecycle](O001_transformer_intelligence_lifecycle_service.md) | REFRAMED nakon R006; A COMPLETE_DESK, B čeka dokaze |
+| O002 | [Grid inspection intelligence](O002_grid_inspection_intelligence_service.md) | Kandidat; A READY |
+| O003 | [Hydro underwater lifecycle](O003_hydro_underwater_inspection_lifecycle_service.md) | Kandidat; A READY |
+| O004 | [Adaptive heavy fabrication](O004_adaptive_heavy_fabrication_program.md) | Internal-first kandidat; ROI nije potvrđen |
+| O005 | [Rail/battery lifecycle](O005_rail_fleet_battery_intelligence_service.md) | Kandidat; arhitektura/prava/ekonomika otvoreni |
+| O006 | [Renewable/BESS lifecycle](O006_renewable_bess_intelligence_optimization_service.md) | Kandidat; ownership/arhitektura/ekonomika otvoreni |
+
+Potvrđena odsutnost ili neadekvatnost funkcije preduvjet je klasifikacije build/partner gapa. Nepoznato označiti U. Povijesni E4 u prvim tezama ne tumačiti kao dovršeni interni due diligence.

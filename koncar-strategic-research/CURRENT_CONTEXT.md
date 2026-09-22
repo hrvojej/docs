@@ -1,267 +1,56 @@
-# CURRENT CONTEXT — load this first
-
-**Program:** KONČAR Strategic Technology & New Business Research  
-**As-of:** 2026-09-21  
-**Status:** foundation + Group/capability baseline + E001–E019 + B001–B006 + O001–O006 candidates; first benchmark wave complete
+# CURRENT CONTEXT — učitati prvo
 
-## Objective
+**Program:** KONČAR strategic technology & new business research. **Ažurirano:** 2026-09-22.
 
-Identify realistic new products, services and business models that KONČAR Group could profitably commercialize by intersecting:
+[Potpuni indeks](MASTER_INDEX.md) · [32 validacijska taska](validation/TASK_BOARD.md) · [R005: način rada](research/R005_validation_program_2026-09-22.md)
 
-**existing KONČAR industrial / engineering / manufacturing / digital / R&D / service assets**
+## Cilj
 
-with
+Identificirati profitabilne proizvode, usluge ili interne produktivnosne pomake za cijelu Grupu, kombinirajući stvarne kompetencije s dokazanim industrijskim tržištima. ROV i AI su opcije, ne unaprijed zadani pobjednici. Svaki materijalni rezultat mora imati MD artefakt, izvore, datum, jasno odvojene činjenice/hipoteze/nepoznanice i mjesto u indeksu.
 
-**global technologies and business models that are already commercially proven or sufficiently mature for industrial adoption.**
+## Što postoji
 
-The program is deliberately broader than AI, ROVs or robotics. Those are opportunity families, not the starting assumption.
+R001–R003 i E001–E019 predstavljaju prvi javni pregled vlasništva/kompetencija. B001–B006 su prva benchmark studija šest područja; O001–O006 su kandidati, ne potvrđeni business caseovi. [R004](research/R004_first_wave_cross_opportunity_synthesis_2026-09-21.md) čuva sintezu te faze.
 
-## Current strategic picture
+| ID | Predmet kandidata | Aktualna granica |
+|---|---|---|
+| O001 | Transformer intelligence i lifecycle servis | Javni baseline ponovno provjeren u R006; dodatna vrijednost i postojeći komercijalni opseg tek za potvrdu |
+| O002 | Grid inspection intelligence | Potrebno revalidirati postojeći drone/workflow i kupčev trošak prije autonomije |
+| O003 | Hydro/ROV inspekcije i lifecycle | Misijske kategorije, sigurnost, podizvođači i ekonomika odvojeno; nije odluka o vlastitom ROV-u |
+| O004 | Adaptivna proizvodnja/digitalna kvaliteta | Interni doprinos i bottleneck/OEE case, ne SaaS ARR |
+| O005 | Rail fleet/battery/charging | Stvarna verzija centralne platforme, BMS prava i dodatak održavanju tek za potvrdu |
+| O006 | Renewable/BESS portfolio | KONBAT owner, postojeća EMS/control-center arhitektura i portfolio delta tek za potvrdu |
 
-### 1. Group perimeter
-Current corporate material says KONČAR consists of the parent, **16 subsidiaries**, plus **one affiliated/joint-venture company with Siemens Energy**. Reconciliation of Q1 2026 consolidation data with Jul/Aug 2026 status changes yields the current direct-subsidiary baseline in R001.
+Prethodni obrazac 'hardver/domenska kompetencija + digitalni lifecycle + servis' ostaje istraživačka hipoteza. Posebno se ne smije zaključiti da nepostojanje javnog opisa funkcije znači da ona interno ne postoji. Ranije E3/E4 oznake nisu zamjena za provjeru deploymenta, kapaciteta i prodanih ugovora.
 
-### 2. 2026 restructuring matters
-Capabilities cannot be inferred from legal entities alone:
-- KONČAR – Electronics and Informatics (INEM) was reorganized and then merged into KONČAR Inc.;
-- its **Power Supply** business unit was separated into KONČAR – Helb before the final merger;
-- the **Assembly** business unit was also incorporated into HELB;
-- Prosperus Growth NEOS and KREANCA SUSTAVI were merged into KONČAR – Digital;
-- KONČAR completed acquisition of the remaining HELB shares and became 100% owner.
+## Najnoviji rezultat — O001-A / R006
 
-Therefore this repository tracks both **legal ownership** and **capability lineage**.
+[R006](research/R006_O001_existing_stack_offer_audit_2026-09-22.md) i [14 primarnih izvora s lokatorima](sources/R006_evidence_register.md) dokumentiraju javnu provjeru. Potvrđen je raniji baseline postojećeg TMS-a; nije otkrivena potreba da se monitoring ponovno izgradi.
 
-### 3. AI/data capability is already in-house
-The Group is not starting from zero:
-- **KONČAR – Digital** has documented R&D in AI/ML, edge/cloud analytics, predictive maintenance and AI integration with SCADA-related systems;
-- **KONČAR – Electrical Engineering Institute** has proprietary condition-monitoring products and ML-based automatic clustering/classification of partial-discharge faults;
-- **NEOS** has an explicit Data Science practice covering advanced analytics, ML and AI, data engineering capabilities, automated time-series forecasting work and the AI Defender R&D project.
+Važne promjene u [O001](opportunities/O001_transformer_intelligence_lifecycle_service.md):
 
-Implication: future opportunities should test how these capabilities can be attached to KONČAR domain hardware, installed base and service operations rather than assuming the Group must first acquire generic AI capability.
+- Fleet APM, stalni servis, 24/7 i SLA ostaju **U — nepoznato**, ne dokazano odsutni G2 gapovi.
+- Javna iPDCore dokumentacija ima teritorijalnu napomenu uz jednu DSync tehniku. To nije blanket zabrana TMS-a; prava po funkciji/tržištu moraju se razriješiti.
+- PROZA certifikacijski opis ne potvrđuje certifikaciju novog end-to-end TMS/fleet sklopa.
+- Povijesna isporuka nije aktivni pretplatnik. Ranije aggregate brojke ne ulaze u ARR model dok nisu provjereni izvor, datum, populacija, aktivnost i prava.
+- Nije pregledan aktualni interni TMS API/stack, ugovor, segmentni prihod ili service cost. Nije obavljen intervju, SQL upit ili pilot.
 
-### 4. Core cross-group assets visible already
-- power equipment and installed-base domain knowledge;
-- large-scale industrial manufacturing;
-- EPC / construction / commissioning;
-- field service and lifecycle maintenance;
-- electrical-engineering R&D, labs, testing and diagnostics;
-- embedded/control/power-electronics lineage;
-- software, SCADA, OT/IT, data engineering, analytics and cybersecurity;
-- rail/mobility domain;
-- hydro and renewable-energy domain;
-- international export and project footprint.
+O001 je **REFRAMED / awaiting internal evidence**: provjeriti dodatak ili skaliranje postojeće ponude, uključujući mogućnost da novi razvoj nije potreban. R006 ima prednost pred ranijim O001 tvrdnjama o gapovima.
 
-### 5. Concrete capability signals found in entity baseline
-- Institute: proprietary TMS/MCM/EMCM/iPDCore monitoring and ML-assisted diagnostics; 9 laboratories and broad testing/certification capability.
-- Electric Vehicles: BEMU/BMU development, fleet-maintenance capability and a measurement-train reference.
-- Metal Structures / Transformer Tanks: large welded-manufacturing footprint, machining, NDT and quality-control environments suitable for automation/CV benchmarking.
-- HELB + TELENERG + Dalekovod: field deployment, testing/commissioning, protection/control and infrastructure access.
-- former INEM lineage: power electronics, converters, embedded/protection/control capability that must be traced after the 2026 reorganization.
-- D&ST / KPT / Generators & Motors / Switchgear / Instrument Transformers: large equipment domains with lifecycle/monitoring adjacency.
-- Hydro Turbine / Renewables: direct operating/service environments relevant to autonomous inspection, predictive O&M and remote operations research.
+## Točan status rada
 
-### 6. First outside-in result — transformer intelligence
-[B001](benchmarks/B001_transformer_asset_intelligence_2026-09-21.md) establishes transformer asset intelligence/predictive lifecycle services as a mature E3 commercial category.
+R005 i TASK_BOARD definiraju 32 zadatka: A–E za svaku priliku i X01/X02 za zajednički sloj/portfelj. O001-A je COMPLETE_DESK; ostaje 31 task. Šest taskova ima READY javni dio, šest čeka interne dokaze, 19 ovisi o prethodnim rezultatima. COMPLETE_DESK nije komercijalni VALIDATED.
 
-Key market pattern:
-- monitoring hardware is increasingly only the entry layer;
-- leading vendors combine sensors/edge + fleet APM + remote experts + multi-year SLA/performance contracts;
-- 2026 Siemens Energy–Camlin transaction is a major validation signal for grid monitoring/analytics/asset-digitalization value.
+B zadaci traže as-is verzije, end-to-end serijalizaciju/podatkovni tok, prava i postojeći revenue/service baseline. C uključuje konkurenta, kupca i cijenu; D provjerljiv incremental economics model; E zasebno dizajn i stvarne rezultate pilota. X01 ne smije prerano postati monolitna platforma, X02 mora dopustiti HOLD/REJECT i opciju ne ulagati.
 
-Important KONČAR finding:
-- Institute TMS is already vendor-independent, retrofit-capable and internationally deployed;
-- it already includes condition models, remote access, reporting and condition-based-maintenance functions;
-- Institute reporting cites 780 delivered online monitoring systems in 64 countries and >60,000 MVA monitored by TMS.
+## Sljedeći konkretan posao
 
-Therefore the first identified gap is more likely **productization/servitization** than core monitoring technology.
+O001-B: [minimalni paket](validation/O001_B_evidence_request.md) od šest cjelina — arhitektura/verzije, mjerenje/event uzorci, funkcijsko-teritorijalna prava, reprezentativna ponuda/ugovor, aktivni inventory i troškovi isporuke. Zahtjev nije poslan niti ispunjen.
 
-This produced [O001 — KONČAR Transformer Intelligence & Lifecycle Service](opportunities/O001_transformer_intelligence_lifecycle_service.md), currently market E3 / KONČAR fit E4 / commercial E5 pending.
+Dok čekamo te dokaze, O001-C može raditi javne tendere/usporedive pakete, a O002-A–O006-A njihove revalidacije. Nije potrebno zaustaviti javni research zbog jednog nedostupnog internog dokumenta. Stvarne kupce/privatne priloge ne izmišljati.
 
-### 7. Second outside-in result — autonomous grid/substation inspection
-[B002](benchmarks/B002_autonomous_grid_substation_inspection_2026-09-21.md) establishes autonomous/remote grid inspection as a mature E3 category.
+## Sigurnost i kontinuitet
 
-Commercial evidence includes:
-- AEP / Skydio: emergency substation inspection case with ~USD 8m reported savings and move toward docked autonomous inspection;
-- SCE: >100 drones with docked systems scaling across grid assets;
-- FPL / Percepto: statewide autonomous drone-in-a-box rollout;
-- RTE / ANYbotics: autonomous ground-robot inspections in high-voltage environments;
-- SSEN / Cyberhawk: inspection/asset-data workflow across >11,500 towers and ~150 substations.
+Repo hrvojej/docs potvrđen je kao **public**. Javni nalazi i planovi mogu ostati tu; interne cijene, ugovori, sigurnosne arhitekture i proizvodni uzorci trebaju odobren privatni prostor. Javno objaviti samo odobreni sažetak, ne interne priloge.
 
-Important KONČAR finding:
-**Dalekovod-Projekt already uses drones, optical, thermal and laser cameras for maintenance documentation and condition analysis of operating power facilities.**
-
-Therefore the likely gap is not basic drone capture. It is:
-- persistent autonomy/docks;
-- BVLOS operating capability;
-- grid-specific CV/defect workflow;
-- longitudinal asset history;
-- SCADA/GIS/EAM/work-order integration;
-- recurring managed service.
-
-This produced [O002](opportunities/O002_grid_inspection_intelligence_service.md). Initial strategy: own the grid-domain intelligence/service layer and partner for drone/robot hardware.
-
-### 8. Third outside-in result — hydro / underwater inspection
-[B003](benchmarks/B003_hydro_underwater_inspection_2026-09-21.md) separates two maturity levels:
-
-**Commercially mature:** ROV visual/sonar inspection of intakes, gates, trash racks, turbines/runners, draft tubes and submerged dam structures.
-
-Evidence:
-- Ontario Power Generation moved runner inspection from a six-person diver workflow to a two-person ROV crew;
-- ESB Ireland has an ongoing ROV programme across most hydro sites;
-- VideoRay/US Bureau of Reclamation and multiple contractor cases show repeatable operational use.
-
-**Less mature / higher technical difficulty:** long flooded penstocks, reliable localization and quantitative robotic NDT. ENGIE/SHEM publicly documented a 2023 ROV trial that failed its ~400 m objective because of pressure/tether constraints; robotic EMAT work continued in 2026.
-
-KONČAR implication:
-Hydro Turbine already has diagnostic measurements, commissioning, maintenance and refurbishment capability. The first commercial move should therefore be **partner ROV + KONČAR hydro engineering + lifecycle repair path**, not proprietary ROV development.
-
-This produced [O003](opportunities/O003_hydro_underwater_inspection_lifecycle_service.md). Proprietary underwater robotics remains an R&D option only if recurring customer jobs expose a high-value unsolved problem.
-
-### 9. Fourth outside-in result — adaptive heavy fabrication
-[B004](benchmarks/B004_adaptive_welding_automated_ndt_smart_fabrication_2026-09-21.md) shows that high-mix/low-volume heavy fabrication can now be automated much further through offline CAD programming, seam sensing, adaptive vision, digital weld traceability and mechanized NDT.
-
-KONČAR-specific proof is unusually strong:
-- KMK already has a CLOOS robotic welding cell and published an approximately **3× welding-speed improvement** on an applicable repeatable assembly, with NDT-confirmed consistency;
-- KTK's new factory produces very large custom transformer tanks from 3D models and already operates under demanding VT/PT/MT/UT quality workflows.
-
-External benchmarks show:
-- IFH: 25–40% higher throughput on ~25 larger tank models after robotic/offline-programming expansion;
-- Verbotics/TRT: one-off/high-mix parts made economically robotizable via CAD-based programming;
-- commercial adaptive seam vision, automated geometric inspection, PAUT/TOFD and large-weldment 3D QA are available.
-
-This produced [O004](opportunities/O004_adaptive_heavy_fabrication_program.md), an **internal-first** opportunity: release bottleneck capacity and scarce skilled labour before considering external commercialization.
-
-### 10. Fifth outside-in result — rail fleet / battery / charging intelligence
-[B005](benchmarks/B005_rail_fleet_battery_infrastructure_intelligence_2026-09-21.md) confirms a mature rail-digital lifecycle market: OEMs combine telemetry, predictive maintenance and digital workflows with multi-year/full-lifecycle service contracts.
-
-Key market evidence:
-- Alstom HealthHub: 100+ projects and 18k+ cars monitored;
-- Hitachi HMAX: 2,000+ trains / 200,000 systems;
-- Siemens Railigent X: long-term predictive-maintenance contracts, including a 2026 battery-train deal for 61 Mireo Plus B units with service up to 30 years;
-- ABB traction batteries: remote condition monitoring + performance warranty + SLA.
-
-KONČAR-specific evidence is strong and current:
-- BEMU/BMU/EDMU portfolio;
-- battery trains and charging stations in operation/contracts;
-- 2026 contract for 6 additional BEMUs and hybrid Kotoriba charging station with PV + storage;
-- existing long-term rolling-stock maintenance;
-- KONČAR has publicly stated it is already **developing a centralized platform for system-wide coordination** of battery-rail operations/charging.
-
-This produced [O005](opportunities/O005_rail_fleet_battery_intelligence_service.md): vehicle health + battery SOH/RUL + charging orchestration + predictive maintenance + lifecycle SLA.
-
-Important boundary: the measurement train does not automatically give KONČAR infrastructure-measurement IP. MERMEC installed proprietary measurement systems, so data/algorithm rights must be validated separately.
-
-### 11. Sixth outside-in result — renewable / BESS intelligence and optimization
-[B006](benchmarks/B006_renewable_bess_asset_optimization_2026-09-21.md) confirms mature commercial categories for renewable inspection/APM, BESS/hybrid EMS and portfolio optimization.
-
-KONČAR-specific evidence is again stronger than a greenfield assumption:
-- KONBAT already documents BESS + EMS, BMS/PCS integration, configurable control algorithms, remote SCADA, diagnostics and predictive-maintenance positioning;
-- Vis provides a real solar+BESS/microgrid reference;
-- Pometeno Brdo and Vis are remotely managed from KONČAR's Renewable Energy Management Center in Zagreb;
-- Renewable Energy Sources owns/develops/maintains renewable assets;
-- Digital/NEOS provide data, forecasting and AI adjacency.
-
-Therefore the likely opportunity is not a new standalone BESS or SCADA product. It is to move from site-level project/control capability to **vendor-agnostic portfolio APM + inspection intelligence + battery health + forecasting + hybrid dispatch + recurring remote O&M/service**.
-
-This produced [O006](opportunities/O006_renewable_bess_intelligence_optimization_service.md).
-
-Immediate organizational question: KONBAT is still documented under former INEM lineage; current IP/team/product ownership after the 2026 restructuring must be resolved before assigning O006 ownership.
-
-### 12. Cross-opportunity pattern after first six benchmarks
-Across B001–B006, the recurring strategic pattern is:
-
-**KONČAR often already owns the hard domain/hardware/control capability. The missing value layer is repeatedly productization across subsidiaries: fleet/portfolio software, asset history, analytics/forecasting, workflow, expert remote operations and recurring SLA/service.**
-
-A second repeated pattern:
-- do not build commodity robot/drone/ROV hardware first;
-- own the domain data/workflow/service layer;
-- partner for capture/robotic platforms until a repeated high-value hardware gap is proven.
-
-A third pattern:
-- O004 shows that some of the best opportunities may be **internal operating leverage**, not new external products.
-
-These patterns are synthesized formally in R004.
-
-### 13. Strategic constraint to keep in mind
-2026 corporate reporting points to **production capacity and availability of qualified specialist personnel** as important growth constraints. New opportunities should therefore be evaluated not only on revenue potential but also on whether they:
-- increase lifecycle/software/service revenue;
-- leverage installed base and existing channels;
-- create high value without proportionally consuming scarce factory capacity;
-- or justify capacity investment through strong margin/export potential.
-
-## Current research artifacts
-
-### Cross-cutting research
-- **R001** — [Current Group Structure & Ownership](research/R001_current_group_structure_2026-09-21.md)
-- **R002** — [In-house AI, Data & Advanced Analytics](research/R002_inhouse_ai_data_capabilities_2026-09-21.md)
-- **R003** — [Cross-Group Capability Atlas](research/R003_capability_atlas_baseline_2026-09-21.md)
-
-### Entity/capability dossiers
-- **E001–E019 baseline v1** exist for all current direct subsidiaries, KPT affiliate and key capability-lineage nodes.
-- Browse: [entities/README.md](entities/README.md)
-
-### External benchmarks
-- **B001** — [Transformer Asset Intelligence & Predictive Lifecycle Services](benchmarks/B001_transformer_asset_intelligence_2026-09-21.md)
-- **B002** — [Autonomous Grid & Substation Inspection](benchmarks/B002_autonomous_grid_substation_inspection_2026-09-21.md)
-- **B003** — [Hydropower Underwater Inspection, ROV & Robotic NDT](benchmarks/B003_hydro_underwater_inspection_2026-09-21.md)
-- **B004** — [Adaptive Robotic Welding, Automated NDT & Smart Heavy Fabrication](benchmarks/B004_adaptive_welding_automated_ndt_smart_fabrication_2026-09-21.md)
-- **B005** — [Rail Fleet, Battery & Infrastructure Intelligence](benchmarks/B005_rail_fleet_battery_infrastructure_intelligence_2026-09-21.md)
-- **B006** — [Renewable O&M, Inspection, Forecasting & BESS Optimization](benchmarks/B006_renewable_bess_asset_optimization_2026-09-21.md)
-
-### Opportunity candidates
-- **O001** — [KONČAR Transformer Intelligence & Lifecycle Service](opportunities/O001_transformer_intelligence_lifecycle_service.md)
-- **O002** — [KONČAR Grid Inspection Intelligence & Remote Inspection Service](opportunities/O002_grid_inspection_intelligence_service.md)
-- **O003** — [KONČAR Hydro Underwater Inspection & Lifecycle Service](opportunities/O003_hydro_underwater_inspection_lifecycle_service.md)
-- **O004** — [KONČAR Adaptive Heavy Fabrication & Digital Quality Program](opportunities/O004_adaptive_heavy_fabrication_program.md)
-- **O005** — [KONČAR Rail Fleet & Battery Intelligence Lifecycle Service](opportunities/O005_rail_fleet_battery_intelligence_service.md)
-- **O006** — [KONČAR Renewable & BESS Intelligence / Optimization Lifecycle Service](opportunities/O006_renewable_bess_intelligence_optimization_service.md)
-
-### Cross-opportunity synthesis
-- **R004** — [First-Wave Cross-Opportunity Synthesis](research/R004_first_wave_cross_opportunity_synthesis_2026-09-21.md)
-
-### Complete registry
-- [MASTER_INDEX.md](MASTER_INDEX.md)
-
-## What is NOT yet concluded
-
-- No product opportunity has yet been declared commercially attractive.
-- No ROV/robotics thesis is privileged over other opportunities.
-- No market-size or margin claim is considered validated yet.
-- Detailed current ownership of some indirect subsidiaries after the summer-2026 mergers still requires registry-level reconciliation.
-- E001–E019 are **baseline dossiers**, not exhaustive deep dives: team size, IP/patents, installed-base data, exact software stacks, customer references, economics and current internal organization still need deeper validation where relevant.
-- B001–B006 are complete; the first planned outside-in benchmark wave is complete.
-- O001–O006 are candidate theses/programs, not validated business cases/ROI cases. Customer willingness-to-pay, pricing, internal ownership, service economics and pilot assets still require validation.
-
-## Current meta-conclusion
-
-R004 shows a repeated strategic pattern across the first six opportunities:
-
-- KONČAR frequently already owns the hard domain/hardware/control layer;
-- the repeated gap is end-to-end productization across subsidiaries;
-- recurring value is concentrated in asset/fleet history, analytics, expert workflow, field action and lifecycle SLA;
-- drone/ROV/robot hardware should generally be partnered first rather than made the initial product;
-- O004 is a separate internal-capacity case and must be validated through factory ROI, not customer ARR.
-
-This is a synthesis, not an investment ranking.
-
-## Next research sequence
-
-1. Deepen the highest-leverage E### dossiers with patents, projects, deployed products, customers, team/stack and installed-base evidence.
-2. Resolve the remaining indirect-ownership/legal-lineage questions in R001.
-3. ✅ First outside-in benchmark wave B001–B006 complete.
-4. ✅ R004 cross-opportunity synthesis complete.
-5. Move into **validation and prioritization**:
-   - O001–O003: buyers, pricing, pilot economics;
-   - O004: factory bottleneck/OEE/ROI;
-   - O005: centralized platform, BMS/data rights, service economics;
-   - O006: KONBAT lineage, portfolio architecture, owned-asset pilot.
-6. Build cross-opportunity common-platform architecture only after domain requirements are validated.
-5. Generate further O### theses only where market evidence and internal capability intersect.
-6. Perform stack-level gap analysis + build/partner/acquire.
-7. Validate economics and pilot paths.
-
-## Repository protocol
-
-Every new research output must be registered in [MASTER_INDEX.md](MASTER_INDEX.md).  
-If a result changes the strategic picture, this file must also be updated.  
-Each material research/chat session gets an S### capsule so a future chat can reconstruct why the current state looks the way it does.
+Početak novog chata: ovaj file → TASK_BOARD → relevantni O### → najnoviji R###/izvori. Završetak: artefakt + status taska + master + relevantni O### + ovaj sažetak + S### zapis. Arhiva ove sesije: [S009](sessions/S009_2026-09-22_validation_launch.md).

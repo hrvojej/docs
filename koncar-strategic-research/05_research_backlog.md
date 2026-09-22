@@ -1,172 +1,32 @@
-# Research backlog
+# Research backlog — aktualna faza
 
-**As-of:** 2026-09-21  
-**Canonical inventory:** [MASTER_INDEX.md](MASTER_INDEX.md)
+**Ažurirano:** 2026-09-22. [MASTER_INDEX](MASTER_INDEX.md) · [TASK_BOARD](validation/TASK_BOARD.md)
 
-## Status legend
-- ✅ baseline complete
-- 🔄 active / deepen
-- ⬜ not started
+## Izvršavanje: jedan izvor istine
 
-## Workstream 1 — Definitive Group map
-- ✅ reconcile Q1 2026 direct consolidation perimeter with Jul/Aug 2026 mergers/demergers → R001 v1
-- ✅ capture current direct subsidiaries + KPT affiliate
-- ✅ trace major capability-lineage changes from INEM / Kreanca / Prosperus Growth NEOS
-- 🔄 reconcile remaining indirect post-merger ownership paths:
-  - ADNET
-  - NEOS
-  - ENAKON MOBILITY
-- ⬜ registry-grade legally exhaustive appendix, including dormant/immaterial entities
-- ⬜ Mermaid ownership graph after legal reconciliation
-- 🔄 geographic locations/plants/labs inventory through E### deep dives
+Detaljni statusi svih 32 validacijskih zadataka vode se u TASK_BOARD-u, ne u paralelnim checkbox listama. [R005](research/R005_validation_program_2026-09-22.md) određuje metode, ulaze, izlaze i kriterije odluke.
 
-## Workstream 2 — Company / capability dossiers
-- ✅ create E001–E019 baseline dossiers
-- 🔄 deepen priority dossiers with:
-  - products and product architecture
-  - manufacturing capacity / labs
-  - R&D projects
-  - software/data/AI stack
-  - sensors/control/embedded
-  - patents/IP/publications
-  - service model
-  - installed base
-  - customer references
-  - revenue/financial scale
-  - current organization/headcount
-  - datasets / data rights
-  - commercial adjacencies
+Prvi zadatak O001-A je završen kao javna provjera kroz [R006](research/R006_O001_existing_stack_offer_audit_2026-09-22.md). Preostaje 31 task. O001-B čeka ovlaštene interne dokaze; O001-C i ostali A taskovi mogu nastaviti javni dio.
 
-Priority deep-dive sequence:
-1. E001 Electrical Engineering Institute
-2. E002 KONČAR Digital
-3. E003 NEOS
-4. E004 former INEM capability lineage
-5. E005 HELB
-6. E006 Dalekovod
-7. E007 D&ST
-8. E009 Hydro Turbine
-9. E010 Electric Vehicles
-10. E015/E016 manufacturing pair
-11. remaining dossiers as demanded by B### benchmarks
+## Preostali rad po cjelinama
 
-## Workstream 3 — In-house AI/data inventory
-- ✅ R002 baseline: AI/data capability confirmed in Digital + Institute + NEOS
-- 🔄 quantify teams, production deployments, model/data stack and revenue-bearing use cases
-- ⬜ complete AI-related patents/publications inventory
-- ⬜ determine computer-vision capability depth
-- ⬜ determine robotics/autonomy capability depth
-- ⬜ assess MLOps/model governance and critical-infrastructure deployment maturity
+| Cjelina | Što je napravljeno | Što ostaje |
+|---|---|---|
+| Struktura Grupe | R001 prvi perimeter | Pravna usklađenja indirektnih entiteta, promjena i ownershipa; ne proglašavati ga iscrpnim registry auditom |
+| Kompetencije | R002–R003, E001–E019 | Aktualni timovi, IP, proizvodi, reference, slobodni kapacitet, data rights i financijski segmenti |
+| Vanjski benchmark | B001–B006 i R004 prva sinteza | Revalidirati presudne tvrdnje u A taskovima; razlikovati vendor izjavu od nezavisnog dokaza |
+| As-is arhitekture/ponuda | O001-A javni baseline | Svih šest B taskova: stvarne verzije, tokovi, serializacija, ugovori i isporuka |
+| Kupci/cijene | Definiran okvir | Svih šest C taskova; O004 ima internog ekonomskog kupca |
+| Ekonomika | Definirane formule i testovi | Svih šest D taskova; stvarni ulazi ili eksplicitni break-even scenariji, bez lažne bazne profitabilnosti |
+| Piloti | Definirani tipovi dokaza | Svih šest E taskova: DESIGN pa stvarni RESULT; ne poistovjećivati plan i izvršenje |
+| Zajednička platforma | Hipoteza iz R004 | X01 tek nakon stvarnih B arhitektura, minimalni dijeljeni opseg |
+| Investicijski zaključak | Nije donesen | X02: GO/REFRAME/HOLD/REJECT uključujući opciju ne ulagati |
 
-## Workstream 4 — Global commercial benchmarks
+## Neposredni red rada
 
-Each B### must include:
-- 5–15 relevant vendors where category breadth justifies it;
-- 3–10 real customer deployments when evidence exists;
-- product architecture;
-- buyer and procurement model;
-- pricing/business model where available;
-- commercial maturity;
-- technical differentiators;
-- regulation/certification;
-- funding/M&A signals where useful;
-- clear mapping back to E### internal capabilities.
+1. O001-B: pribaviti [minimalni paket internih dokaza](validation/O001_B_evidence_request.md) u privatnom prostoru.
+2. O001-C: javni komercijalni pregled kao idući izvršivi desk task; aktualne ponude/tenderi i buyer segmentacija, bez izmišljanja intervjua.
+3. O002-A–O006-A neovisno nastaviti revalidacije.
+4. B/C → D → E po prilici; X01 i X02 po ovisnostima iz boarda.
 
-First benchmark families:
-1. ✅ B001 equipment intelligence / predictive lifecycle service
-2. ✅ B002 autonomous grid/substation inspection
-3. ✅ B003 hydro / underwater inspection and maintenance
-4. ✅ B004 industrial computer vision / robotic NDT / smart manufacturing
-5. ✅ B005 rail/battery/fleet/measurement intelligence
-6. ✅ B006 renewable O&M / autonomous inspection / forecasting / BESS optimization
-
-## Workstream 4A — First-wave synthesis
-- ✅ R004 cross-opportunity synthesis complete
-- ✅ broad first-wave discovery phase complete
-- 🔄 next phase is validation/prioritization using internal data, buyers and economics
-
-## Workstream 5 — Opportunity thesis generation
-- ✅ O001 Transformer Intelligence & Lifecycle Service created from B001 + internal evidence
-- ✅ O002 Grid Inspection Intelligence & Remote Inspection Service created from B002 + internal evidence
-- ✅ O003 Hydro Underwater Inspection & Lifecycle Service created from B003 + internal evidence
-- ✅ O004 Adaptive Heavy Fabrication & Digital Quality Program created from B004 + internal factory evidence
-- ✅ O005 Rail Fleet & Battery Intelligence Lifecycle Service created from B005 + internal rail/battery/charging evidence
-- ✅ O006 Renewable & BESS Intelligence / Optimization Lifecycle Service created from B006 + internal BESS/SCADA/renewables evidence
-- 🔄 O001–O003 require customer/economics/pilot validation before E5
-- 🔄 O004 requires factory bottleneck/OEE/ROI validation before rollout
-- 🔄 O005 requires centralized-platform/BMS/data-rights/customer/economics validation
-- 🔄 O006 requires KONBAT lineage, portfolio architecture, asset data rights and customer/economics validation
-- ⬜ Create additional O### only after capability + external commercial evidence intersect.
-
-Each O### must define:
-- buyer / job-to-be-done;
-- specific product boundary;
-- existing commercial references;
-- required technical stack;
-- KONČAR contribution by entity;
-- missing capabilities;
-- defensibility;
-- monetization;
-- pilot path.
-
-## Workstream 6 — Gap analysis
-For O001–O006:
-- ✅ initial stack maps
-- ✅ initial KONČAR capability owners
-- ✅ initial G0–G5 gap maps
-- ✅ initial build/partner/acquire views
-- ✅ no acquisition required for MVP/pilot of any of the first six opportunities on current evidence
-- 🔄 pilot design / exact asset selection pending
-
-For future O###:
-- ⬜ map complete stack
-- ⬜ assign KONČAR capability owner for each layer
-- ⬜ G0–G5 gaps
-- ⬜ build / partner / acquire decision
-- ⬜ pilot design
-
-## Workstream 6A — Validation sequence from R004
-- 🔄 O001: TMS product architecture, installed-base attach, customer pricing/SLA
-- 🔄 O002: Dalekovod drone workflow, utility inspection economics, BVLOS/partner path
-- 🔄 O003: current hydro underwater subcontracting, diver/dewatering economics, partner ROV pilot
-- 🔄 O004: weld-hour Pareto, CLOOS OEE, bottleneck/NDT cycle, contribution-margin ROI
-- 🔄 O005: centralized rail platform architecture, BMS/data rights, charging/lifecycle economics
-- 🔄 O006: KONBAT lineage, renewable control-center architecture, owned-asset data and BESS optimization
-
-## Workstream 7 — Economics & prioritization
-For validated O###:
-- ⬜ addressable/reachable market
-- ⬜ pilot/productization cost
-- ⬜ CAPEX
-- ⬜ revenue model
-- ⬜ margin logic
-- ⬜ recurring revenue
-- ⬜ export potential
-- ⬜ time-to-market
-- ⬜ customer ROI/payback
-
-## Workstream 8 — Customer validation
-Potential buyer groups:
-- TSOs/DSOs
-- utilities
-- hydro operators
-- rail operators
-- ports/shipyards
-- industrial plants
-- renewable operators
-- EPC customers
-- data centers / critical infrastructure
-
-No customer-validation result is considered complete until evidence is captured in an R###, B### or O### artifact.
-
-## Deliverables
-- ✅ initial current Group map
-- ✅ initial capability atlas
-- ✅ E001–E019 baseline dossiers
-- ⬜ registry-grade ownership appendix
-- 🔄 global benchmark atlas — B001–B006 complete, remaining families pending
-- 🔄 opportunity cards — O001–O006 candidates created
-- ⬜ gap matrices
-- ⬜ pilot shortlist
-- ⬜ build/partner/acquire recommendations
-- ⬜ validated business cases
+Nisu zakazana automatska izvršavanja. Svaki task može se pokrenuti u zasebnoj sesiji pozivanjem njegovog ID-a. Trenutačno nijedna teza nije dobila E5 ni budžet za razvoj.

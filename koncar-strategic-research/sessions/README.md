@@ -15,5 +15,6 @@
 | S009 | 2026-09-22 | [Raniji R005/R006 validation launch](S009_2026-09-22_validation_launch.md) |
 | S010 | 2026-09-22 | [Šest zadataka + dovršen O001](S010_2026-09-22_six_tasks_O001_complete.md) |
 | S011 | 2026-09-22 | [Dovršen O002 — stručne mrežne inspekcije](S011_2026-09-22_O002_complete.md) |
+| S012 | 2026-09-22 | [Dovršen O003 — hidro/ROV](S012_2026-09-22_O003_complete.md) |
 
-S010 zamjenjuje proces iz S009: javni izvori, najviše šest završnih procjena, bez pitanja i internih zahtjeva. S011 zatvara O002. Starije sesije čuvaju povijest, ne aktualni red rada. Sljedeći je O003.
+S010 zamjenjuje proces iz S009: javni izvori, najviše šest završnih procjena, bez pitanja i internih zahtjeva. S011 zatvara O002, S012 zatvara O003. Starije sesije čuvaju povijest, ne aktualni red rada. **Sljedeći je O004 — adaptivna proizvodnja i digitalna kvaliteta.**

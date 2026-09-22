@@ -1,16 +1,16 @@
-# Opportunity teze i status validacije
+# Šest poslovnih prilika
 
-[MASTER_INDEX](../MASTER_INDEX.md) · [32 taska](../validation/TASK_BOARD.md)
+[MASTER_INDEX](../MASTER_INDEX.md) · [Šest zadataka](../validation/TASK_BOARD.md) · [CURRENT_CONTEXT](../CURRENT_CONTEXT.md)
 
-Nijedna teza nije potvrđena investicijska preporuka. Javni tehnički fit nije dokaz aktualne interne integracije, prava, raspoloživosti ljudi ili profitabilnosti.
+**22. 9. 2026.: 1/6 završnih procjena dovršeno.** Javni izvori + eksplicitni ekonomski scenariji. Ne čekamo interne podatke niti postavljamo dodatna pitanja. Status DOVRŠENO znači da je završena javna procjena, ne da je dobit ostvarena ili pilot izveden.
 
-| ID | Dokument | Aktualni status |
+| ID | Dokument | Status |
 |---|---|---|
-| O001 | [Transformer intelligence/lifecycle](O001_transformer_intelligence_lifecycle_service.md) | REFRAMED nakon R006; A COMPLETE_DESK, B čeka dokaze |
-| O002 | [Grid inspection intelligence](O002_grid_inspection_intelligence_service.md) | Kandidat; A READY |
-| O003 | [Hydro underwater lifecycle](O003_hydro_underwater_inspection_lifecycle_service.md) | Kandidat; A READY |
-| O004 | [Adaptive heavy fabrication](O004_adaptive_heavy_fabrication_program.md) | Internal-first kandidat; ROI nije potvrđen |
-| O005 | [Rail/battery lifecycle](O005_rail_fleet_battery_intelligence_service.md) | Kandidat; arhitektura/prava/ekonomika otvoreni |
-| O006 | [Renewable/BESS lifecycle](O006_renewable_bess_intelligence_optimization_service.md) | Kandidat; ownership/arhitektura/ekonomika otvoreni |
+| O001 | [Monitoring transformatora kao stručna pretplatnička usluga](O001_transformer_intelligence_lifecycle_service.md) | **DOVRŠENO.** Preporučeno proširenje postojećeg servisa, ne nova velika platforma |
+| O002 | [Grid inspection intelligence](O002_grid_inspection_intelligence_service.md) | **SLJEDEĆI**; postojeći tekst je podloga |
+| O003 | [Hydro/ROV lifecycle](O003_hydro_underwater_inspection_lifecycle_service.md) | Preostaje završna procjena |
+| O004 | [Adaptivna proizvodnja i kvaliteta](O004_adaptive_heavy_fabrication_program.md) | Preostaje; unutarnja produktivnost/ekonomika |
+| O005 | [Rail fleet/battery/charging](O005_rail_fleet_battery_intelligence_service.md) | Preostaje završna procjena |
+| O006 | [Renewable/BESS portfolio](O006_renewable_bess_intelligence_optimization_service.md) | Preostaje; uključuje završnu usporedbu svih šest |
 
-Potvrđena odsutnost ili neadekvatnost funkcije preduvjet je klasifikacije build/partner gapa. Nepoznato označiti U. Povijesni E4 u prvim tezama ne tumačiti kao dovršeni interni due diligence.
+Stari A–E zadaci i statusi čekanja ne određuju daljnji rad. Za svaki O### napraviti jedan cjelovit izvještaj, uz pošteno označene nepoznanice i provjerene izvore.

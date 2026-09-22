@@ -1,40 +1,51 @@
 # MASTER INDEX — KONČAR strategic research
 
-**Ažurirano:** 2026-09-22. Kanonski katalog svih istraživanja, profila, prilika i validacijskih izlaza.
+**Ažurirano: 22. 9. 2026. Šest završnih zadataka ukupno: 1 dovršen, 5 preostaje.**
 
-## Ulaz u rad
+[CURRENT_CONTEXT — za novi chat](CURRENT_CONTEXT.md) · [TASK_BOARD — šest zadataka](validation/TASK_BOARD.md) · [O001 — posljednji završni izvještaj](opportunities/O001_transformer_intelligence_lifecycle_service.md)
 
-[CURRENT_CONTEXT](CURRENT_CONTEXT.md) za novi chat; [TASK_BOARD](validation/TASK_BOARD.md) za 32 zasebna zadatka; [R005](research/R005_validation_program_2026-09-22.md) za kriterije dokazivanja; [R006](research/R006_O001_existing_stack_offer_audit_2026-09-22.md) za zadnji rezultat.
+Rad se temelji na javnim online izvorima. Korisnik nema interne podatke i ne postavljaju mu se dodatna pitanja. Stari A–E podzadaci, X01/X02 i plan od 32 zadatka nisu aktivni. Nepoznate cijene/troškovi obrađuju se eksplicitnim scenarijima. Dovršeni research nije tvrdnja o ostvarenom profitu ili izvedenom pilotu.
 
-F = metoda/mapa; R = istraživanje; E = entitet/kompetencijsko nasljeđe; B = vanjski benchmark; O = poslovna teza; S = sažetak sesije. D je rezerviran za buduće odluke; nema dovršenog D artefakta. TASK_ID je ID izvršavanja, ne tvrdnja da je rezultat već napravljen.
+## Šest prilika — aktualni završni rezultati i podloge
 
-## Temeljni artefakti
-
-| ID | Dokument | Aktualni status |
+| ID | Dokument | Status |
 |---|---|---|
-| F001 | [Metodologija](00_methodology.md) | Početni okvir; validacijski kriteriji dopunjeni u R005 |
-| F002 | [Ownership mapa](01_group_ownership_map.md) | Početni pregled; pravno iscrpan aktualni perimeter nije zatvoren |
-| F003 | [Capability mapa](02_capability_map.md) | Početni pregled; interna implementacija/kapacitet nisu potvrđeni |
-| F004 | [Opportunity landscape](03_global_opportunity_landscape.md) | Hipoteze, ne shortlist |
-| F005 | [Gap framework](04_gap_analysis.md) | Koristiti U za nepoznato prije dodjele G0–G5 |
-| F006 | [Research backlog](05_research_backlog.md) | Upućuje na kanonski TASK_BOARD |
+| O001 | [Monitoring transformatora kao stručna pretplatnička usluga](opportunities/O001_transformer_intelligence_lifecycle_service.md) | **DOVRŠENO iz javnih izvora.** DA proširenju postojećeg servisa; NE novoj velikoj platformi |
+| O002 | [Grid inspection intelligence](opportunities/O002_grid_inspection_intelligence_service.md) | **SLJEDEĆI**; postojeći dokument je podloga |
+| O003 | [Hidro/ROV lifecycle](opportunities/O003_hydro_underwater_inspection_lifecycle_service.md) | Preostaje završna procjena |
+| O004 | [Adaptivna proizvodnja i kvaliteta](opportunities/O004_adaptive_heavy_fabrication_program.md) | Preostaje; interna ekonomika |
+| O005 | [Rail fleet/battery/charging](opportunities/O005_rail_fleet_battery_intelligence_service.md) | Preostaje završna procjena |
+| O006 | [Renewable/BESS portfolio](opportunities/O006_renewable_bess_intelligence_optimization_service.md) | Preostaje; uključiti završnu usporedbu šest prilika |
+
+[Pregled prilika](opportunities/README.md). Izvori najnovijeg O001 su u samom izvještaju; [neovisna kontrola aritmetike](sources/O001_economics_check.md).
+
+## Metode i mape
+
+| ID | Dokument | Uloga |
+|---|---|---|
+| F001 | [Metodologija](00_methodology.md) | Početna podloga; aktualni način završavanja u TASK_BOARD-u |
+| F002 | [Ownership mapa](01_group_ownership_map.md) | Javni baseline, ne iscrpan pravni audit |
+| F003 | [Capability mapa](02_capability_map.md) | Javni baseline; ne potvrda slobodnih internih kapaciteta |
+| F004 | [Opportunity landscape](03_global_opportunity_landscape.md) | Širi popis smjerova |
+| F005 | [Gap framework](04_gap_analysis.md) | Metoda; nepoznato nije automatski dokazani gap |
+| F006 | [Research backlog](05_research_backlog.md) | Aktualni sažetak šest zadataka |
 
 ## Istraživanja
 
-| ID | Dokument | Status / što donosi |
+| ID | Dokument | Status / uloga |
 |---|---|---|
-| R001 | [Struktura Grupe](research/R001_current_group_structure_2026-09-21.md) | Baseline v1; preostala pravna i vremenska usklađenja |
-| R002 | [In-house AI/data](research/R002_inhouse_ai_data_capabilities_2026-09-21.md) | Baseline v1; proizvod/tim/prihod nisu isto |
-| R003 | [Capability atlas](research/R003_capability_atlas_baseline_2026-09-21.md) | Baseline v1, ulaz u validaciju |
-| R004 | [Sinteza prve benchmark faze](research/R004_first_wave_cross_opportunity_synthesis_2026-09-21.md) | Šest teza; nije potvrda profitabilnosti |
-| R005 | [Program validacije O001–O006](research/R005_validation_program_2026-09-22.md) | 32 zadatka, ovisnosti, dokazi i uvjeti odluke |
-| R006 | [O001-A: audit postojećeg sklopa i ponude](research/R006_O001_existing_stack_offer_audit_2026-09-22.md) | COMPLETE_DESK; O001 sužen, gapovi U, data/IP i komercijalne granice |
+| R001 | [Struktura Grupe](research/R001_current_group_structure_2026-09-21.md) | Početni pregled |
+| R002 | [In-house AI/data](research/R002_inhouse_ai_data_capabilities_2026-09-21.md) | Početni pregled |
+| R003 | [Capability atlas](research/R003_capability_atlas_baseline_2026-09-21.md) | Početni pregled |
+| R004 | [Sinteza prve benchmark faze](research/R004_first_wave_cross_opportunity_synthesis_2026-09-21.md) | Povijesna sinteza, ne potvrda profita |
+| R005 | [Arhivirani validacijski program](research/R005_validation_program_2026-09-22.md) | **ZAMIJENJEN** planom od šest zadataka; nije uvjet nastavka |
+| R006 | [Raniji tehnički audit O001](research/R006_O001_existing_stack_offer_audit_2026-09-22.md) | Tehnička podloga; proces čekanja internih dokaza više ne vrijedi |
 
-Pregled: [research/README](research/README.md).
+[Pregled istraživanja](research/README.md).
 
 ## Profili društava i kompetencijskog nasljeđa
 
-E001–E019 su početni javni profili, ne interni due diligence. Zaposlenici, prava, verzije proizvoda i slobodni kapaciteti traže zasebne dokaze.
+E001–E019 su početni javni profili. Služe kao podloga, ne kao interni due diligence.
 
 | ID | Profil |
 |---|---|
@@ -58,11 +69,11 @@ E001–E019 su početni javni profili, ne interni due diligence. Zaposlenici, pr
 | E018 | [KONČAR Switzerland](entities/E018_koncar_switzerland.md) |
 | E019 | [KPT affiliate](entities/E019_power_transformers_kpt.md) |
 
-Pregled: [entities/README](entities/README.md).
+[Pregled profila](entities/README.md).
 
 ## Vanjski komercijalni benchmarkovi
 
-Prva faza B001–B006 je napisana. Presudne tvrdnje za poslovnu odluku revalidiraju se kroz A taskove; oznaka complete-v1 u povijesnom dokumentu nije interna ni financijska validacija.
+Postojeće podloge prve faze. Ključne tvrdnje provjeravaju se online unutar odgovarajućeg O###, bez otvaranja dodatnih taskova.
 
 | ID | Benchmark |
 |---|---|
@@ -73,30 +84,19 @@ Prva faza B001–B006 je napisana. Presudne tvrdnje za poslovnu odluku revalidir
 | B005 | [Rail/battery/infrastructure intelligence](benchmarks/B005_rail_fleet_battery_infrastructure_intelligence_2026-09-21.md) |
 | B006 | [Renewable/BESS optimization](benchmarks/B006_renewable_bess_asset_optimization_2026-09-21.md) |
 
-Pregled: [benchmarks/README](benchmarks/README.md).
+[Pregled benchmarkova](benchmarks/README.md).
 
-## Prilike / programi
-
-| ID | Teza | Aktualna odluka |
-|---|---|---|
-| O001 | [Transformer intelligence/lifecycle](opportunities/O001_transformer_intelligence_lifecycle_service.md) | REFRAMED; javni A završen, interni dokazi i ekonomika nedostaju |
-| O002 | [Grid inspection service](opportunities/O002_grid_inspection_intelligence_service.md) | Kandidat; A READY |
-| O003 | [Hydro underwater lifecycle](opportunities/O003_hydro_underwater_inspection_lifecycle_service.md) | Kandidat; A READY |
-| O004 | [Adaptive heavy fabrication](opportunities/O004_adaptive_heavy_fabrication_program.md) | Internal-first kandidat; ROI nije potvrđen |
-| O005 | [Rail fleet/battery lifecycle](opportunities/O005_rail_fleet_battery_intelligence_service.md) | Kandidat; arhitektura/komercijala nisu potvrđene |
-| O006 | [Renewable/BESS lifecycle](opportunities/O006_renewable_bess_intelligence_optimization_service.md) | Kandidat; ownership/arhitektura/ekonomika nisu potvrđene |
-
-Nijedan O### nije E5 niti odobreno ulaganje. Pregled: [opportunities/README](opportunities/README.md).
-
-## Izvršavanje validacije i izvori
+## Izvori i procesni artefakti
 
 | Artefakt | Namjena |
 |---|---|
-| [TASK_BOARD](validation/TASK_BOARD.md) | Svih 32 taska, ulazi, izlazi, ovisnosti, kill kriteriji i statusi |
-| [O001-B evidence request](validation/O001_B_evidence_request.md) | Šest internih dokaznih cjelina; zahtjev nije poslan/ispunjen |
-| [R006 evidence register](sources/R006_evidence_register.md) | 14 primarnih izvora, lokatori i nedohvaćeni izvori |
-| [Source register](sources/source_register.md) | Izvori prvih faza; nisu automatski ponovno provjereni |
-| [Sources overview](sources/README.md) | Navigacija i hijerarhija source registara |
+| [TASK_BOARD](validation/TASK_BOARD.md) | Jedini aktivni plan: najviše šest zadataka |
+| [O001 završni izvori](opportunities/O001_transformer_intelligence_lifecycle_service.md#izvori) | 11 ponovno pregledanih primarnih izvora i njihove granice |
+| [O001 ekonomika — kontrola](sources/O001_economics_check.md) | Sve scenarijske pretpostavke, rezultati i testovi |
+| [R006 evidence register](sources/R006_evidence_register.md) | Raniji tehnički izvori/lokatori |
+| [Source register](sources/source_register.md) | Izvori prvih faza |
+| [Sources overview](sources/README.md) | Navigacija registara |
+| [Stari O001-B zahtjev](validation/O001_B_evidence_request.md) | **ARHIVA, NEAKTIVNO.** Ne slati niti tražiti od korisnika; nije preduvjet researcha |
 
 ## Sažeci sesija
 
@@ -110,12 +110,11 @@ Nijedan O### nije E5 niti odobreno ulaganje. Pregled: [opportunities/README](opp
 | S006 | [B005/O005](sessions/S006_2026-09-21_B005_O005.md) |
 | S007 | [B006/O006](sessions/S007_2026-09-21_B006_O006.md) |
 | S008 | [R004 synthesis](sessions/S008_2026-09-21_R004_first_wave_synthesis.md) |
-| S009 | [Validation launch / R005–R006](sessions/S009_2026-09-22_validation_launch.md) |
+| S009 | [Raniji validation launch](sessions/S009_2026-09-22_validation_launch.md) |
+| S010 | [Šest zadataka + dovršen O001](sessions/S010_2026-09-22_six_tasks_O001_complete.md) |
 
-Pregled: [sessions/README](sessions/README.md).
+[Pregled sesija](sessions/README.md).
 
 ## Pravilo nastavka
 
-Sačuvati svaki materijalni rezultat, povezati ga ovdje i u task boardu, ažurirati O### i CURRENT_CONTEXT te sesiju. Novo istraživanje ne proglašava se dovršenim bez tih poveznica. Ne povezivati planiranu datoteku kao da postoji. Povijesni dokumenti ostaju čitljivi; za konflikt vrijedi najnoviji izvorno potkrijepljen zaključak.
-
-Repo je public: interni ugovori, cijene i proizvodni podaci samo u odobren privatni prostor; ovdje javni ili odobreni sažetak.
+Jedan O### = jedan završni research. Sačuvati rezultat i izvore, ažurirati ovaj indeks, TASK_BOARD, CURRENT_CONTEXT i sažetak sesije. Ne širiti broj zadataka. Povijesne podloge zadržavaju se, ali aktualni završni izvještaj i šest-task plan imaju prednost pred starim procesnim statusima.

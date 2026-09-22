@@ -6,11 +6,13 @@ Cijela Grupa, postojeće industrijske kompetencije i komercijalne primjene novih
 
 ## Aktualno — 22. 9. 2026.
 
-**Najviše šest zadataka, jedan po prilici O001–O006. Samo javni online izvori, bez dodatnih pitanja i zahtjeva za internim podacima.**
+**2/6 dovršeno. Najviše šest zadataka, jedan po prilici O001–O006. Samo javni online izvori, bez dodatnih pitanja i zahtjeva za internim podacima.**
 
-**O001 je dovršen:** [monitoring transformatora kao stručna pretplatnička usluga](opportunities/O001_transformer_intelligence_lifecycle_service.md). Preporuka je proširenje postojećeg TMS/dijagnostičkog servisa, ne nova velika platforma. Izvještaj sadrži javne dokaze, ponudu/kupce, gapove, scenarije ekonomike, rizike i preporučeni ulazak. Scenariji nisu stvarne cijene ili ostvarena dobit.
+[O001 — monitoring transformatora](opportunities/O001_transformer_intelligence_lifecycle_service.md) preporučuje proširenje postojećeg stručnog servisa, ne novu veliku platformu.
 
-Sljedeći je **O002 — inspekcije mreže**. Nakon njega slijede O003 hidro/ROV, O004 proizvodnja, O005 vlakovi/baterije i O006 obnovljivi/BESS. Završna usporedba ide unutar O006, bez dodatnog zadatka.
+[O002 — inspekcije mreže](opportunities/O002_grid_inspection_intelligence_service.md) preporučuje periodičnu mobilnu inženjersku uslugu s digitalnim nalazom, uz partnersku autonomiju samo gdje učestalost i ekonomika to opravdaju. Nije preporučen razvoj vlastitog drona ili robota.
+
+Oba izvještaja sadrže izvore i eksplicitne scenarije, ne stvarne cijene ili ostvarenu dobit. Sljedeći je **O003 — hidro/ROV**. Nakon njega O004 proizvodnja, O005 vlakovi/baterije i O006 obnovljivi/BESS sa završnom usporedbom, bez sedmog zadatka.
 
 ## Dokumentacija
 

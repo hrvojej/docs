@@ -13,6 +13,7 @@
 | S007 | 2026-09-21 | [B006/O006 renewable/BESS](S007_2026-09-21_B006_O006.md) |
 | S008 | 2026-09-21 | [R004 synthesis](S008_2026-09-21_R004_first_wave_synthesis.md) |
 | S009 | 2026-09-22 | [Raniji R005/R006 validation launch](S009_2026-09-22_validation_launch.md) |
-| S010 | 2026-09-22 | [Aktualno: šest zadataka + dovršen O001](S010_2026-09-22_six_tasks_O001_complete.md) |
+| S010 | 2026-09-22 | [Šest zadataka + dovršen O001](S010_2026-09-22_six_tasks_O001_complete.md) |
+| S011 | 2026-09-22 | [Dovršen O002 — stručne mrežne inspekcije](S011_2026-09-22_O002_complete.md) |
 
-S010 zamjenjuje proces iz S009: javni izvori, najviše šest završnih procjena, bez pitanja i internih zahtjeva. Starije sesije čuvaju povijest, ne aktualni red rada. Sljedeći je O002.
+S010 zamjenjuje proces iz S009: javni izvori, najviše šest završnih procjena, bez pitanja i internih zahtjeva. S011 zatvara O002. Starije sesije čuvaju povijest, ne aktualni red rada. Sljedeći je O003.

@@ -1,23 +1,23 @@
 # MASTER INDEX — KONČAR strategic research
 
-**Ažurirano: 22. 9. 2026. Šest završnih zadataka ukupno: 2 dovršena, 4 preostaju.**
+**Ažurirano: 22. 9. 2026. Šest završnih zadataka ukupno: 3 dovršena, 3 preostaju.**
 
-[CURRENT_CONTEXT — za novi chat](CURRENT_CONTEXT.md) · [TASK_BOARD — šest zadataka](validation/TASK_BOARD.md) · [O002 — posljednji završni izvještaj](opportunities/O002_grid_inspection_intelligence_service.md)
+[CURRENT_CONTEXT — za novi chat](CURRENT_CONTEXT.md) · [TASK_BOARD — šest zadataka](validation/TASK_BOARD.md) · [O003 — posljednji završni izvještaj](opportunities/O003_hydro_underwater_inspection_lifecycle_service.md)
 
 Rad se temelji na javnim online izvorima. Korisnik nema interne podatke i ne postavljaju mu se dodatna pitanja. Stari A–E podzadaci, X01/X02 i plan od 32 zadatka nisu aktivni. Nepoznate cijene/troškovi obrađuju se eksplicitnim scenarijima. Dovršeni research nije tvrdnja o ostvarenom profitu ili izvedenom pilotu.
 
-## Šest prilika — aktualni završni rezultati i podloge
+## Šest prilika — aktualni rezultati i podloge
 
 | ID | Dokument | Status |
 |---|---|---|
-| O001 | [Monitoring transformatora kao stručna pretplatnička usluga](opportunities/O001_transformer_intelligence_lifecycle_service.md) | **DOVRŠENO iz javnih izvora.** DA proširenju postojećeg servisa; NE novoj velikoj platformi |
-| O002 | [Inspekcije mreže dronovima i robotima](opportunities/O002_grid_inspection_intelligence_service.md) | **DOVRŠENO iz javnih izvora.** Mobilna stručna usluga prvo; partnerska autonomija samo uz opravdanu učestalost |
-| O003 | [Hidro/ROV lifecycle](opportunities/O003_hydro_underwater_inspection_lifecycle_service.md) | **SLJEDEĆI**; preostaje završna procjena |
-| O004 | [Adaptivna proizvodnja i kvaliteta](opportunities/O004_adaptive_heavy_fabrication_program.md) | Preostaje; interna ekonomika |
+| O001 | [Monitoring transformatora kao stručna pretplatnička usluga](opportunities/O001_transformer_intelligence_lifecycle_service.md) | **DOVRŠENO iz javnih izvora.** Proširenje postojećeg servisa, ne nova velika platforma |
+| O002 | [Inspekcije mreže dronovima i robotima](opportunities/O002_grid_inspection_intelligence_service.md) | **DOVRŠENO iz javnih izvora.** Mobilna stručna usluga prvo; autonomija selektivno |
+| O003 | [Podvodne hidro inspekcije kao inženjerska usluga](opportunities/O003_hydro_underwater_inspection_lifecycle_service.md) | **DOVRŠENO iz javnih izvora.** Partnerska ROV ekipa uz hidro-servis; ne vlastiti generički ROV razvoj |
+| O004 | [Adaptivna proizvodnja i kvaliteta](opportunities/O004_adaptive_heavy_fabrication_program.md) | **SLJEDEĆI**; interna ekonomika |
 | O005 | [Rail fleet/battery/charging](opportunities/O005_rail_fleet_battery_intelligence_service.md) | Preostaje završna procjena |
-| O006 | [Renewable/BESS portfolio](opportunities/O006_renewable_bess_intelligence_optimization_service.md) | Preostaje; uključiti završnu usporedbu šest prilika |
+| O006 | [Renewable/BESS portfolio](opportunities/O006_renewable_bess_intelligence_optimization_service.md) | Preostaje; uključiti završnu usporedbu svih šest |
 
-[Pregled prilika](opportunities/README.md). Izvori su u završnim izvještajima. Aritmetički prilozi: [O001](sources/O001_economics_check.md) · [O002](sources/O002_economics_check.md).
+[Pregled prilika](opportunities/README.md). Izvori su u završnim izvještajima. Aritmetički prilozi: [O001](sources/O001_economics_check.md) · [O002](sources/O002_economics_check.md) · [O003](sources/O003_economics_check.md).
 
 ## Metode i mape
 
@@ -27,7 +27,7 @@ Rad se temelji na javnim online izvorima. Korisnik nema interne podatke i ne pos
 | F002 | [Ownership mapa](01_group_ownership_map.md) | Javni baseline, ne iscrpan pravni audit |
 | F003 | [Capability mapa](02_capability_map.md) | Javni baseline; ne potvrda slobodnih internih kapaciteta |
 | F004 | [Opportunity landscape](03_global_opportunity_landscape.md) | Širi popis smjerova |
-| F005 | [Gap framework](04_gap_analysis.md) | Metoda; nepoznato nije automatski dokazani gap |
+| F005 | [Gap framework](04_gap_analysis.md) | Nepoznato nije automatski dokazani gap |
 | F006 | [Research backlog](05_research_backlog.md) | Aktualni sažetak šest zadataka |
 
 ## Istraživanja
@@ -39,13 +39,13 @@ Rad se temelji na javnim online izvorima. Korisnik nema interne podatke i ne pos
 | R003 | [Capability atlas](research/R003_capability_atlas_baseline_2026-09-21.md) | Početni pregled |
 | R004 | [Sinteza prve benchmark faze](research/R004_first_wave_cross_opportunity_synthesis_2026-09-21.md) | Povijesna sinteza, ne potvrda profita |
 | R005 | [Arhivirani validacijski program](research/R005_validation_program_2026-09-22.md) | **ZAMIJENJEN** planom od šest zadataka; nije uvjet nastavka |
-| R006 | [Raniji tehnički audit O001](research/R006_O001_existing_stack_offer_audit_2026-09-22.md) | Tehnička podloga; proces čekanja internih dokaza više ne vrijedi |
+| R006 | [Raniji tehnički audit O001](research/R006_O001_existing_stack_offer_audit_2026-09-22.md) | Tehnička podloga; proces čekanja internih dokaza ne vrijedi |
 
 [Pregled istraživanja](research/README.md).
 
 ## Profili društava i kompetencijskog nasljeđa
 
-E001–E019 su početni javni profili. Služe kao podloga, ne kao interni due diligence.
+E001–E019 su početni javni profili, ne interni due diligence.
 
 | ID | Profil |
 |---|---|
@@ -73,7 +73,7 @@ E001–E019 su početni javni profili. Služe kao podloga, ne kao interni due di
 
 ## Vanjski komercijalni benchmarkovi
 
-Postojeće podloge prve faze. Ključne tvrdnje provjeravaju se online unutar odgovarajućeg O###, bez otvaranja dodatnih taskova. Završni O002 precizira da je RTE/ANYmal primjer evaluacija na replikama, a FPL objava iz 2022. plan, ne dokaz aktualne ukupne flote.
+Podloge prve faze; ključne tvrdnje provjeravaju se unutar O###, bez dodatnih taskova. Završni O002 precizira RTE/ANYmal evaluaciju i FPL plan. Završni O003 razlikuje izbjegnuto pražnjenje od izolacija/zaustavljanja, vizualni pregled od NDT-a i sposobnost izvlačenja od jamstva povratka.
 
 | ID | Benchmark |
 |---|---|
@@ -91,14 +91,16 @@ Postojeće podloge prve faze. Ključne tvrdnje provjeravaju se online unutar odg
 | Artefakt | Namjena |
 |---|---|
 | [TASK_BOARD](validation/TASK_BOARD.md) | Jedini aktivni plan: najviše šest zadataka |
-| [O001 završni izvori](opportunities/O001_transformer_intelligence_lifecycle_service.md#izvori) | Ponovno pregledani primarni izvori i njihove granice |
-| [O001 ekonomika — kontrola](sources/O001_economics_check.md) | Scenarijske pretpostavke, rezultati i testovi |
-| [O002 završni izvori](opportunities/O002_grid_inspection_intelligence_service.md#izvori) | 11 pregledanih primarnih izvora; kupac/dobavljači/propisi i granice dokaza |
-| [O002 ekonomika — kontrola](sources/O002_economics_check.md) | Godišnja mobilna usluga, kapacitet, cjenovna osjetljivost i zasebni dock pragovi |
+| [O001 izvori](opportunities/O001_transformer_intelligence_lifecycle_service.md#izvori) | Primarni izvori i granice |
+| [O001 ekonomika](sources/O001_economics_check.md) | Scenariji i testovi |
+| [O002 izvori](opportunities/O002_grid_inspection_intelligence_service.md#izvori) | Kupac/dobavljači/propisi i granice dokaza |
+| [O002 ekonomika](sources/O002_economics_check.md) | Mobilna usluga, osjetljivost i odvojeni dock pragovi |
+| [O003 izvori](opportunities/O003_hydro_underwater_inspection_lifecycle_service.md#izvori) | 13 primarnih izvora s datumima/lokatorima i ograničenjima |
+| [O003 ekonomika](sources/O003_economics_check.md) | Partnerska kampanja, rent/buy razlika godišnjeg troška i casha, zastoj, AI kapacitet; 39 provjera |
 | [R006 evidence register](sources/R006_evidence_register.md) | Raniji tehnički izvori/lokatori |
 | [Source register](sources/source_register.md) | Izvori prvih faza |
 | [Sources overview](sources/README.md) | Navigacija registara |
-| [Stari O001-B zahtjev](validation/O001_B_evidence_request.md) | **ARHIVA, NEAKTIVNO.** Ne slati niti tražiti od korisnika; nije preduvjet researcha |
+| [Stari O001-B zahtjev](validation/O001_B_evidence_request.md) | **ARHIVA, NEAKTIVNO.** Ne slati niti tražiti od korisnika |
 
 ## Sažeci sesija
 
@@ -115,9 +117,10 @@ Postojeće podloge prve faze. Ključne tvrdnje provjeravaju se online unutar odg
 | S009 | [Raniji validation launch](sessions/S009_2026-09-22_validation_launch.md) |
 | S010 | [Šest zadataka + dovršen O001](sessions/S010_2026-09-22_six_tasks_O001_complete.md) |
 | S011 | [Dovršen O002 — mrežne inspekcije](sessions/S011_2026-09-22_O002_complete.md) |
+| S012 | [Dovršen O003 — hidro/ROV](sessions/S012_2026-09-22_O003_complete.md) |
 
 [Pregled sesija](sessions/README.md).
 
 ## Pravilo nastavka
 
-Jedan O### = jedan završni research. Sačuvati rezultat i izvore, ažurirati ovaj indeks, TASK_BOARD, CURRENT_CONTEXT i sažetak sesije. Ne širiti broj zadataka. Povijesne podloge zadržavaju se, ali aktualni završni izvještaj i šest-task plan imaju prednost pred starim procesnim statusima.
+Jedan O### = jedan završni research. Sačuvati rezultat i izvore, ažurirati indeks, TASK_BOARD, CURRENT_CONTEXT i sesiju. Ne širiti broj zadataka. Povijesne podloge zadržavaju se, ali završni izvještaj i šest-task plan imaju prednost pred starim statusima.

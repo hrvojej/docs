@@ -6,13 +6,15 @@ Cijela Grupa, postojeće industrijske kompetencije i komercijalne primjene novih
 
 ## Aktualno — 22. 9. 2026.
 
-**2/6 dovršeno. Najviše šest zadataka, jedan po prilici O001–O006. Samo javni online izvori, bez dodatnih pitanja i zahtjeva za internim podacima.**
+**3/6 dovršeno. Najviše šest zadataka, jedan po prilici O001–O006. Samo javni online izvori, bez dodatnih pitanja i zahtjeva za internim podacima.**
 
-[O001 — monitoring transformatora](opportunities/O001_transformer_intelligence_lifecycle_service.md) preporučuje proširenje postojećeg stručnog servisa, ne novu veliku platformu.
+[O001 — monitoring transformatora](opportunities/O001_transformer_intelligence_lifecycle_service.md): proširenje postojećeg stručnog servisa, ne nova velika platforma.
 
-[O002 — inspekcije mreže](opportunities/O002_grid_inspection_intelligence_service.md) preporučuje periodičnu mobilnu inženjersku uslugu s digitalnim nalazom, uz partnersku autonomiju samo gdje učestalost i ekonomika to opravdaju. Nije preporučen razvoj vlastitog drona ili robota.
+[O002 — inspekcije mreže](opportunities/O002_grid_inspection_intelligence_service.md): periodična mobilna inženjerska usluga s digitalnim nalazom; partnerska autonomija samo gdje učestalost i ekonomika to opravdaju.
 
-Oba izvještaja sadrže izvore i eksplicitne scenarije, ne stvarne cijene ili ostvarenu dobit. Sljedeći je **O003 — hidro/ROV**. Nakon njega O004 proizvodnja, O005 vlakovi/baterije i O006 obnovljivi/BESS sa završnom usporedbom, bez sedmog zadatka.
+[O003 — podvodne hidro inspekcije](opportunities/O003_hydro_underwater_inspection_lifecycle_service.md): partnerska ROV operativa uz hidro-inženjerski nalaz i održavanje; ne razvoj vlastite generičke ronilice. Odvojeni su trošak pune usluge, najam/kupnja opreme, granice mjerenja i sigurno stanje postrojenja.
+
+Izvještaji sadrže izvore i eksplicitne scenarije, ne stvarne interne cijene ili ostvarenu dobit. Sljedeći je **O004 — adaptivna proizvodnja i digitalna kvaliteta**, zatim O005 vlakovi/baterije i O006 obnovljivi/BESS sa završnom usporedbom, bez sedmog zadatka.
 
 ## Dokumentacija
 

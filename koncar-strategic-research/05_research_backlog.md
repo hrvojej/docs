@@ -1,32 +1,20 @@
-# Research backlog — aktualna faza
+# Research backlog — šest završnih cjelina
 
-**Ažurirano:** 2026-09-22. [MASTER_INDEX](MASTER_INDEX.md) · [TASK_BOARD](validation/TASK_BOARD.md)
+**Ažurirano: 22. 9. 2026. 1/6 dovršeno; 5 preostaje.**
 
-## Izvršavanje: jedan izvor istine
+[Kanonski plan i statusi](validation/TASK_BOARD.md) · [Master](MASTER_INDEX.md) · [Aktualni kontekst](CURRENT_CONTEXT.md)
 
-Detaljni statusi svih 32 validacijskih zadataka vode se u TASK_BOARD-u, ne u paralelnim checkbox listama. [R005](research/R005_validation_program_2026-09-22.md) određuje metode, ulaze, izlaze i kriterije odluke.
-
-Prvi zadatak O001-A je završen kao javna provjera kroz [R006](research/R006_O001_existing_stack_offer_audit_2026-09-22.md). Preostaje 31 task. O001-B čeka ovlaštene interne dokaze; O001-C i ostali A taskovi mogu nastaviti javni dio.
-
-## Preostali rad po cjelinama
-
-| Cjelina | Što je napravljeno | Što ostaje |
+| Red | Cjelina | Status |
 |---|---|---|
-| Struktura Grupe | R001 prvi perimeter | Pravna usklađenja indirektnih entiteta, promjena i ownershipa; ne proglašavati ga iscrpnim registry auditom |
-| Kompetencije | R002–R003, E001–E019 | Aktualni timovi, IP, proizvodi, reference, slobodni kapacitet, data rights i financijski segmenti |
-| Vanjski benchmark | B001–B006 i R004 prva sinteza | Revalidirati presudne tvrdnje u A taskovima; razlikovati vendor izjavu od nezavisnog dokaza |
-| As-is arhitekture/ponuda | O001-A javni baseline | Svih šest B taskova: stvarne verzije, tokovi, serializacija, ugovori i isporuka |
-| Kupci/cijene | Definiran okvir | Svih šest C taskova; O004 ima internog ekonomskog kupca |
-| Ekonomika | Definirane formule i testovi | Svih šest D taskova; stvarni ulazi ili eksplicitni break-even scenariji, bez lažne bazne profitabilnosti |
-| Piloti | Definirani tipovi dokaza | Svih šest E taskova: DESIGN pa stvarni RESULT; ne poistovjećivati plan i izvršenje |
-| Zajednička platforma | Hipoteza iz R004 | X01 tek nakon stvarnih B arhitektura, minimalni dijeljeni opseg |
-| Investicijski zaključak | Nije donesen | X02: GO/REFRAME/HOLD/REJECT uključujući opciju ne ulagati |
+| 1 | O001 — transformatori/stručni servis | Dovršeno; [završni izvještaj](opportunities/O001_transformer_intelligence_lifecycle_service.md) |
+| 2 | O002 — inspekcije mreže | Sljedeći |
+| 3 | O003 — hidro/ROV | Preostaje |
+| 4 | O004 — proizvodnja/kvaliteta | Preostaje |
+| 5 | O005 — vlakovi/baterije/punjenje | Preostaje |
+| 6 | O006 — obnovljivi/BESS + sažeta usporedba šest prilika | Preostaje |
 
-## Neposredni red rada
+Svaka cjelina objedinjuje provjeru javnih izvora, postojeće kapacitete, kupca i cijenu, scenarije ekonomike, gapove/rizike i završnu preporuku. Nema A–E podzadataka, X01/X02, dodatnih pitanja ni čekanja na interne dokumente. Pilot i praktični ulazak opisuju se kao preporuka, ne izvršavaju se kao dio javnog istraživanja.
 
-1. O001-B: pribaviti [minimalni paket internih dokaza](validation/O001_B_evidence_request.md) u privatnom prostoru.
-2. O001-C: javni komercijalni pregled kao idući izvršivi desk task; aktualne ponude/tenderi i buyer segmentacija, bez izmišljanja intervjua.
-3. O002-A–O006-A neovisno nastaviti revalidacije.
-4. B/C → D → E po prilici; X01 i X02 po ovisnostima iz boarda.
+Nepoznate vrijednosti označiti i modelirati scenarijski. Ne zaključivati da funkcija nedostaje samo zato što javno nije opisana. Ne koristiti interni intervju ili ostvareni profit koji nije stvarno verificiran.
 
-Nisu zakazana automatska izvršavanja. Svaki task može se pokrenuti u zasebnoj sesiji pozivanjem njegovog ID-a. Trenutačno nijedna teza nije dobila E5 ni budžet za razvoj.
+Po završetku O006 javno istraživanje ovih šest prilika je zatvoreno; završna usporedba nije sedmi zadatak. Raniji detaljni backlog zamijenjen je ovim planom i ostaje u Git povijesti.

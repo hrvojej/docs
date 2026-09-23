@@ -1,18 +1,18 @@
 # Research backlog — šest završnih cjelina
 
-**22. 9. 2026. 4/6 dovršeno; 2 preostaju.**
+**23. 9. 2026. 5/6 dovršeno; preostaje O006 sa završnom usporedbom.**
 
-[Kanonski plan](validation/TASK_BOARD.md) · [Master](MASTER_INDEX.md) · [Aktualni kontekst](CURRENT_CONTEXT.md)
+[Kanonski plan](validation/TASK_BOARD.md) · [Master](MASTER_INDEX.md) · [Kontekst](CURRENT_CONTEXT.md)
 
 | Red | Cjelina | Status |
 |---|---|---|
 | 1 | O001 — transformatori/stručni servis | Dovršeno; [izvještaj](opportunities/O001_transformer_intelligence_lifecycle_service.md) |
 | 2 | O002 — inspekcije mreže | Dovršeno; [izvještaj](opportunities/O002_grid_inspection_intelligence_service.md) |
 | 3 | O003 — hidro/ROV | Dovršeno; [izvještaj](opportunities/O003_hydro_underwater_inspection_lifecycle_service.md) |
-| 4 | O004 — proizvodnja/kvaliteta | **Dovršeno**; [izvještaj](opportunities/O004_adaptive_heavy_fabrication_program.md) i [računica](sources/O004_economics_check.md) |
-| 5 | O005 — vlakovi/baterije/punjenje | **Sljedeći** |
-| 6 | O006 — obnovljivi/BESS + usporedba šest prilika | Preostaje |
+| 4 | O004 — proizvodnja/kvaliteta | Dovršeno; [izvještaj](opportunities/O004_adaptive_heavy_fabrication_program.md) |
+| 5 | O005 — vlakovi, tramvaji, baterije, ADAS i autonomija | **Dovršeno**; [izvještaj](opportunities/O005_rail_fleet_battery_intelligence_service.md) i [računica](sources/O005_economics_check.md) |
+| 6 | O006 — obnovljivi/BESS + usporedba svih šest | **Sljedeći i posljednji** |
 
-O004 zaključuje: ciljana nadogradnja postojeće prikladne ćelije/procesa, koristeći komercijalne alate. Povijesno 3× na sklopu nije 3× tvornica. Oslobođeni sati vrijede samo kroz dodatnu isporuku ili izbjegnuti stvarni trošak. Nema dvostrukog brojanja plaće/kapaciteta ni pretpostavljenog SaaS ARR-a. Scenariji nisu stvarne cijene ili dobit.
+O005 dodaje važan javni nalaz: SafeTramInstitut/FER iTMK2200 prototip2019., ne dokaz aktualnog driverless proizvoda. Zaključak: digitalni servis i sigurnosni dodatak imaju najbližu komercijalnu podlogu; pravi autonomni depo samo uz konkretan financiran opseg; javna ulična autonomija ostaje zasebno rizičan razvojni opseg unutar iste prilike. U finalnoj usporedbi ne svoditi O005 samo na baterijske vlakove.
 
-Svaka cjelina objedinjuje javne dokaze, kupca i ponudu, kompetencije, ekonomiku, rizike i završnu preporuku. Nema dodatnih pitanja, A–E/X01/X02 ni čekanja internih dokumenata. Po O006 istraživanje je zatvoreno; završna usporedba nije sedmi zadatak.
+O006 treba objediniti postojeći renewable/BESS opseg s konačnom procjenom šest prilika, bez dodavanja X01/X02, novih intervjua ili internih zahtjeva. Usporediti rizik/ponovljivost i način stvaranja vrijednosti, ne proizvoljne scenarijske profite kao da su prognoze. Nepoznato nije dokazani gap. Po završetku O006 javno istraživanje ovog plana je zatvoreno.

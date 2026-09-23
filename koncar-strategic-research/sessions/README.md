@@ -17,5 +17,6 @@
 | S011 | 2026-09-22 | [Dovršen O002](S011_2026-09-22_O002_complete.md) |
 | S012 | 2026-09-22 | [Dovršen O003](S012_2026-09-22_O003_complete.md) |
 | S013 | 2026-09-22 | [Dovršen O004 — proizvodnja i kvaliteta](S013_2026-09-22_O004_complete.md) |
+| S014 | 2026-09-23 | [Dovršen O005 — vlakovi, tramvaji i autonomija](S014_2026-09-23_O005_trains_trams_autonomy_complete.md) |
 
-Aktivni način rada iz S010: javni izvori, najviše šest procjena, bez pitanja i internih zahtjeva. O001–O004 završeni. **Sljedeći je O005 — vlakovi, baterije i punjenje.** Starije sesije čuvaju povijest, ne aktualni red rada.
+Aktivni način rada izS010: javni izvori, najviše šest procjena, bez pitanja i internih zahtjeva. O001–O005 završeni. O005 uključuje korisnikovo proširenje na tramvaje/ADAS/autonomiju. **Sljedeći i posljednji je O006, uključujući usporedbu svih šest.** Starije sesije čuvaju povijest, ne aktualni red rada.

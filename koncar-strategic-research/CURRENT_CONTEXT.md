@@ -1,14 +1,16 @@
 # CURRENT CONTEXT — učitati prvo
 
-**22. 9. 2026. Šest zadataka ukupno; O001–O004 dovršeni, O005 sljedeći.**
+**23. 9. 2026. Šest zadataka ukupno; O001–O005 dovršeni, O006 posljednji.**
 
-[MASTER_INDEX](MASTER_INDEX.md) · [TASK_BOARD](validation/TASK_BOARD.md) · [O004 — najnoviji završni izvještaj](opportunities/O004_adaptive_heavy_fabrication_program.md)
+[MASTER_INDEX](MASTER_INDEX.md) · [TASK_BOARD](validation/TASK_BOARD.md) · [O005 — najnoviji završni izvještaj](opportunities/O005_rail_fleet_battery_intelligence_service.md)
 
 ## Cilj i način rada
 
-Istražiti profitabilne proizvode, usluge ili internu produktivnost cijele KONČAR Grupe. AI, NEOS, ROV i robotika nisu unaprijed zadani pobjednici. Korisnik nema interne podatke: **bez dodatnih pitanja, samo javni online izvori, najviše šest zadataka — jedan po O001–O006**. Stari A–E/X01/X02 i plan od 32 taska nisu aktivni; R005 je arhiva, R006 tehnička podloga.
+Istražiti profitabilne proizvode, usluge ili internu produktivnost cijele KONČAR Grupe. AI, NEOS, ROV i robotika nisu unaprijed zadani pobjednici. Korisnik nema interne podatke: **bez pitanja, samo javni online izvori, najviše šest zadataka — jedan po O001–O006**. Stari A–E/X01/X02 i 32-task plan nisu aktivni; R005 je arhiva, R006 tehnička podloga.
 
-Jedan O### = završni MD s preporukom, kupcem/ponudom, izvorima, kompetencijama/gapovima, ekonomikom i rizicima. Nepoznato nije dokazani gap. Scenarij nije cjenik, ostvarena dobit, interna arhitektura ili izveden pilot. Računska kontrola i sesija nisu dodatni zadaci. Završna usporedba ide unutar O006, bez sedmog taska.
+Jedan O### = završni MD s preporukom, kupcem/ponudom, izvorima, kompetencijama/gapovima, ekonomikom i rizicima. Nepoznato nije dokazani gap. Scenarij nije cjenik, ostvarena dobit, interna arhitektura ili izveden pilot. Računska kontrola i sesija nisu dodatni taskovi. Konačna usporedba ide unutar O006, bez sedmog zadatka.
+
+**Korisnik je O005 izričito proširio na tramvaje i tramvaje koji sami voze.** To je dovršeno unutar O005: održavanje/energija, ADAS, autonomni depo i vožnja u javnom prometu. Ne izostaviti taj opseg iz završne usporedbe.
 
 ## Status
 
@@ -18,49 +20,69 @@ Jedan O### = završni MD s preporukom, kupcem/ponudom, izvorima, kompetencijama/
 | O002 | Inspekcije mreže dronovima i robotima | DOVRŠENO |
 | O003 | Podvodne hidro inspekcije | DOVRŠENO |
 | O004 | Adaptivna proizvodnja/digitalna kvaliteta | DOVRŠENO; interna ekonomika |
-| O005 | Rail fleet/battery/charging | SLJEDEĆI |
-| O006 | Renewable/BESS portfolio | Preostaje; uključuje završnu usporedbu |
+| O005 | Vlakovi i tramvaji: digitalni servis, baterije, ADAS, autonomija | DOVRŠENO |
+| O006 | Renewable/BESS portfolio + završna usporedba | SLJEDEĆI I POSLJEDNJI |
 
-O005–O006 već postoje kao podloge, ne kao završne procjene novog plana. Poveznice su u masteru.
+## O001 — trajni rezultat
 
-## Trajni rezultat O001
+[O001](opportunities/O001_transformer_intelligence_lifecycle_service.md): DA ograničenom proširenju postojećeg TMS-a i stručnog servisa; NE velikoj novoj platformi/akviziciji. Kritični transformatori s monitoringom kojima treba interpretacija. Paket u radno vrijeme, kvartalni izvještaji, bez jamstva da kvar neće nastati i novog 24/7 centra.
 
-[O001](opportunities/O001_transformer_intelligence_lifecycle_service.md): DA ograničenom komercijalnom proširenju postojećeg TMS-a i stručnog servisa; NE novoj velikoj platformi/akviziciji. Kritični transformatori s monitoringom i potrebom za stručnom interpretacijom. Početni paket u radno vrijeme, kvartalni izvještaji, bez jamstva da kvar neće nastati i bez novog 24/7 centra.
+Scenarij: P3.000/uređaj/god., C1.500, F75.000/god., I50.000. N100: prihod300.000, godišnji doprinos75.000, nakon pripreme25.000. Pokriće50/84. [Računica](sources/O001_economics_check.md). Nepoznate fleet/SLA funkcije nisu dokaz nedostatka; ako postoje, širiti prodaju. iPDCore teritorijalna napomena vrijedi za određenu tehniku, ne cijeli TMS. Povijesna isporuka nije aktivni pretplatnik; prava/certifikacije se ne prenose automatski.
 
-Scenarij: 3.000 EUR/godina/uređaj; 1.500 varijabilno, 75.000 godišnje fiksno, 50.000 početno. Pri 100 punogodišnjih uređaja 300.000 prihoda, 75.000 doprinosa nakon godišnjih troškova, 25.000 nakon pripreme. Pokriće 50 uređaja; prva godina 84. [Računica](sources/O001_economics_check.md).
+## O002 — trajni rezultat
 
-Nepoznate postojeće fleet/SLA funkcije nisu dokaz nedostatka. Ako postoje, širiti prodaju. iPDCore teritorijalna napomena vrijedi za određenu tehniku, ne cijeli TMS. Povijesna isporuka nije aktivni pretplatnik; data/IP/certifikacije se ne prenose automatski.
+[O002](opportunities/O002_grid_inspection_intelligence_service.md): DA periodičnim stručnim vizualnim/termalnim pregledima; mobilna ekipa i postojeći/partnerski hardver prvo. NE vlastitom dronu/robotu ili širokom dock rollout-u. Dva pregleda omeđene jednodnevne trafostanice godišnje, povijest/nalaz/preporuke. Dalekovode zasebno ugovarati. AI asistira, stručnjak potvrđuje; bez SCADA upravljanja.
 
-## Trajni rezultat O002
+Scenarij: P6.000/lokacija/god., C3.500, F45.000, I30.000. N50: prihod300.000, godišnji doprinos80.000, nakon pripreme50.000. Pokriće18; pri N30 prva godina nula. P4.500 pri N50 daje samo5.000/god. [Računica](sources/O002_economics_check.md). Dock zasebno:1.200/misiji mobilno nasuprot18.000/god.+150/misiji, crossover18 stvarno potrebnih istovrsnih misija na istoj lokaciji. BVLOS odobrenje mora pokriti operaciju. RTE/ANYmal2023 je evaluacija na replikama; FPL2022 najava nije aktualni broj instalacija.
 
-[O002](opportunities/O002_grid_inspection_intelligence_service.md): DA periodičnim stručnim vizualnim/termalnim pregledima; mobilna ekipa i postojeći/partnerski hardver prvo. NE vlastitom dronu/četveronožnom robotu ili širokom dock rollout-u. Dva posjeta godišnje omeđenoj jednodnevnoj trafostanici, nalaz po komponenti, povijest i preporuke. Dalekovode posebno ugovarati. AI asistira, stručnjak potvrđuje; bez upravljanja SCADA-om.
+## O003 — trajni rezultat
 
-Scenarij: 6.000 EUR/lokacija/godina, 3.500 varijabilno, 45.000 godišnje fiksno, 30.000 početno. Pri 50 lokacija 300.000 prihoda, 80.000 doprinosa, 50.000 nakon pripreme. Pokriće 18; pri 30 prva godina nula. Pri cijeni 4.500 i 50 lokacija samo 5.000 godišnje. [Računica](sources/O002_economics_check.md).
+[O003](opportunities/O003_hydro_underwater_inspection_lifecycle_service.md): DA hidro-inženjerskom nalazu uz partnersku ROV ekipu; ne vlastitom generičkom ROV razvoju. Najam same opreme traži vlastitu operativu, kupnja gotovog sustava dovoljan prikladan volumen. Početno imenovane dostupne zone, jedan terenski i tri ukupna inženjerska dana; dugi cjevovodi/NDT/3D/sanacija odvojeno.
 
-Dock zasebno: 1.200/misiji mobilno nasuprot 18.000 godišnje + 150/misiji. Jeftiniji od 18. potrebne istovrsne misije na istoj lokaciji samo u tom scenariju. BVLOS okvir mora pokrivati konkretnu operaciju. RTE/ANYmal 2023. je evaluacija na replikama; FPL 2022. objava nije aktualni ukupni broj instalacija.
+Scenarij: P6.500/kampanja,C4.200(partner2.200+inženjer1.350+put450+rezerva200),F40.000,I15.000. N40: prihod260.000, godišnje52.000, nakon pripreme37.000; pokriće18/24. P5.000 pri N40 daje−8.000; C+25% daje10.000 prije pripreme; N40 traži120 inženjerskih dana. [Računica](sources/O003_economics_check.md).
 
-## Trajni rezultat O003
+Oprema-only:K45.000,L5god.,M6.000/god.,V200/kamp.;najam600/dan×3. Godišnji prag kupnje10, prvi godišnji cash32, trogodišnji nediskontirani14/god. Kod jednog najam-dana pragovi38/128. Nije usporedba pune ekipe s golom opremom. Bez pražnjenja nije bez izolacije; video nije NDT; tether nije jamstvo povratka. Golden Falls navodi izolacije/neaktivnu turbinu; ENGIE neuspjeli prodor. HEP hidro-ugovor nije ROV narudžba. Ne dodavati sav remont/nazivnu proizvodnju kao uštedu. AI pola dana pri N40 vrijedi scenarijskih9.000 kapaciteta, ne veliki tim.
 
-[O003](opportunities/O003_hydro_underwater_inspection_lifecycle_service.md): DA pregledu i hidro-inženjerskom nalazu uz partnersku ROV ekipu. Najam same opreme traži vlastitu operativu; kupnja gotovog sustava tek uz prikladan volumen. NE vlastitom generičkom ROV razvoju. Početno imenovane dostupne zone, jedan terenski i tri ukupna inženjerska dana po kampanji; dugi cjevovodi, NDT/3D/sanacija odvojeno.
+## O004 — trajni rezultat
 
-Scenarij partnera: P 6.500, C 4.200 (partner 2.200 + inženjer 1.350 + put 450 + rezerva 200), F 40.000, I 15.000. Pri 40 kampanja 260.000 prihoda, 52.000 godišnje, 37.000 nakon pripreme. Pokriće 18 godišnje, 24 prva godina. Cijena 5.000 pri 40 kampanja daje −8.000; C +25% daje +10.000 prije pripreme. Četrdeset kampanja troši 120 inženjerskih dana. [Računica](sources/O003_economics_check.md).
+[O004](opportunities/O004_adaptive_heavy_fabrication_program.md): DA ciljanoj nadogradnji prikladne ćelije/procesa, ne vlastitom robotu ili velikoj AI platformi. Interna korist je dodatni prihvaćeni isporučeni proizvod ili izbjegnuti stvarni trošak, ne SaaS ARR/automatsko smanjenje plaće. KMK/KTK relevantni; aktualni stroj/lokacija/iskorištenost nepoznati.
 
-Oprema-only: K 45.000, 5 godina, servis 6.000/god., 200/uporaba; najam 600/dan × 3 dana. Godišnji prag kupnje 10 kampanja, prvi godišnji cash prag 32, trogodišnji nediskontirani 14/god. Ako najam samo 1 dan: 38 i 128. Nije usporedba pune ekipe s golom opremom. Bez pražnjenja nije bez izolacije; video nije kvantitativni NDT; tether nije jamstvo povratka. HEP hidro-ugovor nije ROV narudžba; Golden Falls navodi izolacije/neaktivnu turbinu; ENGIE dokumentira neuspjeli dugi prodor. Ne dodavati sav remont ili nazivnu proizvodnju kao uštedu. AI pola dana pri 40 kampanja vrijedi scenarijskih 9.000 kapaciteta, ne veliki AI tim.
+KMK objava15.2.2022:oko173.000EUR CLOOS,146.000 portal,3× učinak na određenom sklopu, ne3× tvornica. KTK otvoren23.1.2026 ima3D/NDT proces; to ne dokazuje nedostatak automatizacije. IFH2026:25–40% odabrani spremnici;15h online programiranja prema2–3h touch-up-a, ne nestanak ukupnog rada. TRT4h/36h je9:1, ne9× produktivnost. CLOOS RoboPlan/C-Gate već postoje; ne duplicirati.
 
-## Trajni rezultat O004
+Scenarij:I120.000,F20.000/god.,H neto oslobođeni sati,u75% realizirano,c150 doprinosa/realizirani sat nakon dodatnih troškova. B=H×u×c−F. H300/800/1.400 daje13.750/70.000/137.500, puni povrat8,73/1,71/0,87god. Srednji slučaj uz pola bruto učinka prve godine25.000, potom70.000/god., povrat2,36god.; petogodišnji NPV pri10% oko104.446. u25% daje10.000; c75 daje25.000; bez dodatne isporuke−20.000. 178H pokrivaF;712H podržava ilustrativni2god.povrat. Pri300H takav cilj dopušta I27.500. Bez dvostrukog brojanja istih sati kao plaće i kapaciteta. [Računica,43 testa](sources/O004_economics_check.md).
 
-[O004](opportunities/O004_adaptive_heavy_fabrication_program.md): **DA ciljanoj nadogradnji prikladne postojeće ćelije/procesa; NE vlastitom robotu ili velikoj novoj AI platformi.** Interna korist je dodatni kvalitetni isporučeni proizvod ili stvarno izbjegnuti trošak, ne SaaS ARR ni automatsko smanjenje plaće. KMK i KTK su relevantne domene; današnje lokacije, generacije kontrolera i iskorištenost nisu javno potvrđene.
+## O005 — novi trajni rezultat, uključujući tramvaje
 
-Javna KMK objava od 15. 2. 2022. navodi oko 173.000 EUR za CLOOS stanicu i 146.000 za portal, uz 3× učinak na određenom sklopu. To nije aktualni cjenik ni 3× tvornica. KTK otvoren 23. 1. 2026. ima proces izrade prema nacrtima/3D i NDT; to ne dokazuje nepostojanje automatizacije. Miller/IFH 2026. opisuje 25–40% na odabranim spremnicima; online programiranje 15 h prema 2–3 h touch-up-a, ne nestanak svih programerskih sati. TRT 4 h/36 h = 9:1, ne 9× produktivnost. CLOOS već nudi RoboPlan i C-Gate; ne ponovno razvijati iste osnovne funkcije.
+[O005](opportunities/O005_rail_fleet_battery_intelligence_service.md) preporučuje **digitalni servis vlakova/tramvaja i tramvajski sigurnosni dodatak kao najbliže naplative proizvode; autonomni depo selektivno uz konkretnog operatora/budžet; puna ulična autonomija kao razvojna opcija, ne prvo samostalno veliko ulaganje.** Vlastiti KONČAR proizvod ima smisla; ne svoditi preporuku na preprodaju.
 
-Preporučeni obuhvat: jedna ćelija i 2–3 obitelji; offline programiranje, pozicioniranje/seam sensing prema potrebi i veza izvedbe s kvalitetom. Optička geometrija nije volumetrijski NDT. AI može asistirati odstupanjima/izvještajima; ne samostalno mijenjati kvalificirane postupke. Stvarni API/MES/ERP/cloud i ugovorna prava nisu izmišljeni.
+### Ključni novi dokaz: SafeTram
 
-**Scenarij:** I 120.000, F 20.000/god.; H neto oslobođeni sati ćelije, u 75% stvarno realizirano, c 150 EUR doprinosa po realiziranom satu nakon dodatnih proizvodnih troškova. B = H×u×c−F. H 300/800/1.400 daje B 13.750/70.000/137.500; jednostavni puni povrat 8,73/1,71/0,87 godina. Srednji slučaj s pola bruto učinka u prvoj godini daje 25.000, potom 70.000/god.; povrat 2,36 godina. Petogodišnji pretporezni NPV pri scenarijskih 10% oko 104.446. Pri u25% B10.000; pri c75 B25.000; bez prodaje B−20.000. Nema zbrajanja istih sati kao plaće i kapaciteta; nema pretpostavljenog vanjskog ARR-a. [43 provjere i ponovljena računica](sources/O004_economics_check.md).
+Institut/FER SafeTram2016.–2020.; prototip testiran naTMK2200 24.9.2019. za senzore, otkrivanje vozila/pješaka i upozorenja. To dokazuje tramvajski razvojni trag percepcije/AI-a. **Ne dokazuje današnju serijsku homologaciju, automatsko kočenje, autonomnu vožnju, prodaju ni raspoloživ tim.** FER je akademski partner, ne društvo Grupe; ciljani patent nije dokaz dodijeljenog IP-a. S03–S05 u završnom izvještaju.
 
-178 H pokriva godišnji F; 712 H podržava ilustrativni dvogodišnji povrat pri punom učinku. Pri samo300H takav cilj dopušta I27.500, ne120.000. Savings-only 26.000 izbjegnutih vanjskih troškova minus20.000 daje6.000 i povrat20god., odvojeno. Sve su pretpostavke, bez poreza/financiranja/radnog kapitala. Serijski primjer 8h zavarivanja+16h ostalo, zavarivanje3×, daje samo28,6% teorijskog izlaza; nije model stvarne tvornice.
+### Tržište i razlike
 
-## Nastavak
+AlstomHealthHub u Dubai tram održavanju od2021.; DPP nabava52T uključuje anti-collision; Bosch/Alstom nude driver-assistance. ŠkodaTampere2025 opisuje pilot,2026 implementaciju; Mannheim27.5.2026 je demonstracija. SiemensAStriD cilj2026 iz2021. nije potvrda ispunjenja. Moskva ima javnu automatsku putničku liniju, ali službeni opis navodi osobu u vozilu spremnu intervenirati. Ne pripisati automatski uštedu svih vozačkih plaća.
 
-**Dovršiti O005 u jednoj cjelini:** postojeći KONČAR rail/battery/charging proizvodi i centralna platforma, stvarni vanjski komercijalni primjeri, naplativi dodatak, scenariji, data/IP i konačna preporuka. Razlikovati BMS/SOC prikaz od validiranog SOH/RUL i dodatne vrijednosti optimizacije. MERMEC sustav nije automatski KONČAR IP. Ne postavljati pitanja i ne vraćati A–E taskove.
+**Baterijska autonomija nije vožnja bez vozača. ADAS nije puna autonomija. Depot nije cijela gradska mreža.** Autonomni depot uključuje vozilo, lokalizaciju, skretnice/odobrenje trase, zaštitu ljudi, nadzor i siguran prekid, ne samo kameru.
 
-R001–R004, E001–E019 i B001–B006 su povijesne podloge. Ključne tvrdnje provjeriti online unutar preostalog O###. Aktualni završni izvještaji imaju prednost. Najnovija sesija: [S013](sessions/S013_2026-09-22_O004_complete.md). Nema pozadinskog izvršavanja.
+KONČAR centralna platforma u2025. bila je najavljena kao razvoj; Kotoriba/šestBEMU ugovor2026. predviđa2028./2029., nije današnji operativni rezultat. SOC nije validiraniSOH/RUL. MERMEC mjerni sustav nije automatskiKONČAR IP. Analitički cloud/LLM ne smije biti nekontrolirani put do kočenja. As-builtAPI/protokoli nisu izmišljeni.
+
+### Četiri odvojena scenarija
+
+**A — prihod pružatelja digitalnog servisa:** P4.500/vozilo/god.,C1.800(12h×90+240podaci+480podrška),F90.000,I100.000. Na100 punogodišnjih vozila prihod450.000,doprinos180.000,prva godina nakonI80.000. Pokriće34/71. P3.000 na100 daje30.000 prijeI;C+50% daje90.000. Vrijedi za ograničen ponovljiv paket na srodnim povezivim vozilima, ne sve vlakove/tramvaje jednako. Nema ponovnog brojanja već ugovorenog servisa.
+
+**B — projektni ADAS dodatak:** P35.000,C25.000,I300.000 za jednu kompatibilnu seriju i postojeću kvalificiranu osnovu. Na50 ugradnji prihod1,75milijuna,projektni doprinos200.000 prije neobuhvaćene godišnje režije; prag30. Nije godišnjiARR ni cijena razvoja punog autonomnog sustava. Ako ilustrativni preostali razvojI2milijuna, treba200 ugradnji uz isti10.000doprinos. To nije gornja granica budžeta autonomije.
+
+**C — kupčeva korist autonomnog depoa, ne KONČAR profit:**60tramvaja,330d,35EUR/h,u75%,K1,5milijuna,F100.000/god. Pola sata stvarno oslobođenog rada/vozilo/dan daje159.875/god.,povrat9,38god.;sat419.750 i3,57god. Petogodišnji prag46,18min. Pri pola sata i u25% rezultat−13.375. Pola bruto učinka prve godine u boljem slučaju produljuje povrat na4,19god. Vrijeme pranja bez potrebnog ljudskog angažmana nije ušteđeni rad; preostali nadzor nije besplatan.
+
+**D — energetika:**1.000MWh×30%pomaknuto×20EUR/MWh=6.000gross;dodatna degradacija/gubici/podrška8.000 daju−2.000. Sve pretpostavke, ne cijena energije. Ne zbrajati ove modele.
+
+[Računica O005](sources/O005_economics_check.md):51/51 provjera, dvostruko izvršavanje s identičnim rezultatima i lokalni DEBUG. Svi modeli izričiti scenariji, ne potvrđena cijena/profit. Bez poreza/financiranja/radnog kapitala; potrebni stvarni dodaci mijenjaju rezultat. U O005 su23 primarna izvora s datumima i ograničenjima.
+
+## Nastavak — posljednji zadatak
+
+**Dovršiti O006 u jednoj cjelini:** renewable/BESS portfolio, postojeći KONBAT/EMS/control-center javni dokazi, komercijalni primjeri, prikladna ponuda, scenariji i rizici. Odvojiti postojeći lokalni EMS od nove portfolio optimizacije i neto korist nakon degradacije/balancinga. Ne izmišljati interna prava ili raspoložive podatke.
+
+**Unutar istog O006 uključiti završnu usporedbu svih šest:** servisni prihodO001–O003, interna produktivnostO004, digitalni i sigurnosni proizvod/tramvajska autonomijaO005 i energijaO006. Ne rangirati samo prema proizvoljnim iznosima scenarija; odvojiti tržišni dokaz, fit, razvojni rizik, ponovljivost i način stvaranja profita. Time završiti plan, bez novog istraživačkog taska.
+
+R001–R004,E001–E019,B001–B006 ostaju povijesne podloge. Aktualni završni izvještaji imaju prednost. Najnovija sesija:[S014](sessions/S014_2026-09-23_O005_trains_trams_autonomy_complete.md). Nema pozadinskog izvršavanja niti čekanja korisnika.

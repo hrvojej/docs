@@ -1,22 +1,22 @@
-# Research plan — najviše šest zadataka
+# Research plan — šest zadataka dovršeno
 
-**23. 9. 2026. Status: 5/6 dovršeno. Sljedeći i posljednji: O006.**
+**23. 9. 2026. Status: 6/6 DOVRŠENO. Program zatvoren.**
 
-[Glavni indeks](../MASTER_INDEX.md) · [Kontekst za novi chat](../CURRENT_CONTEXT.md)
+[Glavni indeks](../MASTER_INDEX.md) · [Kontekst](../CURRENT_CONTEXT.md) · **[Završna usporedba](../opportunities/O006_renewable_bess_intelligence_optimization_service.md#usporedba)**
 
-Javni online izvori, bez pitanja korisniku ili čekanja internih podataka. Jedan završni izvještaj po prilici; stari32-task/A–E/X01/X02 plan nije aktivan. Tramvaji i autonomija uključeni su u O005 prema dodatnom zahtjevu korisnika, bez povećanja broja zadataka.
+Javni online izvori, bez pitanja korisniku i čekanja internih podataka. Jedan završni izvještaj po prilici. Tramvaji i autonomna vožnja uključeni u O005; završna usporedba svih šest u O006. Računice i sažeci sesija nisu dodatni zadaci. Nema sedmog taska.
 
-| Zadatak | Jedan cjelovit rezultat | Status / dokument |
+| Zadatak | Obuhvat završne procjene | Status / dokument |
 |---|---|---|
-| O001 — transformatori | Postojeći TMS, kupac/konkurencija, ekonomika i prava | DOVRŠENO. [Izvještaj](../opportunities/O001_transformer_intelligence_lifecycle_service.md): proširenje stručnog servisa |
-| O002 — mreža | Dron/robot/usluga, tržište, troškovi i granice autonomije | DOVRŠENO. [Izvještaj](../opportunities/O002_grid_inspection_intelligence_service.md): mobilna stručna usluga prvo |
-| O003 — hidro/ROV | Partner/najam/kupnja, mjerenje/sigurnost, kampanja i ekonomika | DOVRŠENO. [Izvještaj](../opportunities/O003_hydro_underwater_inspection_lifecycle_service.md): partnerska ekipa uz hidro-servis |
-| O004 — proizvodnja | Zavarivanje/kvaliteta, neto kapacitet, dorade i ulaganja | DOVRŠENO. [Izvještaj](../opportunities/O004_adaptive_heavy_fabrication_program.md): ciljana nadogradnja procesa |
-| O005 — vlakovi i tramvaji | Digitalni servis, baterije/punjenje, SafeTram/ADAS, autonomni depo i javna vožnja; odvojena ekonomika | **DOVRŠENO.** [Izvještaj](../opportunities/O005_rail_fleet_battery_intelligence_service.md) i [računica](../sources/O005_economics_check.md). Digitalni/sigurnosni proizvod prvo; selektivna depot autonomija |
-| O006 — obnovljivi/BESS | Portfolio/EMS/optimizacija, tržište, kompetencije, ekonomika i konačna usporedba svih šest | **SLJEDEĆI I POSLJEDNJI.** [Postojeća podloga](../opportunities/O006_renewable_bess_intelligence_optimization_service.md) |
+| O001 — transformatori | TMS, stručni servis, kupci, konkurencija, scenariji i prava | **DOVRŠENO.** [O001](../opportunities/O001_transformer_intelligence_lifecycle_service.md) · [Računica](../sources/O001_economics_check.md) |
+| O002 — mreža | Mobilni dron/robot servis, podaci, granice autonomije i ekonomika | **DOVRŠENO.** [O002](../opportunities/O002_grid_inspection_intelligence_service.md) · [Računica](../sources/O002_economics_check.md) |
+| O003 — hidro/ROV | Partner/najam/kupnja, mjerenja/sigurnost, kampanja i ekonomika | **DOVRŠENO.** [O003](../opportunities/O003_hydro_underwater_inspection_lifecycle_service.md) · [Računica](../sources/O003_economics_check.md) |
+| O004 — proizvodnja | Zavarivanje/kvaliteta, neto kapacitet, dorade i ulaganja | **DOVRŠENO.** [O004](../opportunities/O004_adaptive_heavy_fabrication_program.md) · [Računica](../sources/O004_economics_check.md) |
+| O005 — vlakovi i tramvaji | Digitalni servis, baterije/punjenje, SafeTram/ADAS, autonomni depo i javni promet | **DOVRŠENO.** [O005](../opportunities/O005_rail_fleet_battery_intelligence_service.md) · [Računica](../sources/O005_economics_check.md) |
+| O006 — obnovljivi/BESS | Postojeći EMS, portfolio servis, optimizacija, tržišna uloga i završna usporedba svih šest | **DOVRŠENO.** [O006](../opportunities/O006_renewable_bess_intelligence_optimization_service.md) · [Računica](../sources/O006_economics_check.md) |
 
-## Pravilo završetka
+## Što status znači
 
-Jedan O### = završni MD s izvorima, zaključkom, kupcem/ponudom, kompetencijama/gapovima, ekonomikom, rizicima i praktičnim početkom. Nepoznato nije dokaz nedostatka; nedostupni troškovi/cijene su eksplicitni scenariji. Dovršen research nije ostvaren profit ili izveden pilot. Preporučeni razvoj/pilot dio je poslovne preporuke, ne novi obvezni task.
+Dovršena javna procjena daje poslovnu preporuku uz navedene činjenice, pretpostavke i ograničenja. Ne znači ostvareni profit, interni due diligence ili izvedeni pilot. Nepoznato nije dokaz nedostatka, a hipotetska cijena nije tržišni cjenik. Praktični početak/pilot u izvještaju je poslovna preporuka, ne preostali istraživački task.
 
-Po svakom O### ažurirati ovaj status, MASTER_INDEX,CURRENT_CONTEXT i sesiju; računski prilog nije dodatni zadatak. U O006 usporediti i prošireni tramvajski/autonomni opseg O005. Završna usporedba nije sedmi zadatak. [Stari plan u Git povijesti](https://github.com/hrvojej/docs/blob/2cace00ad7c9a03523111c67d6860b7cd30f1560/koncar-strategic-research/validation/TASK_BOARD.md) ostaje arhiva. Nema automatskog pozadinskog rada.
+[Stari plan od 32 zadatka](https://github.com/hrvojej/docs/blob/2cace00ad7c9a03523111c67d6860b7cd30f1560/koncar-strategic-research/validation/TASK_BOARD.md) ostaje isključivo povijesna arhiva. Nema aktivnih A–E/X01/X02 preduvjeta niti automatskog pozadinskog rada.

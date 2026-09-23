@@ -2,7 +2,7 @@
 
 **23. 9. 2026. — 6/6 ZAVRŠNIH PROCJENA DOVRŠENO.**
 
-**[Završna usporedba i preporuke](opportunities/O006_renewable_bess_intelligence_optimization_service.md#usporedba)** · [CURRENT_CONTEXT — za novi chat](CURRENT_CONTEXT.md) · [Šest zadataka](validation/TASK_BOARD.md) · [Najnoviji O006](opportunities/O006_renewable_bess_intelligence_optimization_service.md)
+**[D001 — Execution Roadmap](decisions/D001_portfolio_execution_roadmap_2026-09-23.md)** · [Završna usporedba](opportunities/O006_renewable_bess_intelligence_optimization_service.md#usporedba) · [CURRENT_CONTEXT — za novi chat](CURRENT_CONTEXT.md) · [Šest zadataka](validation/TASK_BOARD.md) · [Najnoviji O006](opportunities/O006_renewable_bess_intelligence_optimization_service.md)
 
 Javni online izvori, bez dodatnih pitanja korisniku i internih zahtjeva. Završna usporedba je dio O006, ne sedmi zadatak. Tramvaji i autonomija uključeni su u O005 i zaključnu usporedbu. Nepoznato nije dokazani gap; financijski scenariji nisu cijene, narudžbe ili ostvaren profit. Dovršena procjena nije provedeni pilot, interni due diligence ili pravno iscrpan aktualni registar Grupe.
 
@@ -22,6 +22,14 @@ Javni online izvori, bez dodatnih pitanja korisniku i internih zahtjeva. Završn
 ## Završna sinteza
 
 Za bliži poslovni učinak: O004 i O001. Za specifični vlastiti razvoj: O005 i O006. O002/O003 kao servisne dopune prema narudžbi. To je analitička preporuka iz završnih dokumenata, ne kvantificirani rang verificiranih prinosa. Različite scenarijske količine i modele pružatelja/kupca ne zbrajati u profit Grupe.
+
+## Odluke / execution
+
+| ID | Dokument | Status |
+|---|---|---|
+| D001 | [Portfolio Execution Roadmap](decisions/D001_portfolio_execution_roadmap_2026-09-23.md) | Preporučeni slijed izvedbe nakon O001–O006 |
+
+[Pregled odluka](decisions/README.md).
 
 ## Metode i mape
 

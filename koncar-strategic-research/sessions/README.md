@@ -21,5 +21,6 @@
 | S013 | 2026-09-22 | [Dovršen O004](S013_2026-09-22_O004_complete.md) |
 | S014 | 2026-09-23 | [Dovršen O005 — vlakovi/tramvaji/autonomija](S014_2026-09-23_O005_trains_trams_autonomy_complete.md) |
 | S015 | 2026-09-23 | [Dovršen O006 i završna usporedba 6/6](S015_2026-09-23_O006_final_synthesis_complete.md) |
+| S016 | 2026-09-23 | [D001 execution roadmap](S016_2026-09-23_D001_execution_roadmap.md) |
 
 S010 ukinuo je 32-task proces iz S009. S011–S015 zatvaraju ostale prilike, a S015 cijeli dogovoreni javni research. Stariji zapisi čuvaju povijest; nisu novi aktivni preduvjeti. Dovršeno ne znači provedenu primjenu ili dokazan profit. Nema sedmog zadatka.

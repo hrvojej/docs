@@ -16,3 +16,14 @@
 Svaka cjelina sadrži javne dokaze, kupca i ponudu, kompetencije, scenarije ekonomike, rizike i odluku. Nije potrebno otvarati podzadatke A–E, X01/X02, tražiti korisnikove dokumente ili obavljati intervju da bi ovaj research bio dovršen. Stari plan je arhiva.
 
 Nedostupni stvarni troškovi, pravni detalji i interne implementacije ostaju jasno navedene granice procjene. Završene procjene nisu izvedeni piloti ili potvrđena dobit. Praktična primjena pripada eventualnom budućem poslovnom projektu, ne dodatnom zadatku ovog programa.
+
+
+## Post-research execution
+
+Javni research nema preostalih taskova. Preporučeni operativni nastavak je u [D001](decisions/D001_portfolio_execution_roadmap_2026-09-23.md).
+
+D001 nije novi research backlog nego okvir stvarnog projekta:
+- O001 commercial packaging;
+- O004 one-cell/process proof;
+- O005/O006 narrow product briefs/MVPs;
+- O002/O003 only on customer demand.

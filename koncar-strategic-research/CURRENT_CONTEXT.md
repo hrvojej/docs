@@ -2,7 +2,7 @@
 
 **23. 9. 2026. — PROGRAM DOVRŠEN, 6/6 javnih procjena.**
 
-[Glavni indeks](MASTER_INDEX.md) · [Završna usporedba](opportunities/O006_renewable_bess_intelligence_optimization_service.md#usporedba) · [Šest završenih zadataka](validation/TASK_BOARD.md) · [Najnovija sesija S015](sessions/S015_2026-09-23_O006_final_synthesis_complete.md)
+[Glavni indeks](MASTER_INDEX.md) · **[D001 execution roadmap](decisions/D001_portfolio_execution_roadmap_2026-09-23.md)** · [Završna usporedba](opportunities/O006_renewable_bess_intelligence_optimization_service.md#usporedba) · [Šest završenih zadataka](validation/TASK_BOARD.md) · [Najnovija sesija S015](sessions/S015_2026-09-23_O006_final_synthesis_complete.md)
 
 ## Cilj i korisnikove odluke
 
@@ -11,6 +11,22 @@ Istražiti realne nove proizvode, usluge ili internu produktivnost cijele KONČA
 Korisnik nema interne informacije. Bez dodatnih pitanja, intervjua kao preduvjeta ili čekanja internih arhitektura. Tražio je najviše šest cjelina — O001–O006. Raniji 32-task/A–E/X01/X02 plan ukinut je; R005 je arhiva, R006 tehnička podloga. Korisnik je O005 proširio na tramvaje i tramvaje koji sami voze; taj opseg ostaje u završnoj usporedbi.
 
 Jedan O### = završna javna procjena i MD s izvorima, kupcem/ponudom, kompetencijama/gapovima, ekonomikom i rizicima. Nepoznato nije dokazani nedostatak. Cijene/troškovi su izričite pretpostavke gdje nisu javni. Dovršeno nije tvrdnja o izvedenoj primjeni, odobrenju ulaganja ili dokazanom profitu.
+
+## Execution roadmap nakon završetka researcha
+
+[D001](decisions/D001_portfolio_execution_roadmap_2026-09-23.md) prevodi šest prilika u četiri tracka:
+
+- **komercijalizacija postojeće osnove:** O001;
+- **interna produktivnost:** O004;
+- **vlastiti strateški proizvodi:** O005 + O006;
+- **partnerske servisne prilike:** O002 + O003.
+
+Preporučeni slijed:
+- **0–90 dana:** paketirati O001 i dokazati O004 na jednoj ćeliji/procesu;
+- **3–9 mjeseci:** uski O005 rail/tram digital/ADAS proizvod i uski O006 renewable/BESS performance proizvod;
+- **po narudžbi:** O002 i O003 uz partner hardware.
+
+Ne osnivati šest jednakih programa ni generičku AI/robotics platformu.
 
 ## Konačna preporuka
 
